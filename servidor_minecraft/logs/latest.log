@@ -5109,3 +5109,25 @@ java.lang.IllegalArgumentException: Can't find block outer_end:himmel_vertical_s
 [29Dec2024 23:36:25.476] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting fr/rakambda/fallingtree/common/tree/TreePartType
 [29Dec2024 23:36:26.597] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/supermartijn642/core/item/BaseBlockItem$InteractionFeedback
 [29Dec2024 23:37:04.682] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [joselete123: Set the time to 1000]
+[29Dec2024 23:38:26.356] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [joselete123: Teleported joselete123 to carloselpillo]
+[29Dec2024 23:41:52.114] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [carloselpillo: Teleported carloselpillo to joselete123]
+[29Dec2024 23:47:37.870] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [joselete123: Set the time to 1000]
+[29Dec2024 23:47:57.651] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [joselete123: Teleported joselete123 to carloselpillo]
+[29Dec2024 23:47:58.940] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: myser444[/127.148.57.27:59929] logged in with entity id 31847 at (5772.280957645066, 9.001335979112149, 760.5611389279545)
+[29Dec2024 23:47:58.945] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to myser444
+[29Dec2024 23:47:58.945] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to myser444
+[29Dec2024 23:47:58.946] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to myser444
+[29Dec2024 23:47:58.946] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to myser444
+[29Dec2024 23:47:58.949] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to myser444
+[29Dec2024 23:47:58.950] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to myser444
+[29Dec2024 23:47:58.950] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to myser444
+[29Dec2024 23:47:58.980] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: myser444 joined the game
+[29Dec2024 23:47:59.102] [Server thread/INFO] [Jade/]: Syncing config to myser444 (bf99e74b-a15b-39e5-b20b-a65e6dee0df2)
+[29Dec2024 23:48:02.482] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2806ms or 56 ticks behind
+[29Dec2024 23:48:33.649] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 16173ms or 323 ticks behind
+[29Dec2024 23:48:51.246] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2620ms or 52 ticks behind
+[29Dec2024 23:49:37.375] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [carloselpillo: Teleported carloselpillo to joselete123]
+[29Dec2024 23:50:48.803] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [joselete123: Teleported joselete123 to carloselpillo]
+[29Dec2024 23:51:20.815] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [carloselpillo: Teleported carloselpillo to joselete123]
+[29Dec2024 23:52:08.650] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [joselete123: Set the weather to clear]
+[29Dec2024 23:57:46.370] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [joselete123: Set the time to 1000]

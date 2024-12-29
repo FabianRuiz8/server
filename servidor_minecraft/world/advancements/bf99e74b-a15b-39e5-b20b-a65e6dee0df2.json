@@ -12610,33 +12610,45 @@
     },
     "done": true
   },
-  "mcwbridges:recipes/andesite_bridge_stair": {
+  "minecraft:recipes/decorations/mossy_stone_brick_wall": {
     "criteria": {
-      "has_planks": "2024-12-29 20:57:20 +0000"
+      "has_mossy_stone_bricks": "2024-12-29 19:59:15 +0000"
     },
     "done": true
   },
-  "create:recipes/building_blocks/scoria_from_stone_types_scoria_stonecutting": {
+  "minecraft:recipes/building_blocks/mossy_stone_brick_stairs": {
     "criteria": {
-      "has_stone_types_scoria": "2024-12-29 20:56:18 +0000"
+      "has_mossy_stone_bricks": "2024-12-29 19:59:15 +0000"
     },
     "done": true
   },
-  "securitycraft:recipes/building_blocks/secret_birch_sign_item": {
+  "minecraft:recipes/building_blocks/mossy_stone_brick_slab": {
     "criteria": {
-      "has_sign": "2024-12-29 21:04:53 +0000"
+      "has_mossy_stone_bricks": "2024-12-29 19:59:15 +0000"
     },
     "done": true
   },
-  "create:recipes/building_blocks/polished_cut_andesite_stairs_from_stone_types_andesite_stonecutting": {
+  "minecraft:recipes/building_blocks/mossy_stone_brick_stairs_from_mossy_stone_brick_stonecutting": {
     "criteria": {
-      "has_stone_types_andesite": "2024-12-29 20:57:20 +0000"
+      "has_mossy_stone_bricks": "2024-12-29 19:59:15 +0000"
     },
     "done": true
   },
-  "new_slab_variants:recipes/building_blocks/redstone_block_slab": {
+  "minecraft:recipes/building_blocks/mossy_stone_brick_slab_from_mossy_stone_brick_stonecutting": {
     "criteria": {
-      "has_redstone_block": "2024-12-29 22:12:55 +0000"
+      "has_mossy_stone_bricks": "2024-12-29 19:59:15 +0000"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/balustrade_mossy_stone_bricks_bridge": {
+    "criteria": {
+      "has_planks": "2024-12-29 19:59:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/mossy_stone_brick_wall_from_mossy_stone_brick_stonecutting": {
+    "criteria": {
+      "has_mossy_stone_bricks": "2024-12-29 19:59:15 +0000"
     },
     "done": true
   },
@@ -12652,117 +12664,9 @@
     },
     "done": true
   },
-  "croptopia:recipes/potato_chips": {
-    "criteria": {
-      "has_potato": "2024-12-29 21:23:53 +0000"
-    },
-    "done": true
-  },
-  "new_slab_variants:recipes/building_blocks/stripped_cherry_log_slab": {
-    "criteria": {
-      "has_stripped_cherry_log": "2024-12-29 20:11:20 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/polished_cut_scoria_from_stone_types_scoria_stonecutting": {
-    "criteria": {
-      "has_stone_types_scoria": "2024-12-29 20:56:18 +0000"
-    },
-    "done": true
-  },
-  "securitycraft:recipes/building_blocks/secret_birch_hanging_sign": {
-    "criteria": {
-      "has_sign": "2024-12-29 21:04:53 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/cut_scoria_slab_from_stone_types_scoria_stonecutting": {
-    "criteria": {
-      "has_stone_types_scoria": "2024-12-29 20:56:18 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/mossy_stone_brick_wall": {
-    "criteria": {
-      "has_mossy_stone_bricks": "2024-12-29 19:59:15 +0000"
-    },
-    "done": true
-  },
-  "securitycraft:recipes/building_blocks/secret_cherry_hanging_sign": {
-    "criteria": {
-      "has_sign": "2024-12-29 21:04:53 +0000"
-    },
-    "done": true
-  },
   "create:recipes/building_blocks/small_calcite_brick_stairs_from_stone_types_calcite_stonecutting": {
     "criteria": {
       "has_stone_types_calcite": "2024-12-29 19:59:34 +0000"
-    },
-    "done": true
-  },
-  "biomesoplenty:recipes/building_blocks/mahogany_wood": {
-    "criteria": {
-      "has_log": "2024-12-29 20:05:04 +0000"
-    },
-    "done": true
-  },
-  "biomesoplenty:recipes/building_blocks/mahogany_planks": {
-    "criteria": {
-      "has_logs": "2024-12-29 20:05:04 +0000"
-    },
-    "done": true
-  },
-  "securitycraft:recipes/building_blocks/secret_acacia_sign_item": {
-    "criteria": {
-      "has_sign": "2024-12-29 21:04:53 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/stripped_cherry_wood": {
-    "criteria": {
-      "has_log": "2024-12-29 20:11:20 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/small_andesite_brick_stairs_from_stone_types_andesite_stonecutting": {
-    "criteria": {
-      "has_stone_types_andesite": "2024-12-29 20:57:20 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/misc/crafting/palettes/scorchia": {
-    "criteria": {
-      "has_item": "2024-12-29 20:56:18 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/layered_scoria_from_stone_types_scoria_stonecutting": {
-    "criteria": {
-      "has_stone_types_scoria": "2024-12-29 20:56:18 +0000"
-    },
-    "done": true
-  },
-  "supplementaries:recipes/sign_post_oak": {
-    "criteria": {
-      "has_oak_sign": "2024-12-29 21:04:53 +0000"
-    },
-    "done": true
-  },
-  "securitycraft:recipes/misc/block_pocket_manager": {
-    "criteria": {
-      "has_redstone_block": "2024-12-29 22:12:55 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/scoria_pillar_from_stone_types_scoria_stonecutting": {
-    "criteria": {
-      "has_stone_types_scoria": "2024-12-29 20:56:18 +0000"
-    },
-    "done": true
-  },
-  "mcwbridges:recipes/andesite_bridge": {
-    "criteria": {
-      "has_planks": "2024-12-29 20:57:20 +0000"
     },
     "done": true
   },
@@ -12772,135 +12676,9 @@
     },
     "done": true
   },
-  "create:recipes/building_blocks/polished_cut_andesite_from_stone_types_andesite_stonecutting": {
-    "criteria": {
-      "has_stone_types_andesite": "2024-12-29 20:57:20 +0000"
-    },
-    "done": true
-  },
-  "securitycraft:recipes/building_blocks/secret_jungle_sign_item": {
-    "criteria": {
-      "has_sign": "2024-12-29 21:04:53 +0000"
-    },
-    "done": true
-  },
-  "decorative_blocks:recipes/building_blocks/cherry_beam": {
-    "criteria": {
-      "has_stripped_log": "2024-12-29 20:11:20 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/polished_andesite_stairs_from_andesite_stonecutting": {
-    "criteria": {
-      "has_andesite": "2024-12-29 20:57:20 +0000"
-    },
-    "done": true
-  },
-  "securitycraft:recipes/building_blocks/secret_acacia_hanging_sign": {
-    "criteria": {
-      "has_sign": "2024-12-29 21:04:53 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/layered_andesite_from_stone_types_andesite_stonecutting": {
-    "criteria": {
-      "has_stone_types_andesite": "2024-12-29 20:57:20 +0000"
-    },
-    "done": true
-  },
-  "securitycraft:recipes/building_blocks/secret_sign_item": {
-    "criteria": {
-      "has_sign": "2024-12-29 21:04:53 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/baked_potato_from_campfire_cooking": {
-    "criteria": {
-      "has_potato": "2024-12-29 21:23:53 +0000"
-    },
-    "done": true
-  },
   "create:recipes/building_blocks/cut_calcite_slab_from_stone_types_calcite_stonecutting": {
     "criteria": {
       "has_stone_types_calcite": "2024-12-29 19:59:34 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/small_scoria_brick_stairs_from_stone_types_scoria_stonecutting": {
-    "criteria": {
-      "has_stone_types_scoria": "2024-12-29 20:56:18 +0000"
-    },
-    "done": true
-  },
-  "securitycraft:recipes/building_blocks/secret_mangrove_hanging_sign": {
-    "criteria": {
-      "has_sign": "2024-12-29 21:04:53 +0000"
-    },
-    "done": true
-  },
-  "securitycraft:recipes/building_blocks/secret_warped_sign_item": {
-    "criteria": {
-      "has_sign": "2024-12-29 21:04:53 +0000"
-    },
-    "done": true
-  },
-  "sophisticatedbackpacks:recipes/misc/diamond_backpack": {
-    "criteria": {
-      "has_gold_backpack": "2024-12-29 21:35:26 +0000"
-    },
-    "done": true
-  },
-  "super_ore_block:recipes/building_blocks/super_redstone_block_from_redstone_block": {
-    "criteria": {
-      "has_redstone_block": "2024-12-29 22:12:55 +0000"
-    },
-    "done": true
-  },
-  "securitycraft:recipes/building_blocks/secret_jungle_hanging_sign": {
-    "criteria": {
-      "has_sign": "2024-12-29 21:04:53 +0000"
-    },
-    "done": true
-  },
-  "securitycraft:recipes/building_blocks/secret_dark_oak_sign_item": {
-    "criteria": {
-      "has_sign": "2024-12-29 21:04:53 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/redstone": {
-    "criteria": {
-      "has_redstone_block": "2024-12-29 22:12:55 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/small_scoria_brick_wall_from_stone_types_scoria_stonecutting": {
-    "criteria": {
-      "has_stone_types_scoria": "2024-12-29 20:56:18 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/andesite_slab_from_andesite_stonecutting": {
-    "criteria": {
-      "has_andesite": "2024-12-29 20:57:20 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/polished_cut_scoria_wall_from_stone_types_scoria_stonecutting": {
-    "criteria": {
-      "has_stone_types_scoria": "2024-12-29 20:56:18 +0000"
-    },
-    "done": true
-  },
-  "mcwpaths:recipes/andesite": {
-    "criteria": {
-      "has_wood": "2024-12-29 20:57:20 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/cut_andesite_brick_wall_from_stone_types_andesite_stonecutting": {
-    "criteria": {
-      "has_stone_types_andesite": "2024-12-29 20:57:20 +0000"
     },
     "done": true
   },
@@ -12916,36 +12694,6 @@
     },
     "done": true
   },
-  "securitycraft:recipes/building_blocks/secret_cherry_sign_item": {
-    "criteria": {
-      "has_sign": "2024-12-29 21:04:53 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/andesite_pillar_from_stone_types_andesite_stonecutting": {
-    "criteria": {
-      "has_stone_types_andesite": "2024-12-29 20:57:20 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/mossy_stone_brick_stairs": {
-    "criteria": {
-      "has_mossy_stone_bricks": "2024-12-29 19:59:15 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/baked_potato_from_smoking": {
-    "criteria": {
-      "has_potato": "2024-12-29 21:23:53 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/polished_cut_andesite_wall_from_stone_types_andesite_stonecutting": {
-    "criteria": {
-      "has_stone_types_andesite": "2024-12-29 20:57:20 +0000"
-    },
-    "done": true
-  },
   "create:recipes/building_blocks/cut_calcite_stairs_from_stone_types_calcite_stonecutting": {
     "criteria": {
       "has_stone_types_calcite": "2024-12-29 19:59:34 +0000"
@@ -12958,51 +12706,9 @@
     },
     "done": true
   },
-  "create:recipes/building_blocks/cut_andesite_brick_stairs_from_stone_types_andesite_stonecutting": {
-    "criteria": {
-      "has_stone_types_andesite": "2024-12-29 20:57:20 +0000"
-    },
-    "done": true
-  },
-  "croptopia:gather_savanna": {
-    "criteria": {
-      "hops_seed": "2024-12-29 21:43:24 +0000"
-    },
-    "done": false
-  },
   "create:recipes/building_blocks/cut_calcite_brick_wall_from_stone_types_calcite_stonecutting": {
     "criteria": {
       "has_stone_types_calcite": "2024-12-29 19:59:34 +0000"
-    },
-    "done": true
-  },
-  "lootr:100loot": {
-    "criteria": {
-      "loot_stat": "2024-12-29 22:00:48 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/small_scoria_bricks_from_stone_types_scoria_stonecutting": {
-    "criteria": {
-      "has_stone_types_scoria": "2024-12-29 20:56:18 +0000"
-    },
-    "done": true
-  },
-  "croptopia:recipes/french_fries": {
-    "criteria": {
-      "has_potato": "2024-12-29 21:23:53 +0000"
-    },
-    "done": true
-  },
-  "securitycraft:recipes/building_blocks/secret_oak_hanging_sign": {
-    "criteria": {
-      "has_sign": "2024-12-29 21:04:53 +0000"
-    },
-    "done": true
-  },
-  "securitycraft:recipes/building_blocks/secret_spruce_hanging_sign": {
-    "criteria": {
-      "has_sign": "2024-12-29 21:04:53 +0000"
     },
     "done": true
   },
@@ -13012,105 +12718,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/food/baked_potato_from_grill_cooking": {
-    "criteria": {
-      "has_potato": "2024-12-29 21:23:53 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/cut_andesite_slab_from_stone_types_andesite_stonecutting": {
-    "criteria": {
-      "has_stone_types_andesite": "2024-12-29 20:57:20 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/small_andesite_brick_slab_from_stone_types_andesite_stonecutting": {
-    "criteria": {
-      "has_stone_types_andesite": "2024-12-29 20:57:20 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/andesite_stairs": {
-    "criteria": {
-      "has_andesite": "2024-12-29 20:57:20 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/small_scoria_brick_slab_from_stone_types_scoria_stonecutting": {
-    "criteria": {
-      "has_stone_types_scoria": "2024-12-29 20:56:18 +0000"
-    },
-    "done": true
-  },
-  "mcwbridges:recipes/balustrade_andesite_bridge": {
-    "criteria": {
-      "has_planks": "2024-12-29 20:57:20 +0000"
-    },
-    "done": true
-  },
-  "mcwroofs:recipes/andesite": {
-    "criteria": {
-      "has_planks": "2024-12-29 20:57:20 +0000"
-    },
-    "done": true
-  },
-  "securitycraft:recipes/building_blocks/secret_warped_hanging_sign": {
-    "criteria": {
-      "has_sign": "2024-12-29 21:04:53 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/cut_scoria_bricks_from_stone_types_scoria_stonecutting": {
-    "criteria": {
-      "has_stone_types_scoria": "2024-12-29 20:56:18 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/mossy_stone_brick_slab": {
-    "criteria": {
-      "has_mossy_stone_bricks": "2024-12-29 19:59:15 +0000"
-    },
-    "done": true
-  },
-  "securitycraft:recipes/building_blocks/secret_dark_oak_hanging_sign": {
-    "criteria": {
-      "has_sign": "2024-12-29 21:04:53 +0000"
-    },
-    "done": true
-  },
   "create:recipes/building_blocks/cut_calcite_bricks_from_stone_types_calcite_stonecutting": {
     "criteria": {
       "has_stone_types_calcite": "2024-12-29 19:59:34 +0000"
-    },
-    "done": true
-  },
-  "securitycraft:recipes/building_blocks/secret_crimson_sign_item": {
-    "criteria": {
-      "has_sign": "2024-12-29 21:04:53 +0000"
-    },
-    "done": true
-  },
-  "new_slab_variants:recipes/building_blocks/chiseled_stone_bricks_slab": {
-    "criteria": {
-      "has_chiseled_stone_bricks": "2024-12-29 22:04:17 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/cut_andesite_bricks_from_stone_types_andesite_stonecutting": {
-    "criteria": {
-      "has_stone_types_andesite": "2024-12-29 20:57:20 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/small_andesite_bricks_from_stone_types_andesite_stonecutting": {
-    "criteria": {
-      "has_stone_types_andesite": "2024-12-29 20:57:20 +0000"
-    },
-    "done": true
-  },
-  "securitycraft:recipes/building_blocks/secret_crimson_hanging_sign": {
-    "criteria": {
-      "has_sign": "2024-12-29 21:04:53 +0000"
     },
     "done": true
   },
@@ -13120,87 +12730,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/polished_andesite_from_andesite_stonecutting": {
-    "criteria": {
-      "has_andesite": "2024-12-29 20:57:20 +0000"
-    },
-    "done": true
-  },
   "create:recipes/building_blocks/cut_calcite_wall_from_stone_types_calcite_stonecutting": {
     "criteria": {
       "has_stone_types_calcite": "2024-12-29 19:59:34 +0000"
-    },
-    "done": true
-  },
-  "securitycraft:recipes/building_blocks/secret_spruce_sign_item": {
-    "criteria": {
-      "has_sign": "2024-12-29 21:04:53 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/cut_andesite_wall_from_stone_types_andesite_stonecutting": {
-    "criteria": {
-      "has_stone_types_andesite": "2024-12-29 20:57:20 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/polished_cut_scoria_slab_from_stone_types_scoria_stonecutting": {
-    "criteria": {
-      "has_stone_types_scoria": "2024-12-29 20:56:18 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/small_andesite_brick_wall_from_stone_types_andesite_stonecutting": {
-    "criteria": {
-      "has_stone_types_andesite": "2024-12-29 20:57:20 +0000"
-    },
-    "done": true
-  },
-  "handcrafted:recipes/misc/andesite_pillar_trim": {
-    "criteria": {
-      "has_andesite_pillar_trim": "2024-12-29 20:57:20 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/polished_cut_scoria_stairs_from_stone_types_scoria_stonecutting": {
-    "criteria": {
-      "has_stone_types_scoria": "2024-12-29 20:56:18 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/cut_andesite_brick_slab_from_stone_types_andesite_stonecutting": {
-    "criteria": {
-      "has_stone_types_andesite": "2024-12-29 20:57:20 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/mossy_stone_brick_stairs_from_mossy_stone_brick_stonecutting": {
-    "criteria": {
-      "has_mossy_stone_bricks": "2024-12-29 19:59:15 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/cut_scoria_wall_from_stone_types_scoria_stonecutting": {
-    "criteria": {
-      "has_stone_types_scoria": "2024-12-29 20:56:18 +0000"
-    },
-    "done": true
-  },
-  "sophisticatedbackpacks:recipes/misc/iron_backpack_from_copper": {
-    "criteria": {
-      "has_copper_backpack": "2024-12-29 21:36:17 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/cherry_hanging_sign": {
-    "criteria": {
-      "has_stripped_logs": "2024-12-29 20:11:20 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/mossy_stone_brick_slab_from_mossy_stone_brick_stonecutting": {
-    "criteria": {
-      "has_mossy_stone_bricks": "2024-12-29 19:59:15 +0000"
     },
     "done": true
   },
@@ -13210,57 +12742,9 @@
     },
     "done": true
   },
-  "create:recipes/building_blocks/cut_scoria_brick_wall_from_stone_types_scoria_stonecutting": {
-    "criteria": {
-      "has_stone_types_scoria": "2024-12-29 20:56:18 +0000"
-    },
-    "done": true
-  },
   "create:recipes/building_blocks/small_calcite_brick_slab_from_stone_types_calcite_stonecutting": {
     "criteria": {
       "has_stone_types_calcite": "2024-12-29 19:59:34 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/baked_potato": {
-    "criteria": {
-      "has_potato": "2024-12-29 21:23:53 +0000"
-    },
-    "done": true
-  },
-  "handcrafted:recipes/misc/andesite_corner_trim": {
-    "criteria": {
-      "has_andesite_corner_trim": "2024-12-29 20:57:20 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/andesite_wall_from_andesite_stonecutting": {
-    "criteria": {
-      "has_andesite": "2024-12-29 20:57:20 +0000"
-    },
-    "done": true
-  },
-  "mcwfurnituresbop:recipes/mahogany": {
-    "criteria": {
-      "has_wood": "2024-12-29 20:05:04 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/andesite_from_stone_types_andesite_stonecutting": {
-    "criteria": {
-      "has_stone_types_andesite": "2024-12-29 20:57:20 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/cut_andesite_from_stone_types_andesite_stonecutting": {
-    "criteria": {
-      "has_stone_types_andesite": "2024-12-29 20:57:20 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/polished_andesite_slab_from_andesite_stonecutting": {
-    "criteria": {
-      "has_andesite": "2024-12-29 20:57:20 +0000"
     },
     "done": true
   },
@@ -13270,51 +12754,15 @@
     },
     "done": true
   },
-  "create:recipes/building_blocks/cut_scoria_from_stone_types_scoria_stonecutting": {
-    "criteria": {
-      "has_stone_types_scoria": "2024-12-29 20:56:18 +0000"
-    },
-    "done": true
-  },
   "create:recipes/building_blocks/cut_calcite_brick_slab_from_stone_types_calcite_stonecutting": {
     "criteria": {
       "has_stone_types_calcite": "2024-12-29 19:59:34 +0000"
     },
     "done": true
   },
-  "securitycraft:recipes/building_blocks/secret_mangrove_sign_item": {
-    "criteria": {
-      "has_sign": "2024-12-29 21:04:53 +0000"
-    },
-    "done": true
-  },
   "create:recipes/building_blocks/polished_cut_calcite_wall_from_stone_types_calcite_stonecutting": {
     "criteria": {
       "has_stone_types_calcite": "2024-12-29 19:59:34 +0000"
-    },
-    "done": true
-  },
-  "mcwbridges:recipes/balustrade_mossy_stone_bricks_bridge": {
-    "criteria": {
-      "has_planks": "2024-12-29 19:59:15 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/polished_cut_andesite_slab_from_stone_types_andesite_stonecutting": {
-    "criteria": {
-      "has_stone_types_andesite": "2024-12-29 20:57:20 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/andesite_stairs_from_andesite_stonecutting": {
-    "criteria": {
-      "has_andesite": "2024-12-29 20:57:20 +0000"
-    },
-    "done": true
-  },
-  "securitycraft:recipes/building_blocks/secret_bamboo_hanging_sign": {
-    "criteria": {
-      "has_sign": "2024-12-29 21:04:53 +0000"
     },
     "done": true
   },
@@ -13336,21 +12784,153 @@
     },
     "done": true
   },
-  "create:recipes/building_blocks/cut_andesite_stairs_from_stone_types_andesite_stonecutting": {
+  "biomesoplenty:recipes/building_blocks/mahogany_wood": {
     "criteria": {
-      "has_stone_types_andesite": "2024-12-29 20:57:20 +0000"
+      "has_log": "2024-12-29 20:05:04 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/building_blocks/mahogany_planks": {
+    "criteria": {
+      "has_logs": "2024-12-29 20:05:04 +0000"
+    },
+    "done": true
+  },
+  "mcwfurnituresbop:recipes/mahogany": {
+    "criteria": {
+      "has_wood": "2024-12-29 20:05:04 +0000"
+    },
+    "done": true
+  },
+  "new_slab_variants:recipes/building_blocks/stripped_cherry_log_slab": {
+    "criteria": {
+      "has_stripped_cherry_log": "2024-12-29 20:11:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stripped_cherry_wood": {
+    "criteria": {
+      "has_log": "2024-12-29 20:11:20 +0000"
+    },
+    "done": true
+  },
+  "decorative_blocks:recipes/building_blocks/cherry_beam": {
+    "criteria": {
+      "has_stripped_log": "2024-12-29 20:11:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cherry_hanging_sign": {
+    "criteria": {
+      "has_stripped_logs": "2024-12-29 20:11:20 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/scoria_from_stone_types_scoria_stonecutting": {
+    "criteria": {
+      "has_stone_types_scoria": "2024-12-29 20:56:18 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/polished_cut_scoria_from_stone_types_scoria_stonecutting": {
+    "criteria": {
+      "has_stone_types_scoria": "2024-12-29 20:56:18 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_scoria_slab_from_stone_types_scoria_stonecutting": {
+    "criteria": {
+      "has_stone_types_scoria": "2024-12-29 20:56:18 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/palettes/scorchia": {
+    "criteria": {
+      "has_item": "2024-12-29 20:56:18 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/layered_scoria_from_stone_types_scoria_stonecutting": {
+    "criteria": {
+      "has_stone_types_scoria": "2024-12-29 20:56:18 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/scoria_pillar_from_stone_types_scoria_stonecutting": {
+    "criteria": {
+      "has_stone_types_scoria": "2024-12-29 20:56:18 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/small_scoria_brick_stairs_from_stone_types_scoria_stonecutting": {
+    "criteria": {
+      "has_stone_types_scoria": "2024-12-29 20:56:18 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/small_scoria_brick_wall_from_stone_types_scoria_stonecutting": {
+    "criteria": {
+      "has_stone_types_scoria": "2024-12-29 20:56:18 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/polished_cut_scoria_wall_from_stone_types_scoria_stonecutting": {
+    "criteria": {
+      "has_stone_types_scoria": "2024-12-29 20:56:18 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/small_scoria_bricks_from_stone_types_scoria_stonecutting": {
+    "criteria": {
+      "has_stone_types_scoria": "2024-12-29 20:56:18 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/small_scoria_brick_slab_from_stone_types_scoria_stonecutting": {
+    "criteria": {
+      "has_stone_types_scoria": "2024-12-29 20:56:18 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_scoria_bricks_from_stone_types_scoria_stonecutting": {
+    "criteria": {
+      "has_stone_types_scoria": "2024-12-29 20:56:18 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/polished_cut_scoria_slab_from_stone_types_scoria_stonecutting": {
+    "criteria": {
+      "has_stone_types_scoria": "2024-12-29 20:56:18 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/polished_cut_scoria_stairs_from_stone_types_scoria_stonecutting": {
+    "criteria": {
+      "has_stone_types_scoria": "2024-12-29 20:56:18 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_scoria_wall_from_stone_types_scoria_stonecutting": {
+    "criteria": {
+      "has_stone_types_scoria": "2024-12-29 20:56:18 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_scoria_brick_wall_from_stone_types_scoria_stonecutting": {
+    "criteria": {
+      "has_stone_types_scoria": "2024-12-29 20:56:18 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_scoria_from_stone_types_scoria_stonecutting": {
+    "criteria": {
+      "has_stone_types_scoria": "2024-12-29 20:56:18 +0000"
     },
     "done": true
   },
   "create:recipes/building_blocks/cut_scoria_brick_stairs_from_stone_types_scoria_stonecutting": {
     "criteria": {
       "has_stone_types_scoria": "2024-12-29 20:56:18 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/polished_andesite": {
-    "criteria": {
-      "has_andesite": "2024-12-29 20:57:20 +0000"
     },
     "done": true
   },
@@ -13366,9 +12946,207 @@
     },
     "done": true
   },
-  "securitycraft:recipes/building_blocks/secret_bamboo_sign_item": {
+  "mcwbridges:recipes/andesite_bridge_stair": {
     "criteria": {
-      "has_sign": "2024-12-29 21:04:53 +0000"
+      "has_planks": "2024-12-29 20:57:20 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/polished_cut_andesite_stairs_from_stone_types_andesite_stonecutting": {
+    "criteria": {
+      "has_stone_types_andesite": "2024-12-29 20:57:20 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/small_andesite_brick_stairs_from_stone_types_andesite_stonecutting": {
+    "criteria": {
+      "has_stone_types_andesite": "2024-12-29 20:57:20 +0000"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/andesite_bridge": {
+    "criteria": {
+      "has_planks": "2024-12-29 20:57:20 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/polished_cut_andesite_from_stone_types_andesite_stonecutting": {
+    "criteria": {
+      "has_stone_types_andesite": "2024-12-29 20:57:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_andesite_stairs_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2024-12-29 20:57:20 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/layered_andesite_from_stone_types_andesite_stonecutting": {
+    "criteria": {
+      "has_stone_types_andesite": "2024-12-29 20:57:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/andesite_slab_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2024-12-29 20:57:20 +0000"
+    },
+    "done": true
+  },
+  "mcwpaths:recipes/andesite": {
+    "criteria": {
+      "has_wood": "2024-12-29 20:57:20 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_andesite_brick_wall_from_stone_types_andesite_stonecutting": {
+    "criteria": {
+      "has_stone_types_andesite": "2024-12-29 20:57:20 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/andesite_pillar_from_stone_types_andesite_stonecutting": {
+    "criteria": {
+      "has_stone_types_andesite": "2024-12-29 20:57:20 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/polished_cut_andesite_wall_from_stone_types_andesite_stonecutting": {
+    "criteria": {
+      "has_stone_types_andesite": "2024-12-29 20:57:20 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_andesite_brick_stairs_from_stone_types_andesite_stonecutting": {
+    "criteria": {
+      "has_stone_types_andesite": "2024-12-29 20:57:20 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_andesite_slab_from_stone_types_andesite_stonecutting": {
+    "criteria": {
+      "has_stone_types_andesite": "2024-12-29 20:57:20 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/small_andesite_brick_slab_from_stone_types_andesite_stonecutting": {
+    "criteria": {
+      "has_stone_types_andesite": "2024-12-29 20:57:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/andesite_stairs": {
+    "criteria": {
+      "has_andesite": "2024-12-29 20:57:20 +0000"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/balustrade_andesite_bridge": {
+    "criteria": {
+      "has_planks": "2024-12-29 20:57:20 +0000"
+    },
+    "done": true
+  },
+  "mcwroofs:recipes/andesite": {
+    "criteria": {
+      "has_planks": "2024-12-29 20:57:20 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_andesite_bricks_from_stone_types_andesite_stonecutting": {
+    "criteria": {
+      "has_stone_types_andesite": "2024-12-29 20:57:20 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/small_andesite_bricks_from_stone_types_andesite_stonecutting": {
+    "criteria": {
+      "has_stone_types_andesite": "2024-12-29 20:57:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_andesite_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2024-12-29 20:57:20 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_andesite_wall_from_stone_types_andesite_stonecutting": {
+    "criteria": {
+      "has_stone_types_andesite": "2024-12-29 20:57:20 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/small_andesite_brick_wall_from_stone_types_andesite_stonecutting": {
+    "criteria": {
+      "has_stone_types_andesite": "2024-12-29 20:57:20 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/andesite_pillar_trim": {
+    "criteria": {
+      "has_andesite_pillar_trim": "2024-12-29 20:57:20 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_andesite_brick_slab_from_stone_types_andesite_stonecutting": {
+    "criteria": {
+      "has_stone_types_andesite": "2024-12-29 20:57:20 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/andesite_corner_trim": {
+    "criteria": {
+      "has_andesite_corner_trim": "2024-12-29 20:57:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/andesite_wall_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2024-12-29 20:57:20 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/andesite_from_stone_types_andesite_stonecutting": {
+    "criteria": {
+      "has_stone_types_andesite": "2024-12-29 20:57:20 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_andesite_from_stone_types_andesite_stonecutting": {
+    "criteria": {
+      "has_stone_types_andesite": "2024-12-29 20:57:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_andesite_slab_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2024-12-29 20:57:20 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/polished_cut_andesite_slab_from_stone_types_andesite_stonecutting": {
+    "criteria": {
+      "has_stone_types_andesite": "2024-12-29 20:57:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/andesite_stairs_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2024-12-29 20:57:20 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_andesite_stairs_from_stone_types_andesite_stonecutting": {
+    "criteria": {
+      "has_stone_types_andesite": "2024-12-29 20:57:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_andesite": {
+    "criteria": {
+      "has_andesite": "2024-12-29 20:57:20 +0000"
     },
     "done": true
   },
@@ -13384,15 +13162,309 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/mossy_stone_brick_wall_from_mossy_stone_brick_stonecutting": {
-    "criteria": {
-      "has_mossy_stone_bricks": "2024-12-29 19:59:15 +0000"
-    },
-    "done": true
-  },
   "mcwbridges:recipes/andesite_bridge_pier": {
     "criteria": {
       "has_planks": "2024-12-29 20:57:20 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/secret_birch_sign_item": {
+    "criteria": {
+      "has_sign": "2024-12-29 21:04:53 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/secret_birch_hanging_sign": {
+    "criteria": {
+      "has_sign": "2024-12-29 21:04:53 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/secret_cherry_hanging_sign": {
+    "criteria": {
+      "has_sign": "2024-12-29 21:04:53 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/secret_acacia_sign_item": {
+    "criteria": {
+      "has_sign": "2024-12-29 21:04:53 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/sign_post_oak": {
+    "criteria": {
+      "has_oak_sign": "2024-12-29 21:04:53 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/secret_jungle_sign_item": {
+    "criteria": {
+      "has_sign": "2024-12-29 21:04:53 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/secret_acacia_hanging_sign": {
+    "criteria": {
+      "has_sign": "2024-12-29 21:04:53 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/secret_sign_item": {
+    "criteria": {
+      "has_sign": "2024-12-29 21:04:53 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/secret_mangrove_hanging_sign": {
+    "criteria": {
+      "has_sign": "2024-12-29 21:04:53 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/secret_warped_sign_item": {
+    "criteria": {
+      "has_sign": "2024-12-29 21:04:53 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/secret_jungle_hanging_sign": {
+    "criteria": {
+      "has_sign": "2024-12-29 21:04:53 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/secret_dark_oak_sign_item": {
+    "criteria": {
+      "has_sign": "2024-12-29 21:04:53 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/secret_cherry_sign_item": {
+    "criteria": {
+      "has_sign": "2024-12-29 21:04:53 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/secret_oak_hanging_sign": {
+    "criteria": {
+      "has_sign": "2024-12-29 21:04:53 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/secret_spruce_hanging_sign": {
+    "criteria": {
+      "has_sign": "2024-12-29 21:04:53 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/secret_warped_hanging_sign": {
+    "criteria": {
+      "has_sign": "2024-12-29 21:04:53 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/secret_dark_oak_hanging_sign": {
+    "criteria": {
+      "has_sign": "2024-12-29 21:04:53 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/secret_crimson_sign_item": {
+    "criteria": {
+      "has_sign": "2024-12-29 21:04:53 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/secret_crimson_hanging_sign": {
+    "criteria": {
+      "has_sign": "2024-12-29 21:04:53 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/secret_spruce_sign_item": {
+    "criteria": {
+      "has_sign": "2024-12-29 21:04:53 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/secret_mangrove_sign_item": {
+    "criteria": {
+      "has_sign": "2024-12-29 21:04:53 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/secret_bamboo_hanging_sign": {
+    "criteria": {
+      "has_sign": "2024-12-29 21:04:53 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/secret_bamboo_sign_item": {
+    "criteria": {
+      "has_sign": "2024-12-29 21:04:53 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/potato_chips": {
+    "criteria": {
+      "has_potato": "2024-12-29 21:23:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/baked_potato_from_campfire_cooking": {
+    "criteria": {
+      "has_potato": "2024-12-29 21:23:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/baked_potato_from_smoking": {
+    "criteria": {
+      "has_potato": "2024-12-29 21:23:53 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/french_fries": {
+    "criteria": {
+      "has_potato": "2024-12-29 21:23:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/baked_potato_from_grill_cooking": {
+    "criteria": {
+      "has_potato": "2024-12-29 21:23:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/baked_potato": {
+    "criteria": {
+      "has_potato": "2024-12-29 21:23:53 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/diamond_backpack": {
+    "criteria": {
+      "has_gold_backpack": "2024-12-29 21:35:26 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/iron_backpack_from_copper": {
+    "criteria": {
+      "has_copper_backpack": "2024-12-29 21:36:17 +0000"
+    },
+    "done": true
+  },
+  "croptopia:gather_savanna": {
+    "criteria": {
+      "hops_seed": "2024-12-29 21:43:24 +0000"
+    },
+    "done": false
+  },
+  "lootr:100loot": {
+    "criteria": {
+      "loot_stat": "2024-12-29 22:00:48 +0000"
+    },
+    "done": true
+  },
+  "new_slab_variants:recipes/building_blocks/chiseled_stone_bricks_slab": {
+    "criteria": {
+      "has_chiseled_stone_bricks": "2024-12-29 22:04:17 +0000"
+    },
+    "done": true
+  },
+  "new_slab_variants:recipes/building_blocks/redstone_block_slab": {
+    "criteria": {
+      "has_redstone_block": "2024-12-29 22:12:55 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/misc/block_pocket_manager": {
+    "criteria": {
+      "has_redstone_block": "2024-12-29 22:12:55 +0000"
+    },
+    "done": true
+  },
+  "super_ore_block:recipes/building_blocks/super_redstone_block_from_redstone_block": {
+    "criteria": {
+      "has_redstone_block": "2024-12-29 22:12:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/redstone": {
+    "criteria": {
+      "has_redstone_block": "2024-12-29 22:12:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/clay": {
+    "criteria": {
+      "has_clay_ball": "2024-12-29 23:52:59 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/decorations/biomesoplenty/sign_post_mahogany": {
+    "criteria": {
+      "has_planks": "2024-12-29 23:53:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/brick": {
+    "criteria": {
+      "has_clay_ball": "2024-12-29 23:52:59 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/redstone/mahogany_fence_gate": {
+    "criteria": {
+      "has_planks": "2024-12-29 23:53:54 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/decorations/mahogany_sign": {
+    "criteria": {
+      "has_mahogany_planks": "2024-12-29 23:53:54 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/building_blocks/mahogany_stairs": {
+    "criteria": {
+      "has_planks": "2024-12-29 23:53:54 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/building_blocks/mahogany_slab": {
+    "criteria": {
+      "has_planks": "2024-12-29 23:53:54 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/decorations/mahogany_fence": {
+    "criteria": {
+      "has_planks": "2024-12-29 23:53:54 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/redstone/mahogany_pressure_plate": {
+    "criteria": {
+      "has_planks": "2024-12-29 23:53:54 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/redstone/mahogany_button": {
+    "criteria": {
+      "has_planks": "2024-12-29 23:53:54 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/redstone/mahogany_door": {
+    "criteria": {
+      "has_planks": "2024-12-29 23:53:54 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/redstone/mahogany_trapdoor": {
+    "criteria": {
+      "has_planks": "2024-12-29 23:53:54 +0000"
     },
     "done": true
   },
