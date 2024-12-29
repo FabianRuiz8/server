@@ -14380,27 +14380,21 @@
     },
     "done": true
   },
-  "ad_astra:recipes/misc/brown_flag": {
-    "criteria": {
-      "has_brown_flag": "2024-12-29 21:21:42 +0000"
-    },
-    "done": true
-  },
-  "twilightforest:recipes/decorations/uncrafting_table": {
-    "criteria": {
-      "has_uncrafting_table": "2024-12-29 21:53:49 +0000"
-    },
-    "done": true
-  },
-  "comforts:sleeping_bag_brown": {
-    "criteria": {
-      "has_brown_wool": "2024-12-29 21:21:42 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/misc/netherite_ingot": {
     "criteria": {
       "has_netherite_scrap": "2024-12-29 20:17:13 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/netherite_door": {
+    "criteria": {
+      "has_netherite_scrap": "2024-12-29 20:17:13 +0000"
+    },
+    "done": true
+  },
+  "mekanism:digital_miner": {
+    "criteria": {
+      "digital_miner": "2024-12-29 20:34:27 +0000"
     },
     "done": true
   },
@@ -14410,39 +14404,51 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_cod_from_campfire_cooking": {
+    "criteria": {
+      "has_cod": "2024-12-29 20:53:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_cod": {
+    "criteria": {
+      "has_cod": "2024-12-29 20:53:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_cod_from_smoking": {
+    "criteria": {
+      "has_cod": "2024-12-29 20:53:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/orange_dye_from_orange_tulip": {
+    "criteria": {
+      "has_orange_tulip": "2024-12-29 21:16:43 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:root": {
+    "criteria": {
+      "in_tf": "2024-12-29 21:17:33 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/pedestal": {
+    "criteria": {
+      "has_stone_brick_slab": "2024-12-29 21:19:16 +0000"
+    },
+    "done": true
+  },
   "twilightforest:progress_lich": {
     "criteria": {
       "kill_naga": "2024-12-29 21:19:29 +0000"
     },
     "done": false
   },
-  "twilightforest:recipes/decorations/vanilla_to_tf_moss": {
-    "criteria": {
-      "has_item": "2024-12-29 21:31:50 +0000"
-    },
-    "done": true
-  },
   "twilightforest:progress_naga": {
     "criteria": {
       "naga": "2024-12-29 21:19:29 +0000"
-    },
-    "done": true
-  },
-  "biomesoplenty:recipes/redstone/jacaranda_pressure_plate": {
-    "criteria": {
-      "has_planks": "2024-12-29 21:46:52 +0000"
-    },
-    "done": true
-  },
-  "twilightforest:recipes/misc/naga_banner_pattern": {
-    "criteria": {
-      "has_trophy": "2024-12-29 21:19:50 +0000"
-    },
-    "done": true
-  },
-  "twilightforest:recipes/building_blocks/tf_moss_to_vanilla": {
-    "criteria": {
-      "has_item": "2024-12-29 21:31:50 +0000"
     },
     "done": true
   },
@@ -14452,9 +14458,75 @@
     },
     "done": true
   },
-  "biomesoplenty:recipes/redstone/jacaranda_button": {
+  "twilightforest:recipes/misc/naga_banner_pattern": {
     "criteria": {
-      "has_planks": "2024-12-29 21:46:52 +0000"
+      "has_trophy": "2024-12-29 21:19:50 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/decorations/firefly_jar": {
+    "criteria": {
+      "has_item": "2024-12-29 21:21:19 +0000"
+    },
+    "done": true
+  },
+  "ad_astra:recipes/misc/brown_flag": {
+    "criteria": {
+      "has_brown_flag": "2024-12-29 21:21:42 +0000"
+    },
+    "done": true
+  },
+  "comforts:sleeping_bag_brown": {
+    "criteria": {
+      "has_brown_wool": "2024-12-29 21:21:42 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/brown_cushion": {
+    "criteria": {
+      "has_brown_cushion": "2024-12-29 21:21:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/brown_banner": {
+    "criteria": {
+      "has_brown_wool": "2024-12-29 21:21:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/brown_bed": {
+    "criteria": {
+      "has_brown_wool": "2024-12-29 21:21:42 +0000"
+    },
+    "done": true
+  },
+  "comforts:hammock_brown": {
+    "criteria": {
+      "has_brown_wool": "2024-12-29 21:21:42 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/brown_sofa": {
+    "criteria": {
+      "has_wool": "2024-12-29 21:21:42 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/brown_sheet": {
+    "criteria": {
+      "has_brown_sheet": "2024-12-29 21:21:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/brown_carpet": {
+    "criteria": {
+      "has_brown_wool": "2024-12-29 21:21:42 +0000"
+    },
+    "done": true
+  },
+  "new_slab_variants:recipes/building_blocks/brown_wool_slab": {
+    "criteria": {
+      "has_brown_wool": "2024-12-29 21:21:42 +0000"
     },
     "done": true
   },
@@ -14464,15 +14536,75 @@
     },
     "done": true
   },
-  "supplementaries:recipes/decorations/biomesoplenty/sign_post_jacaranda": {
+  "minecraft:recipes/transportation/carrot_on_a_stick": {
     "criteria": {
-      "has_planks": "2024-12-29 21:46:52 +0000"
+      "has_carrot": "2024-12-29 21:23:16 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/decorations/vanilla_to_tf_moss": {
+    "criteria": {
+      "has_item": "2024-12-29 21:31:50 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/building_blocks/tf_moss_to_vanilla": {
+    "criteria": {
+      "has_item": "2024-12-29 21:31:50 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/decorations/vanilla_to_tf_lilypad": {
+    "criteria": {
+      "has_item": "2024-12-29 21:31:50 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/decorations/tf_to_vanilla_lilypad": {
+    "criteria": {
+      "has_item": "2024-12-29 21:31:50 +0000"
     },
     "done": true
   },
   "twilightforest:recipes/food/food/campfired_meef": {
     "criteria": {
       "has_food": "2024-12-29 21:35:07 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/food/food/smelted_meef": {
+    "criteria": {
+      "has_food": "2024-12-29 21:35:07 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/food/food/smoked_meef": {
+    "criteria": {
+      "has_food": "2024-12-29 21:35:07 +0000"
+    },
+    "done": true
+  },
+  "new_slab_variants:recipes/building_blocks/magma_block_slab": {
+    "criteria": {
+      "has_magma_block": "2024-12-29 21:36:18 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/redstone/jacaranda_pressure_plate": {
+    "criteria": {
+      "has_planks": "2024-12-29 21:46:52 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/redstone/jacaranda_button": {
+    "criteria": {
+      "has_planks": "2024-12-29 21:46:52 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/decorations/biomesoplenty/sign_post_jacaranda": {
+    "criteria": {
+      "has_planks": "2024-12-29 21:46:52 +0000"
     },
     "done": true
   },
@@ -14494,105 +14626,9 @@
     },
     "done": true
   },
-  "supplementaries:recipes/netherite_door": {
-    "criteria": {
-      "has_netherite_scrap": "2024-12-29 20:17:13 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/cooked_cod_from_campfire_cooking": {
-    "criteria": {
-      "has_cod": "2024-12-29 20:53:57 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/cooked_cod": {
-    "criteria": {
-      "has_cod": "2024-12-29 20:53:57 +0000"
-    },
-    "done": true
-  },
-  "handcrafted:recipes/misc/brown_cushion": {
-    "criteria": {
-      "has_brown_cushion": "2024-12-29 21:21:42 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/brown_banner": {
-    "criteria": {
-      "has_brown_wool": "2024-12-29 21:21:42 +0000"
-    },
-    "done": true
-  },
   "biomesoplenty:recipes/building_blocks/jacaranda_slab": {
     "criteria": {
       "has_planks": "2024-12-29 21:46:52 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/brown_bed": {
-    "criteria": {
-      "has_brown_wool": "2024-12-29 21:21:42 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/cooked_cod_from_smoking": {
-    "criteria": {
-      "has_cod": "2024-12-29 20:53:57 +0000"
-    },
-    "done": true
-  },
-  "twilightforest:recipes/food/food/smelted_meef": {
-    "criteria": {
-      "has_food": "2024-12-29 21:35:07 +0000"
-    },
-    "done": true
-  },
-  "comforts:hammock_brown": {
-    "criteria": {
-      "has_brown_wool": "2024-12-29 21:21:42 +0000"
-    },
-    "done": true
-  },
-  "supplementaries:recipes/pedestal": {
-    "criteria": {
-      "has_stone_brick_slab": "2024-12-29 21:19:16 +0000"
-    },
-    "done": true
-  },
-  "twilightforest:recipes/food/food/smoked_meef": {
-    "criteria": {
-      "has_food": "2024-12-29 21:35:07 +0000"
-    },
-    "done": true
-  },
-  "new_slab_variants:recipes/building_blocks/magma_block_slab": {
-    "criteria": {
-      "has_magma_block": "2024-12-29 21:36:18 +0000"
-    },
-    "done": true
-  },
-  "cfm:recipes/decorations/brown_sofa": {
-    "criteria": {
-      "has_wool": "2024-12-29 21:21:42 +0000"
-    },
-    "done": true
-  },
-  "twilightforest:recipes/decorations/vanilla_to_tf_lilypad": {
-    "criteria": {
-      "has_item": "2024-12-29 21:31:50 +0000"
-    },
-    "done": true
-  },
-  "handcrafted:recipes/misc/brown_sheet": {
-    "criteria": {
-      "has_brown_sheet": "2024-12-29 21:21:42 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/orange_dye_from_orange_tulip": {
-    "criteria": {
-      "has_orange_tulip": "2024-12-29 21:16:43 +0000"
     },
     "done": true
   },
@@ -14602,33 +14638,9 @@
     },
     "done": true
   },
-  "mekanism:digital_miner": {
-    "criteria": {
-      "digital_miner": "2024-12-29 20:34:27 +0000"
-    },
-    "done": true
-  },
   "biomesoplenty:recipes/decorations/jacaranda_fence": {
     "criteria": {
       "has_planks": "2024-12-29 21:46:52 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/brown_carpet": {
-    "criteria": {
-      "has_brown_wool": "2024-12-29 21:21:42 +0000"
-    },
-    "done": true
-  },
-  "new_slab_variants:recipes/building_blocks/brown_wool_slab": {
-    "criteria": {
-      "has_brown_wool": "2024-12-29 21:21:42 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/transportation/carrot_on_a_stick": {
-    "criteria": {
-      "has_carrot": "2024-12-29 21:23:16 +0000"
     },
     "done": true
   },
@@ -14638,21 +14650,9 @@
     },
     "done": true
   },
-  "twilightforest:recipes/decorations/tf_to_vanilla_lilypad": {
+  "twilightforest:recipes/decorations/uncrafting_table": {
     "criteria": {
-      "has_item": "2024-12-29 21:31:50 +0000"
-    },
-    "done": true
-  },
-  "twilightforest:recipes/decorations/firefly_jar": {
-    "criteria": {
-      "has_item": "2024-12-29 21:21:19 +0000"
-    },
-    "done": true
-  },
-  "twilightforest:root": {
-    "criteria": {
-      "in_tf": "2024-12-29 21:17:33 +0000"
+      "has_uncrafting_table": "2024-12-29 21:53:49 +0000"
     },
     "done": true
   },
