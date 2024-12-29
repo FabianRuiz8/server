@@ -5094,3 +5094,18 @@ java.lang.IllegalArgumentException: Can't find block outer_end:himmel_vertical_s
 [29Dec2024 23:26:52.559] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to DeferentCurve07
 [29Dec2024 23:26:52.641] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DeferentCurve07 joined the game
 [29Dec2024 23:26:52.853] [Server thread/INFO] [Jade/]: Syncing config to DeferentCurve07 (9598161f-9a96-3055-ab1d-e14865aee7da)
+[29Dec2024 23:27:52.435] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [DeferentCurve07: Teleported DeferentCurve07 to marquitosTPMS]
+[29Dec2024 23:27:58.009] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2033ms or 40 ticks behind
+[29Dec2024 23:29:00.170] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [DeferentCurve07: Teleported DeferentCurve07 to marquitosTPMS]
+[29Dec2024 23:29:59.061] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/p3pp3rf1y/sophisticatedcore/common/gui/SortBy
+[29Dec2024 23:30:16.264] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [joselete123: Teleported joselete123 to carloselpillo]
+[29Dec2024 23:32:13.206] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Fisherman'/3763, l='ServerLevel[world]', x=6577.10, y=96.56, z=-724.65] died, message: 'Fisherman was slain by carloselpillo'
+[29Dec2024 23:32:57.889] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2012ms or 40 ticks behind
+[29Dec2024 23:33:01.728] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/github/L_Ender/lionfishapi/server/animation/AnimationHandler
+[29Dec2024 23:33:16.258] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: marquitosTPMS lost connection: Disconnected
+[29Dec2024 23:33:16.259] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: marquitosTPMS left the game
+[29Dec2024 23:33:21.642] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8766ms or 175 ticks behind
+[29Dec2024 23:34:19.010] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2033ms or 40 ticks behind
+[29Dec2024 23:36:25.476] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting fr/rakambda/fallingtree/common/tree/TreePartType
+[29Dec2024 23:36:26.597] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/supermartijn642/core/item/BaseBlockItem$InteractionFeedback
+[29Dec2024 23:37:04.682] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [joselete123: Set the time to 1000]

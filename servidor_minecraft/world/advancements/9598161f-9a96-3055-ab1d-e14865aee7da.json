@@ -12252,5 +12252,17 @@
     },
     "done": true
   },
+  "twilightforest:recipes/decorations/wood/dark_oak_banister": {
+    "criteria": {
+      "has_item": "2024-12-29 23:31:42 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/misc/food_press": {
+    "criteria": {
+      "has_hopper": "2024-12-29 23:29:51 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
