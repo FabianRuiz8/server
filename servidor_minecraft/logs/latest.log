@@ -375,3 +375,12 @@
 [30Dec2024 01:08:39.924] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [carloselpillo: Set the time to 13000]
 [30Dec2024 01:10:05.917] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: carloselpillo fell from a high place
 [30Dec2024 01:10:05.951] [Server thread/INFO] [tombstone/]: The player carloselpillo has successfully been saved
+[30Dec2024 01:12:35.234] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: joselete123 has made the advancement [Refined Storage]
+[30Dec2024 01:13:55.442] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [carloselpillo: Set the time to 1000]
+[30Dec2024 01:14:29.002] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/refinedmods/refinedstorage/api/storage/cache/InvalidateCause
+[30Dec2024 01:14:29.040] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/refinedmods/refinedstorage/api/util/Action
+[30Dec2024 01:14:31.873] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/refinedmods/refinedstorage/api/network/security/Permission
+[30Dec2024 01:17:14.286] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: joselete123 has made the advancement [Viewing items]
+[30Dec2024 01:17:44.896] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/refinedmods/refinedstorage/apiimpl/network/node/ConnectivityStateChangeCause
+[30Dec2024 01:17:45.602] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/refinedmods/refinedstorage/api/network/grid/GridFactoryType
+[30Dec2024 01:20:03.196] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: joselete123 has made the advancement [Connecting]
