@@ -13526,6 +13526,12 @@
     },
     "done": true
   },
+  "farlanders:obtain_full_nightfall": {
+    "criteria": {
+      "get_chestplate": "2024-12-30 20:58:58 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/tools/netherite_pickaxe_smithing": {
     "criteria": {
       "has_netherite_ingot": "2024-12-30 20:39:41 +0000"
