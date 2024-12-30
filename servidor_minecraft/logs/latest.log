@@ -2107,3 +2107,5 @@ java.lang.IllegalArgumentException: Can't find block outer_end:himmel_vertical_s
 [30Dec2024 02:37:35.070] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting ovh/corail/tombstone/helper/LangKey
 [30Dec2024 02:37:35.183] [Server thread/INFO] [tombstone/]: The player carloselpillo has successfully been saved
 [30Dec2024 02:37:36.570] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting ovh/corail/tombstone/item/ItemCastableMagic$CastingTarget
+[30Dec2024 02:50:28.573] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: carloselpillo was blown up by Creeper
+[30Dec2024 02:50:28.618] [Server thread/INFO] [tombstone/]: The player carloselpillo has successfully been saved
