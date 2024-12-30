@@ -15427,15 +15427,39 @@
     },
     "done": true
   },
+  "ad_astra:recipes/misc/iron_pillar": {
+    "criteria": {
+      "has_iron_pillar": "2024-12-29 23:54:51 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_cod_from_grill_cooking": {
     "criteria": {
       "has_cod": "2024-12-29 23:25:35 +0000"
     },
     "done": true
   },
+  "ad_astra:recipes/misc/iron_plating_button": {
+    "criteria": {
+      "has_iron_plating_button": "2024-12-29 23:54:51 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/grindstone": {
     "criteria": {
       "has_stone_slab": "2024-12-29 23:29:43 +0000"
+    },
+    "done": true
+  },
+  "ad_astra:recipes/misc/iron_plating_stairs": {
+    "criteria": {
+      "has_iron_plating_stairs": "2024-12-29 23:54:51 +0000"
+    },
+    "done": true
+  },
+  "ad_astra:recipes/misc/iron_plating_pressure_plate": {
+    "criteria": {
+      "has_iron_plating_pressure_plate": "2024-12-29 23:54:51 +0000"
     },
     "done": true
   },
@@ -15460,6 +15484,24 @@
   "minecraft:recipes/food/cooked_cod_from_smoking": {
     "criteria": {
       "has_cod": "2024-12-29 23:25:35 +0000"
+    },
+    "done": true
+  },
+  "ad_astra:recipes/misc/iron_plating_slab": {
+    "criteria": {
+      "has_iron_plating_slab": "2024-12-29 23:54:51 +0000"
+    },
+    "done": true
+  },
+  "chipped:recipes/carpenters_table": {
+    "criteria": {
+      "has_carpenters_table": "2024-12-29 23:56:15 +0000"
+    },
+    "done": true
+  },
+  "ad_astra:recipes/misc/iron_sliding_door": {
+    "criteria": {
+      "has_iron_sliding_door": "2024-12-29 23:54:51 +0000"
     },
     "done": true
   },

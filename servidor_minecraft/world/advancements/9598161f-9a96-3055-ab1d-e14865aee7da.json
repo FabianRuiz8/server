@@ -837,6 +837,7 @@
       "spider_nest": "2024-12-26 00:21:03 +0000",
       "rocky_rainforest": "2024-12-29 16:55:39 +0000",
       "volcanic_plains": "2024-12-29 00:59:23 +0000",
+      "lavender_field": "2024-12-30 00:15:43 +0000",
       "grassland": "2024-12-29 00:15:43 +0000",
       "rainforest": "2024-12-29 00:15:42 +0000"
     },
@@ -12282,6 +12283,12 @@
     },
     "done": true
   },
+  "supplementaries:recipes/decorations/biomesoplenty/sign_post_mahogany": {
+    "criteria": {
+      "has_planks": "2024-12-30 00:18:17 +0000"
+    },
+    "done": true
+  },
   "decorative_blocks:recipes/building_blocks/spruce_palisade": {
     "criteria": {
       "has_log": "2024-12-29 23:38:34 +0000"
@@ -12360,6 +12367,12 @@
     },
     "done": true
   },
+  "biomesoplenty:recipes/redstone/mahogany_fence_gate": {
+    "criteria": {
+      "has_planks": "2024-12-30 00:18:17 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/stripped_spruce_crate": {
     "criteria": {
       "has_planks": "2024-12-29 23:38:33 +0000"
@@ -12375,6 +12388,12 @@
   "minecraft:recipes/building_blocks/spruce_wood": {
     "criteria": {
       "has_log": "2024-12-29 23:38:34 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/decorations/mahogany_sign": {
+    "criteria": {
+      "has_mahogany_planks": "2024-12-30 00:18:17 +0000"
     },
     "done": true
   },
@@ -12408,9 +12427,21 @@
     },
     "done": true
   },
+  "minecraft:husbandry/tactical_fishing": {
+    "criteria": {
+      "tropical_fish_bucket": "2024-12-30 00:04:08 +0000"
+    },
+    "done": true
+  },
   "mcwdoors:recipes/spruce": {
     "criteria": {
       "has_wood": "2024-12-29 23:38:33 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/building_blocks/mahogany_stairs": {
+    "criteria": {
+      "has_planks": "2024-12-30 00:18:17 +0000"
     },
     "done": true
   },
@@ -12474,6 +12505,12 @@
     },
     "done": true
   },
+  "biomesoplenty:recipes/building_blocks/mahogany_slab": {
+    "criteria": {
+      "has_planks": "2024-12-30 00:18:17 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/jungle_upgraded_gate": {
     "criteria": {
       "has_gate": "2024-12-29 23:39:24 +0000"
@@ -12504,6 +12541,18 @@
     },
     "done": true
   },
+  "biomesoplenty:recipes/decorations/mahogany_fence": {
+    "criteria": {
+      "has_planks": "2024-12-30 00:18:17 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/redstone/mahogany_pressure_plate": {
+    "criteria": {
+      "has_planks": "2024-12-30 00:18:17 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/black_picket_gate": {
     "criteria": {
       "has_gate": "2024-12-29 23:39:24 +0000"
@@ -12513,6 +12562,12 @@
   "cfm:recipes/decorations/blue_picket_gate": {
     "criteria": {
       "has_gate": "2024-12-29 23:39:24 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/redstone/mahogany_button": {
+    "criteria": {
+      "has_planks": "2024-12-30 00:18:17 +0000"
     },
     "done": true
   },
@@ -12543,6 +12598,12 @@
   "mcwtrpdoors:recipes/spruce/spruce_ranch_trapdoor": {
     "criteria": {
       "has_logs": "2024-12-29 23:38:34 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/redstone/mahogany_door": {
+    "criteria": {
+      "has_planks": "2024-12-30 00:18:17 +0000"
     },
     "done": true
   },
@@ -12687,6 +12748,12 @@
   "cfm:recipes/decorations/stripped_spruce_desk": {
     "criteria": {
       "has_planks": "2024-12-29 23:38:33 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/redstone/mahogany_trapdoor": {
+    "criteria": {
+      "has_planks": "2024-12-30 00:18:17 +0000"
     },
     "done": true
   },
