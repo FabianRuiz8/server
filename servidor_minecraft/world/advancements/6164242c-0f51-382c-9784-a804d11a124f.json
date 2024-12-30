@@ -3648,11 +3648,13 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:skeleton": "2024-12-29 16:49:07 +0000",
+      "minecraft:hoglin": "2024-12-30 18:38:00 +0000",
       "minecraft:spider": "2024-12-29 17:33:45 +0000",
       "minecraft:creeper": "2024-12-29 17:50:59 +0000",
       "minecraft:slime": "2024-12-29 18:13:25 +0000",
       "minecraft:wither_skeleton": "2024-12-29 17:49:46 +0000",
       "minecraft:cave_spider": "2024-12-29 17:35:08 +0000",
+      "minecraft:piglin": "2024-12-30 18:38:10 +0000",
       "minecraft:enderman": "2024-12-29 17:49:08 +0000",
       "minecraft:silverfish": "2024-12-29 17:53:03 +0000",
       "minecraft:stray": "2024-12-30 14:47:28 +0000",
@@ -11194,6 +11196,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/netherite_scrap_from_blasting": {
+    "criteria": {
+      "has_ancient_debris": "2024-12-30 18:39:07 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/cut_scorchia_from_stone_types_scorchia_stonecutting": {
     "criteria": {
       "has_stone_types_scorchia": "2024-12-30 18:24:27 +0000"
@@ -11203,6 +11211,12 @@
   "twilightforest:recipes/decorations/uncrafting_table": {
     "criteria": {
       "has_the_recipe": "2024-12-30 18:26:23 +0000"
+    },
+    "done": true
+  },
+  "new_slab_variants:recipes/building_blocks/gold_block_slab": {
+    "criteria": {
+      "has_gold_block": "2024-12-30 18:39:39 +0000"
     },
     "done": true
   },
@@ -11248,6 +11262,12 @@
     },
     "done": true
   },
+  "new_slab_variants:recipes/building_blocks/ancient_debris_slab": {
+    "criteria": {
+      "has_ancient_debris": "2024-12-30 18:39:07 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_blackstone_brick_slab_from_blackstone_stonecutting": {
     "criteria": {
       "has_blackstone": "2024-12-30 18:21:37 +0000"
@@ -11269,6 +11289,18 @@
   "create:recipes/building_blocks/small_scorchia_bricks_from_stone_types_scorchia_stonecutting": {
     "criteria": {
       "has_stone_types_scorchia": "2024-12-30 18:24:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/netherite_upgrade_smithing_template": {
+    "criteria": {
+      "has_netherite_upgrade_smithing_template": "2024-12-30 18:39:29 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/golden_thin_pot": {
+    "criteria": {
+      "has_golden_thin_pot": "2024-12-30 18:39:39 +0000"
     },
     "done": true
   },
@@ -11332,6 +11364,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/gold_ingot_from_gold_block": {
+    "criteria": {
+      "has_gold_block": "2024-12-30 18:39:39 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/cut_scorchia_wall_from_stone_types_scorchia_stonecutting": {
     "criteria": {
       "has_stone_types_scorchia": "2024-12-30 18:24:27 +0000"
@@ -11374,6 +11412,12 @@
     },
     "done": true
   },
+  "minecraft:nether/obtain_ancient_debris": {
+    "criteria": {
+      "ancient_debris": "2024-12-30 18:39:07 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/diorite": {
     "criteria": {
       "has_quartz": "2024-12-30 18:14:52 +0000"
@@ -11395,6 +11439,12 @@
   "handcrafted:recipes/misc/blackstone_pillar_trim": {
     "criteria": {
       "has_blackstone_pillar_trim": "2024-12-30 18:21:37 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/netherite_backpack": {
+    "criteria": {
+      "has_diamond_backpack": "2024-12-30 18:36:08 +0000"
     },
     "done": true
   },
@@ -11428,6 +11478,12 @@
     },
     "done": true
   },
+  "handcrafted:recipes/misc/golden_medium_pot": {
+    "criteria": {
+      "has_golden_medium_pot": "2024-12-30 18:39:39 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/polished_cut_scorchia_from_stone_types_scorchia_stonecutting": {
     "criteria": {
       "has_stone_types_scorchia": "2024-12-30 18:24:27 +0000"
@@ -11449,6 +11505,12 @@
   "aether:recipes/combat/diamond_chestplate_repairing": {
     "criteria": {
       "has_diamond_chestplate": "2024-12-30 18:31:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/loot_bastion": {
+    "criteria": {
+      "loot_bastion_other": "2024-12-30 18:38:29 +0000"
     },
     "done": true
   },
@@ -11476,6 +11538,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/magma_block": {
+    "criteria": {
+      "has_magma_cream": "2024-12-30 18:38:31 +0000"
+    },
+    "done": true
+  },
   "mcwpaths:recipes/blackstone": {
     "criteria": {
       "has_wood": "2024-12-30 18:21:37 +0000"
@@ -11485,6 +11553,18 @@
   "minecraft:recipes/decorations/polished_blackstone_brick_wall_from_blackstone_stonecutting": {
     "criteria": {
       "has_blackstone": "2024-12-30 18:21:37 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/golden_thick_pot": {
+    "criteria": {
+      "has_golden_thick_pot": "2024-12-30 18:39:39 +0000"
+    },
+    "done": true
+  },
+  "new_slab_variants:recipes/building_blocks/gilded_blackstone_slab": {
+    "criteria": {
+      "has_gilded_blackstone": "2024-12-30 18:38:33 +0000"
     },
     "done": true
   },
@@ -11503,6 +11583,12 @@
   "aether:recipes/combat/golden_sword_repairing": {
     "criteria": {
       "has_golden_sword": "2024-12-30 18:23:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/netherite_scrap": {
+    "criteria": {
+      "has_ancient_debris": "2024-12-30 18:39:07 +0000"
     },
     "done": true
   },
@@ -11554,9 +11640,21 @@
     },
     "done": true
   },
+  "handcrafted:recipes/misc/golden_wide_pot": {
+    "criteria": {
+      "has_golden_wide_pot": "2024-12-30 18:39:39 +0000"
+    },
+    "done": true
+  },
   "minecraft:nether/find_bastion": {
     "criteria": {
       "bastion": "2024-12-30 18:21:37 +0000"
+    },
+    "done": true
+  },
+  "super_ore_block:recipes/building_blocks/super_gold_block_from_gold_block": {
+    "criteria": {
+      "has_gold_block": "2024-12-30 18:39:39 +0000"
     },
     "done": true
   },

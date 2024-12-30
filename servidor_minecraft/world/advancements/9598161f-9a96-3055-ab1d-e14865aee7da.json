@@ -3130,7 +3130,8 @@
       "cooked_beef": "2024-12-27 13:56:49 +0000",
       "baked_potato": "2024-12-26 01:31:22 +0000",
       "apple": "2024-12-26 01:37:17 +0000",
-      "bread": "2024-12-26 00:39:53 +0000"
+      "bread": "2024-12-26 00:39:53 +0000",
+      "golden_apple": "2024-12-30 18:34:56 +0000"
     },
     "done": false
   },
@@ -3505,11 +3506,13 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:skeleton": "2024-12-26 01:17:38 +0000",
+      "minecraft:hoglin": "2024-12-30 18:42:37 +0000",
       "minecraft:spider": "2024-12-26 00:42:16 +0000",
       "minecraft:piglin_brute": "2024-12-30 18:32:23 +0000",
       "minecraft:creeper": "2024-12-26 01:21:10 +0000",
       "minecraft:wither_skeleton": "2024-12-26 01:44:28 +0000",
       "minecraft:cave_spider": "2024-12-29 15:47:04 +0000",
+      "minecraft:piglin": "2024-12-30 18:38:12 +0000",
       "minecraft:silverfish": "2024-12-26 01:49:47 +0000",
       "minecraft:stray": "2024-12-26 01:51:11 +0000",
       "minecraft:enderman": "2024-12-29 16:03:34 +0000",
@@ -12821,6 +12824,12 @@
     },
     "done": true
   },
+  "mcwlights:recipes/lamps_ceilings": {
+    "criteria": {
+      "has_the_recipe": "2024-12-30 18:42:51 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/bone_meal_from_bone_block": {
     "criteria": {
       "has_bone_block": "2024-12-30 18:27:21 +0000"
@@ -12863,6 +12872,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/snout_armor_trim_smithing_template": {
+    "criteria": {
+      "has_snout_armor_trim_smithing_template": "2024-12-30 18:35:02 +0000"
+    },
+    "done": true
+  },
   "handcrafted:recipes/misc/vindicator_trophy": {
     "criteria": {
       "has_vindicator_trophy": "2024-12-30 18:03:05 +0000"
@@ -12872,6 +12887,12 @@
   "new_slab_variants:recipes/building_blocks/ancient_debris_slab": {
     "criteria": {
       "has_ancient_debris": "2024-12-30 18:30:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/redstone_lamp": {
+    "criteria": {
+      "has_glowstone": "2024-12-30 18:42:51 +0000"
     },
     "done": true
   },
@@ -12920,6 +12941,18 @@
   "minecraft:recipes/building_blocks/stone_stairs": {
     "criteria": {
       "has_stone": "2024-12-30 18:03:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/obtain_crying_obsidian": {
+    "criteria": {
+      "crying_obsidian": "2024-12-30 18:40:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/netherite_upgrade_smithing_template": {
+    "criteria": {
+      "has_netherite_upgrade_smithing_template": "2024-12-30 18:35:01 +0000"
     },
     "done": true
   },
@@ -12989,6 +13022,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/respawn_anchor": {
+    "criteria": {
+      "has_obsidian": "2024-12-30 18:40:29 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/soul_campfire": {
     "criteria": {
       "has_soul_sand": "2024-12-30 18:21:26 +0000"
@@ -12998,6 +13037,12 @@
   "supplementaries:recipes/netherite_door": {
     "criteria": {
       "has_netherite_scrap": "2024-12-30 18:28:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/snout_armor_trim_smithing_template_smithing_trim": {
+    "criteria": {
+      "has_smithing_trim_template": "2024-12-30 18:35:02 +0000"
     },
     "done": true
   },
@@ -13034,6 +13079,12 @@
   "minecraft:recipes/building_blocks/stone_slab": {
     "criteria": {
       "has_stone": "2024-12-30 18:03:05 +0000"
+    },
+    "done": true
+  },
+  "new_slab_variants:recipes/building_blocks/glowstone_slab": {
+    "criteria": {
+      "has_glowstone": "2024-12-30 18:42:51 +0000"
     },
     "done": true
   },
@@ -13085,9 +13136,21 @@
     },
     "done": true
   },
+  "supplementaries:recipes/ash_brick": {
+    "criteria": {
+      "forge:ash": "2024-12-30 18:37:36 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/quartz_block": {
     "criteria": {
       "has_quartz": "2024-12-30 18:14:51 +0000"
+    },
+    "done": true
+  },
+  "mcwlights:recipes/glowstone_slab": {
+    "criteria": {
+      "has_wood": "2024-12-30 18:42:51 +0000"
     },
     "done": true
   },
@@ -13100,6 +13163,12 @@
   "minecraft:nether/loot_bastion": {
     "criteria": {
       "loot_bastion_other": "2024-12-30 18:26:52 +0000"
+    },
+    "done": true
+  },
+  "new_slab_variants:recipes/building_blocks/crying_obsidian_slab": {
+    "criteria": {
+      "has_crying_obsidian": "2024-12-30 18:40:29 +0000"
     },
     "done": true
   },
