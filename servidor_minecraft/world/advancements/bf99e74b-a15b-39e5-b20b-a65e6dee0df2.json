@@ -13555,6 +13555,24 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/red_dye_from_rose_bush": {
+    "criteria": {
+      "has_rose_bush": "2024-12-30 15:22:01 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/diamond_chestplate_repairing": {
+    "criteria": {
+      "has_diamond_chestplate": "2024-12-30 15:28:04 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/diamond_gloves_repairing": {
+    "criteria": {
+      "has_diamond_gloves": "2024-12-30 15:24:43 +0000"
+    },
+    "done": true
+  },
   "tombstone:adventure/use_guard": {
     "criteria": {
       "coded_trigger": "2024-12-30 15:16:37 +0000"

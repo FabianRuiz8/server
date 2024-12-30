@@ -17549,3 +17549,48 @@ java.lang.ClassNotFoundException: it.unimi.dsi.fastutil.doubles.AbstractDoubleLi
 [30Dec2024 15:19:27.365] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/refinedmods/refinedstorage/container/transfer/InsertionResultType
 [30Dec2024 15:19:41.230] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [joselete123: Teleported joselete123 to myser444]
 [30Dec2024 15:20:41.943] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [joselete123: Teleported joselete123 to carloselpillo]
+[30Dec2024 15:21:01.168] [Server thread/DEBUG] [portb.transformerlib.TransformerLib/]: Transforming twilightforest/inventory/UncraftingContainer (target of net/minecraft/world/Container)
+[30Dec2024 15:21:01.169] [Server thread/DEBUG] [portb.transformerlib.TransformerLib/]: Transforming twilightforest/inventory/UncraftingInputContainer (target of net/minecraft/world/Container)
+[30Dec2024 15:21:04.991] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting mekanism/common/tile/base/WrenchResult
+[30Dec2024 15:21:05.013] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting mekanism/common/inventory/container/sync/ISyncableData$DirtyType
+[30Dec2024 15:21:24.025] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [joselete123: Set the time to 1000]
+[30Dec2024 15:21:38.940] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: marquitosTPMS has made the advancement [Enchanter]
+[30Dec2024 15:22:24.725] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=6098, y=71, z=-422} BlockPos{x=6098, y=70, z=-422}
+[30Dec2024 15:22:24.775] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=6098, y=71, z=-422} BlockPos{x=6098, y=70, z=-422}
+[30Dec2024 15:22:24.822] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=6098, y=71, z=-422} BlockPos{x=6098, y=70, z=-422}
+[30Dec2024 15:22:24.869] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=6098, y=71, z=-422} BlockPos{x=6098, y=70, z=-422}
+[30Dec2024 15:22:24.923] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=6098, y=71, z=-422} BlockPos{x=6098, y=70, z=-422}
+[30Dec2024 15:22:24.974] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=6098, y=71, z=-422} BlockPos{x=6098, y=70, z=-422}
+[30Dec2024 15:22:25.025] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=6098, y=71, z=-422} BlockPos{x=6098, y=70, z=-422}
+[30Dec2024 15:22:25.070] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=6098, y=71, z=-422} BlockPos{x=6098, y=70, z=-422}
+[30Dec2024 15:22:25.133] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=6098, y=71, z=-422} BlockPos{x=6098, y=70, z=-422}
+[30Dec2024 15:22:25.169] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=6098, y=71, z=-422} BlockPos{x=6098, y=70, z=-422}
+[30Dec2024 15:22:25.223] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=6098, y=71, z=-422} BlockPos{x=6098, y=70, z=-422}
+[30Dec2024 15:22:25.271] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=6098, y=71, z=-422} BlockPos{x=6098, y=70, z=-422}
+[30Dec2024 15:22:25.323] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=6098, y=71, z=-422} BlockPos{x=6098, y=70, z=-422}
+[30Dec2024 15:22:25.373] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=6098, y=71, z=-422} BlockPos{x=6098, y=70, z=-422}
+[30Dec2024 15:22:25.424] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=6098, y=71, z=-422} BlockPos{x=6098, y=70, z=-422}
+[30Dec2024 15:22:25.472] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=6098, y=71, z=-422} BlockPos{x=6098, y=70, z=-422}
+[30Dec2024 15:22:25.522] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=6098, y=71, z=-422} BlockPos{x=6098, y=70, z=-422}
+[30Dec2024 15:22:25.572] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=6098, y=71, z=-422} BlockPos{x=6098, y=70, z=-422}
+[30Dec2024 15:22:25.624] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=6098, y=71, z=-422} BlockPos{x=6098, y=70, z=-422}
+[30Dec2024 15:22:25.672] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=6098, y=71, z=-422} BlockPos{x=6098, y=70, z=-422}
+[30Dec2024 15:22:25.724] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=6098, y=71, z=-422} BlockPos{x=6098, y=70, z=-422}
+[30Dec2024 15:22:25.775] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=6098, y=71, z=-422} BlockPos{x=6098, y=70, z=-422}
+[30Dec2024 15:22:25.824] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=6098, y=71, z=-422} BlockPos{x=6098, y=70, z=-422}
+[30Dec2024 15:22:25.872] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=6098, y=71, z=-422} BlockPos{x=6098, y=70, z=-422}
+[30Dec2024 15:22:25.922] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=6098, y=71, z=-422} BlockPos{x=6098, y=70, z=-422}
+[30Dec2024 15:22:25.973] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=6098, y=71, z=-422} BlockPos{x=6098, y=70, z=-422}
+[30Dec2024 15:22:26.022] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=6098, y=71, z=-422} BlockPos{x=6098, y=70, z=-422}
+[30Dec2024 15:22:30.470] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=6089, y=68, z=-425} BlockPos{x=6090, y=70, z=-425}
+[30Dec2024 15:22:52.825] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=6089, y=69, z=-435} BlockPos{x=6089, y=68, z=-436}
+[30Dec2024 15:22:57.724] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=6085, y=69, z=-435} BlockPos{x=6085, y=68, z=-435}
+[30Dec2024 15:22:57.771] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=6085, y=69, z=-435} BlockPos{x=6085, y=68, z=-435}
+[30Dec2024 15:23:11.023] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[30Dec2024 15:23:11.073] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[30Dec2024 15:23:30.470] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=6110, y=71, z=-413} BlockPos{x=6110, y=70, z=-412}
+[30Dec2024 15:23:30.527] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=6110, y=71, z=-413} BlockPos{x=6110, y=70, z=-412}
+[30Dec2024 15:23:30.573] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=6110, y=71, z=-413} BlockPos{x=6110, y=70, z=-412}
+[30Dec2024 15:25:52.863] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [carloselpillo: Teleported carloselpillo to joselete123]
+[30Dec2024 15:28:11.018] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[30Dec2024 15:28:11.074] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world

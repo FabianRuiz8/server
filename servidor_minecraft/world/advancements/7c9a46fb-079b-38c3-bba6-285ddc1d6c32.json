@@ -17889,5 +17889,29 @@
     },
     "done": true
   },
+  "mcwlights:recipes/lamps_ceilings": {
+    "criteria": {
+      "has_the_recipe": "2024-12-30 15:22:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/redstone_lamp": {
+    "criteria": {
+      "has_glowstone": "2024-12-30 15:22:35 +0000"
+    },
+    "done": true
+  },
+  "new_slab_variants:recipes/building_blocks/glowstone_slab": {
+    "criteria": {
+      "has_glowstone": "2024-12-30 15:22:35 +0000"
+    },
+    "done": true
+  },
+  "mcwlights:recipes/glowstone_slab": {
+    "criteria": {
+      "has_wood": "2024-12-30 15:22:35 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }

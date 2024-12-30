@@ -10830,6 +10830,12 @@
     },
     "done": true
   },
+  "minecraft:story/enchant_item": {
+    "criteria": {
+      "enchanted_item": "2024-12-30 15:21:38 +0000"
+    },
+    "done": true
+  },
   "new_slab_variants:recipes/building_blocks/nether_wart_block_slab": {
     "criteria": {
       "has_nether_wart_block": "2024-12-30 15:01:53 +0000"
