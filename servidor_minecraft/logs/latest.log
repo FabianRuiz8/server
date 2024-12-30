@@ -2218,3 +2218,34 @@ java.lang.ClassNotFoundException: it.unimi.dsi.fastutil.doubles.AbstractDoubleLi
 [30Dec2024 15:23:30.527] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=6110, y=71, z=-413} BlockPos{x=6110, y=70, z=-412}
 [30Dec2024 15:23:30.573] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=6110, y=71, z=-413} BlockPos{x=6110, y=70, z=-412}
 [30Dec2024 15:25:52.863] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [carloselpillo: Teleported carloselpillo to joselete123]
+[30Dec2024 15:32:59.265] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [joselete123: Set the time to 1000]
+[30Dec2024 15:33:06.018] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [joselete123: Set the weather to clear]
+[30Dec2024 15:37:35.340] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: You whisper to myser444: La rueda de la fortuna, nunca es una.
+[30Dec2024 15:38:11.316] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/illusivesoulworks/comforts/common/ComfortsEvents$Result
+[30Dec2024 15:38:42.107] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/github/alexthe666/alexsmobs/entity/util/TerrapinTypes
+[30Dec2024 15:38:50.424] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2527ms or 50 ticks behind
+[30Dec2024 15:39:42.489] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: myser444 was doomed to fall by Bison
+[30Dec2024 15:39:42.547] [Server thread/INFO] [tombstone/]: The player myser444 has successfully been saved
+[30Dec2024 15:40:33.350] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: marquitosTPMS has made the advancement [Light Up The World!]
+[30Dec2024 15:40:54.702] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6755ms or 135 ticks behind
+[30Dec2024 15:40:54.773] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: myser444 moved too quickly! 4.420903356300187,0.49520087700592796,-9.148253723465643
+[30Dec2024 15:40:54.894] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: myser444 moved too quickly! -5.893711024111326,-2.519260118737435,8.447313611029244
+[30Dec2024 15:41:52.007] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: myser444 moved too quickly! 5.526327571294132,-8.556162488249399,0.034023074235904005
+[30Dec2024 15:41:52.017] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3320ms or 66 ticks behind
+[30Dec2024 15:41:57.301] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: myser444 moved too quickly! 8.346224687117683,3.3045671574711335,-4.466119112621584
+[30Dec2024 15:42:12.377] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2030ms or 40 ticks behind
+[30Dec2024 15:44:15.101] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2703ms or 54 ticks behind
+[30Dec2024 15:44:20.138] [pool-8-thread-1/INFO] [Supplementaries/]: Searching for closest structure among [ResourceKey[minecraft:worldgen/structure / minecraft:village_taiga], ResourceKey[minecraft:worldgen/structure / blue_skies:village_slushlands], ResourceKey[minecraft:worldgen/structure / blue_skies:village_sunset_maple_forest], ResourceKey[minecraft:worldgen/structure / blue_skies:village_calming_skies], ResourceKey[minecraft:worldgen/structure / minecraft:village_desert], ResourceKey[minecraft:worldgen/structure / minecraft:village_plains], ResourceKey[minecraft:worldgen/structure / blue_skies:village_shaded_woodlands], ResourceKey[minecraft:worldgen/structure / minecraft:village_savanna]] from pos BlockPos{x=5611, y=71, z=-1157}
+[30Dec2024 15:44:20.148] [pool-8-thread-1/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/levelgen/structure/StructureCheckResult
+[30Dec2024 15:44:20.405] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/mehvahdjukaar/amendments/reg/ModBlockProperties$PostType
+[30Dec2024 15:44:50.088] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2291ms or 45 ticks behind
+[30Dec2024 15:48:32.810] [Server thread/INFO] [net.blay09.mods.netherportalfix.NetherPortalFix/]: No return portal found
+[30Dec2024 15:48:32.940] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/lighting/LayerLightEventListener$DummyLightLayerEventListener
+[30Dec2024 15:49:11.932] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/monster/piglin/PiglinArmPose
+[30Dec2024 15:50:21.372] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: marquitosTPMS lost connection: Disconnected
+[30Dec2024 15:50:21.373] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: marquitosTPMS left the game
+[30Dec2024 15:50:36.046] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [joselete123: Teleported joselete123 to -340.500000, -69.000000, 120.500000]
+[30Dec2024 15:50:37.968] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: joselete123 fell out of the world
+[30Dec2024 15:50:38.045] [Server thread/INFO] [tombstone/]: The player joselete123 has successfully been saved
+[30Dec2024 15:50:50.866] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: carloselpillo fell from a high place
+[30Dec2024 15:50:50.871] [Server thread/INFO] [tombstone/]: The player carloselpillo has successfully been saved
