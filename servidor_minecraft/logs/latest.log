@@ -2520,3 +2520,30 @@ java.lang.ClassNotFoundException: it.unimi.dsi.fastutil.doubles.AbstractDoubleLi
 [30Dec2024 19:04:35.132] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [marquitosTPMS: Teleported marquitosTPMS to myser444]
 [30Dec2024 19:04:40.623] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [marquitosTPMS: Teleported marquitosTPMS to carloselpillo]
 [30Dec2024 19:05:34.076] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [marquitosTPMS: Teleported marquitosTPMS to DeferentCurve07]
+[30Dec2024 19:07:32.722] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: marquitosTPMS drowned
+[30Dec2024 19:07:32.798] [Server thread/INFO] [tombstone/]: The player marquitosTPMS has successfully been saved
+[30Dec2024 19:07:37.476] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: marquitosTPMS lost connection: Disconnected
+[30Dec2024 19:07:37.477] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: marquitosTPMS left the game
+[30Dec2024 19:09:39.074] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DeferentCurve07 has made the advancement [Spooky Scary Skeleton]
+[30Dec2024 19:11:05.849] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: marquitosTPMS[/127.9.149.75:34531] logged in with entity id 186657 at (6199.984912183179, 47.0, -352.72324167698247)
+[30Dec2024 19:11:05.864] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to marquitosTPMS
+[30Dec2024 19:11:05.871] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to marquitosTPMS
+[30Dec2024 19:11:05.871] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to marquitosTPMS
+[30Dec2024 19:11:05.872] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to marquitosTPMS
+[30Dec2024 19:11:05.874] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to marquitosTPMS
+[30Dec2024 19:11:05.886] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to marquitosTPMS
+[30Dec2024 19:11:05.886] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to marquitosTPMS
+[30Dec2024 19:11:06.094] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: marquitosTPMS joined the game
+[30Dec2024 19:11:06.232] [Server thread/INFO] [Jade/]: Syncing config to marquitosTPMS (6164242c-0f51-382c-9784-a804d11a124f)
+[30Dec2024 19:13:10.076] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [carloselpillo: Teleported carloselpillo to DeferentCurve07]
+[30Dec2024 19:13:28.367] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: marquitosTPMS was slain by DeferentCurve07
+[30Dec2024 19:13:28.372] [Server thread/INFO] [tombstone/]: The player marquitosTPMS has successfully been saved
+[30Dec2024 19:13:35.928] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [marquitosTPMS: Teleported marquitosTPMS to DeferentCurve07]
+[30Dec2024 19:14:26.995] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: marquitosTPMS has made the advancement [Hot Stuff]
+[30Dec2024 19:15:18.769] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [myser444: Teleported myser444 to marquitosTPMS]
+[30Dec2024 19:15:46.666] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DeferentCurve07 has made the advancement [Take Aim]
+[30Dec2024 19:16:03.769] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DeferentCurve07 was slain by marquitosTPMS
+[30Dec2024 19:16:03.779] [Server thread/INFO] [tombstone/]: The player DeferentCurve07 has successfully been saved
+[30Dec2024 19:16:31.769] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: marquitosTPMS lost connection: Disconnected
+[30Dec2024 19:16:31.769] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: marquitosTPMS left the game
+[30Dec2024 19:16:42.731] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: DeferentCurve07 moved too quickly! -10.124128938832655,0.0,-0.3325506400975655
