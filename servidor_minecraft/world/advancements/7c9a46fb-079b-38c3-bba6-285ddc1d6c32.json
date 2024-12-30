@@ -17920,6 +17920,12 @@
     },
     "done": true
   },
+  "new_slab_variants:recipes/building_blocks/ladder_slab": {
+    "criteria": {
+      "has_ladder": "2024-12-30 17:54:08 +0000"
+    },
+    "done": true
+  },
   "new_slab_variants:recipes/building_blocks/glowstone_slab": {
     "criteria": {
       "has_glowstone": "2024-12-30 15:22:35 +0000"
