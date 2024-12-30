@@ -4074,6 +4074,7 @@
   },
   "mekanismadditions:hurt_by_babies": {
     "criteria": {
+      "baby_enderman": "2024-12-30 14:15:04 +0000",
       "baby_skeleton": "2024-12-21 23:29:07 +0000",
       "baby_creeper": "2024-12-25 20:25:54 +0000"
     },
@@ -13533,6 +13534,12 @@
   "minecraft:recipes/food/cooked_cod_from_smoking": {
     "criteria": {
       "has_cod": "2024-12-30 14:12:19 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/chainmail_helmet_repairing": {
+    "criteria": {
+      "has_chainmail_helmet": "2024-12-30 14:23:48 +0000"
     },
     "done": true
   },
