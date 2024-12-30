@@ -17853,6 +17853,18 @@
     },
     "done": true
   },
+  "new_slab_variants:recipes/building_blocks/netherite_block_slab": {
+    "criteria": {
+      "has_netherite_block": "2024-12-30 13:37:11 +0000"
+    },
+    "done": true
+  },
+  "super_ore_block:recipes/building_blocks/super_netherite_block_from_netherite_block": {
+    "criteria": {
+      "has_netherite_block": "2024-12-30 13:37:11 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/misc/reinforced_nether_brick_fence": {
     "criteria": {
       "has_stick": "2024-12-30 13:57:04 +0000"
@@ -17871,21 +17883,9 @@
     },
     "done": false
   },
-  "new_slab_variants:recipes/building_blocks/netherite_block_slab": {
-    "criteria": {
-      "has_netherite_block": "2024-12-30 13:37:11 +0000"
-    },
-    "done": true
-  },
   "tombstone:adventure/fortuitous_militia": {
     "criteria": {
       "coded_trigger": "2024-12-30 14:06:16 +0000"
-    },
-    "done": true
-  },
-  "super_ore_block:recipes/building_blocks/super_netherite_block_from_netherite_block": {
-    "criteria": {
-      "has_netherite_block": "2024-12-30 13:37:11 +0000"
     },
     "done": true
   },

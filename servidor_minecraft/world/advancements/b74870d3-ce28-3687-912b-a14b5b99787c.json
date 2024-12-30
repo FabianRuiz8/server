@@ -14716,6 +14716,12 @@
     },
     "done": true
   },
+  "refinedstorage:connecting": {
+    "criteria": {
+      "cable_in_inventory": "2024-12-30 02:11:00 +0000"
+    },
+    "done": true
+  },
   "create:recipes/combat/crafting/appliances/netherite_diving_helmet_from_netherite": {
     "criteria": {
       "has_item": "2024-12-30 02:12:02 +0000"
@@ -14728,21 +14734,15 @@
     },
     "done": true
   },
-  "aether:recipes/combat/netherite_boots_repairing": {
-    "criteria": {
-      "has_netherite_boots": "2024-12-30 02:12:17 +0000"
-    },
-    "done": true
-  },
-  "refinedstorage:connecting": {
-    "criteria": {
-      "cable_in_inventory": "2024-12-30 02:11:00 +0000"
-    },
-    "done": true
-  },
   "aether:recipes/combat/netherite_leggings_repairing": {
     "criteria": {
       "has_netherite_leggings": "2024-12-30 02:12:06 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/netherite_boots_repairing": {
+    "criteria": {
+      "has_netherite_boots": "2024-12-30 02:12:17 +0000"
     },
     "done": true
   },
