@@ -13677,6 +13677,18 @@
     },
     "done": true
   },
+  "connectedglass:recipes/misc/clear_glass_black_pane2": {
+    "criteria": {
+      "recipe_condition1": "2024-12-30 19:44:47 +0000"
+    },
+    "done": true
+  },
+  "connectedglass:recipes/misc/clear_glass_light_blue_pane2": {
+    "criteria": {
+      "recipe_condition1": "2024-12-30 19:44:47 +0000"
+    },
+    "done": true
+  },
   "mcwbridges:recipes/balustrade_granite_bridge": {
     "criteria": {
       "has_planks": "2024-12-30 18:02:23 +0000"
@@ -13686,6 +13698,12 @@
   "create:recipes/building_blocks/cut_granite_brick_stairs_from_stone_types_granite_stonecutting": {
     "criteria": {
       "has_stone_types_granite": "2024-12-30 18:02:23 +0000"
+    },
+    "done": true
+  },
+  "connectedglass:recipes/misc/clear_glass_blue_pane2": {
+    "criteria": {
+      "recipe_condition1": "2024-12-30 19:44:47 +0000"
     },
     "done": true
   },
@@ -13707,6 +13725,12 @@
     },
     "done": true
   },
+  "connectedglass:recipes/misc/clear_glass_cyan_pane2": {
+    "criteria": {
+      "recipe_condition1": "2024-12-30 19:44:47 +0000"
+    },
+    "done": true
+  },
   "connectedglass:recipes/misc/borderless_glass_red2": {
     "criteria": {
       "recipe_condition1": "2024-12-30 19:31:07 +0000"
@@ -13719,6 +13743,12 @@
     },
     "done": true
   },
+  "connectedglass:recipes/misc/clear_glass_white_pane2": {
+    "criteria": {
+      "recipe_condition1": "2024-12-30 19:44:47 +0000"
+    },
+    "done": true
+  },
   "connectedglass:recipes/misc/borderless_glass_light_gray2": {
     "criteria": {
       "recipe_condition1": "2024-12-30 19:31:07 +0000"
@@ -13728,6 +13758,12 @@
   "minecraft:recipes/building_blocks/polished_blackstone_brick_slab_from_blackstone_stonecutting": {
     "criteria": {
       "has_blackstone": "2024-12-30 18:24:05 +0000"
+    },
+    "done": true
+  },
+  "connectedglass:recipes/misc/clear_glass_red_pane2": {
+    "criteria": {
+      "recipe_condition1": "2024-12-30 19:44:47 +0000"
     },
     "done": true
   },
@@ -13749,6 +13785,12 @@
     },
     "done": true
   },
+  "connectedglass:recipes/misc/clear_glass_lime_pane2": {
+    "criteria": {
+      "recipe_condition1": "2024-12-30 19:44:47 +0000"
+    },
+    "done": true
+  },
   "aether:recipes/combat/diamond_helmet_repairing": {
     "criteria": {
       "has_diamond_helmet": "2024-12-30 19:29:52 +0000"
@@ -13758,6 +13800,12 @@
   "twilightforest:recipes/decorations/wood/dark_oak_banister": {
     "criteria": {
       "has_item": "2024-12-30 17:57:15 +0000"
+    },
+    "done": true
+  },
+  "connectedglass:recipes/misc/clear_glass_pink_pane2": {
+    "criteria": {
+      "recipe_condition1": "2024-12-30 19:44:47 +0000"
     },
     "done": true
   },
@@ -13785,9 +13833,21 @@
     },
     "done": true
   },
+  "connectedglass:recipes/misc/scratched_glass_pane1": {
+    "criteria": {
+      "recipe_condition": "2024-12-30 19:44:47 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/cut_granite_wall_from_stone_types_granite_stonecutting": {
     "criteria": {
       "has_stone_types_granite": "2024-12-30 18:02:23 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/misc/keypad_item": {
+    "criteria": {
+      "has_stone_button": "2024-12-30 19:48:26 +0000"
     },
     "done": true
   },
@@ -13872,6 +13932,18 @@
   "minecraft:recipes/building_blocks/polished_blackstone_bricks_from_blackstone_stonecutting": {
     "criteria": {
       "has_blackstone": "2024-12-30 18:24:05 +0000"
+    },
+    "done": true
+  },
+  "connectedglass:recipes/misc/clear_glass_brown_pane2": {
+    "criteria": {
+      "recipe_condition1": "2024-12-30 19:44:47 +0000"
+    },
+    "done": true
+  },
+  "connectedglass:recipes/misc/clear_glass_light_gray_pane2": {
+    "criteria": {
+      "recipe_condition1": "2024-12-30 19:44:47 +0000"
     },
     "done": true
   },
@@ -13965,9 +14037,21 @@
     },
     "done": true
   },
+  "connectedglass:recipes/misc/clear_glass_magenta_pane2": {
+    "criteria": {
+      "recipe_condition1": "2024-12-30 19:44:47 +0000"
+    },
+    "done": true
+  },
   "mcwbridges:recipes/blackstone_bridge_pier": {
     "criteria": {
       "has_planks": "2024-12-30 18:24:05 +0000"
+    },
+    "done": true
+  },
+  "connectedglass:recipes/misc/clear_glass_purple_pane2": {
+    "criteria": {
+      "recipe_condition1": "2024-12-30 19:44:47 +0000"
     },
     "done": true
   },
@@ -14022,6 +14106,12 @@
   "handcrafted:recipes/misc/blackstone_corner_trim": {
     "criteria": {
       "has_blackstone_corner_trim": "2024-12-30 18:24:05 +0000"
+    },
+    "done": true
+  },
+  "connectedglass:recipes/misc/clear_glass_green_pane2": {
+    "criteria": {
+      "recipe_condition1": "2024-12-30 19:44:47 +0000"
     },
     "done": true
   },
@@ -14109,6 +14199,18 @@
     },
     "done": true
   },
+  "connectedglass:recipes/misc/clear_glass_yellow_pane2": {
+    "criteria": {
+      "recipe_condition1": "2024-12-30 19:44:47 +0000"
+    },
+    "done": true
+  },
+  "connectedglass:recipes/misc/clear_glass_gray_pane2": {
+    "criteria": {
+      "recipe_condition1": "2024-12-30 19:44:47 +0000"
+    },
+    "done": true
+  },
   "connectedglass:recipes/misc/borderless_glass_brown2": {
     "criteria": {
       "recipe_condition1": "2024-12-30 19:31:07 +0000"
@@ -14118,6 +14220,12 @@
   "connectedglass:recipes/misc/borderless_glass_cyan2": {
     "criteria": {
       "recipe_condition1": "2024-12-30 19:31:07 +0000"
+    },
+    "done": true
+  },
+  "connectedglass:recipes/misc/clear_glass_orange_pane2": {
+    "criteria": {
+      "recipe_condition1": "2024-12-30 19:44:47 +0000"
     },
     "done": true
   },

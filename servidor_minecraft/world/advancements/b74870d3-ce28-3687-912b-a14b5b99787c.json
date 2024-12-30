@@ -14766,6 +14766,12 @@
     },
     "done": true
   },
+  "handcrafted:recipes/misc/cherry_cupboard": {
+    "criteria": {
+      "has_cherry_cupboard": "2024-12-30 19:51:00 +0000"
+    },
+    "done": true
+  },
   "blue_skies:recipes/combat/bluebright_spear": {
     "criteria": {
       "has_item": "2024-12-30 18:54:57 +0000"
@@ -14781,6 +14787,12 @@
   "new_slab_variants:recipes/building_blocks/gold_block_slab": {
     "criteria": {
       "has_gold_block": "2024-12-30 16:42:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cherry_fence": {
+    "criteria": {
+      "has_planks": "2024-12-30 19:51:00 +0000"
     },
     "done": true
   },
@@ -14856,6 +14868,12 @@
     },
     "done": true
   },
+  "mcwroofs:recipes/cherry_planks": {
+    "criteria": {
+      "has_planks": "2024-12-30 19:51:00 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/pumpkin_pie": {
     "criteria": {
       "has_pumpkin": "2024-12-30 18:55:20 +0000"
@@ -14874,6 +14892,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/cherry_sign": {
+    "criteria": {
+      "has_planks": "2024-12-30 19:51:00 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cut_sandstone_from_sandstone_stonecutting": {
     "criteria": {
       "has_sandstone": "2024-12-30 18:57:52 +0000"
@@ -14889,6 +14913,12 @@
   "blue_skies:recipes/tools/ventium_bucket": {
     "criteria": {
       "has_item": "2024-12-30 18:54:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/cherry_pressure_plate": {
+    "criteria": {
+      "has_planks": "2024-12-30 19:51:00 +0000"
     },
     "done": true
   },
@@ -14952,6 +14982,12 @@
     },
     "done": true
   },
+  "decorative_blocks:recipes/building_blocks/cherry_support": {
+    "criteria": {
+      "has_plank": "2024-12-30 19:51:00 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/sandstone_slab": {
     "criteria": {
       "has_sandstone": "2024-12-30 18:57:52 +0000"
@@ -14967,6 +15003,18 @@
   "blue_skies:recipes/combat/comet_spear": {
     "criteria": {
       "has_item": "2024-12-30 18:54:57 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/cherry_counter": {
+    "criteria": {
+      "has_cherry_counter": "2024-12-30 19:51:00 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/decorations/sign_post_cherry": {
+    "criteria": {
+      "has_planks": "2024-12-30 19:51:00 +0000"
     },
     "done": true
   },
@@ -14988,9 +15036,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/cherry_trapdoor": {
+    "criteria": {
+      "has_planks": "2024-12-30 19:51:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/cherry_button": {
+    "criteria": {
+      "has_planks": "2024-12-30 19:51:00 +0000"
+    },
+    "done": true
+  },
   "aether:recipes/combat/golden_chestplate_repairing": {
     "criteria": {
       "has_golden_chestplate": "2024-12-30 18:30:20 +0000"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/rope_cherry_bridge": {
+    "criteria": {
+      "has_planks": "2024-12-30 19:51:00 +0000"
+    },
+    "done": true
+  },
+  "decorative_blocks:recipes/building_blocks/cherry_seat": {
+    "criteria": {
+      "has_plank": "2024-12-30 19:51:00 +0000"
     },
     "done": true
   },
@@ -15003,6 +15075,12 @@
   "blue_skies:recipes/tools/zeal_lighter": {
     "criteria": {
       "has_item": "2024-12-30 18:54:57 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/cherry_dining_bench": {
+    "criteria": {
+      "has_cherry_dining_bench": "2024-12-30 19:51:00 +0000"
     },
     "done": true
   },
@@ -15027,6 +15105,12 @@
   "minecraft:recipes/decorations/respawn_anchor": {
     "criteria": {
       "has_obsidian": "2024-12-30 16:23:58 +0000"
+    },
+    "done": true
+  },
+  "mcwpaths:recipes/cherry": {
+    "criteria": {
+      "has_wood": "2024-12-30 19:51:00 +0000"
     },
     "done": true
   },
@@ -15060,6 +15144,12 @@
     },
     "done": true
   },
+  "handcrafted:recipes/misc/cherry_desk": {
+    "criteria": {
+      "has_cherry_desk": "2024-12-30 19:51:00 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_blackstone_brick_slab_from_polished_blackstone_stonecutting": {
     "criteria": {
       "has_polished_blackstone": "2024-12-30 16:38:47 +0000"
@@ -15072,9 +15162,27 @@
     },
     "done": true
   },
+  "supplementaries:recipes/sign_post_cherry": {
+    "criteria": {
+      "has_the_recipe": "2024-12-30 19:51:00 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/cherry_drawer": {
+    "criteria": {
+      "has_cherry_drawer": "2024-12-30 19:51:00 +0000"
+    },
+    "done": true
+  },
   "aether:recipes/combat/golden_boots_repairing": {
     "criteria": {
       "has_golden_boots": "2024-12-30 16:24:10 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/cherry_table": {
+    "criteria": {
+      "has_cherry_table": "2024-12-30 19:51:00 +0000"
     },
     "done": true
   },
@@ -15264,6 +15372,12 @@
     },
     "done": true
   },
+  "handcrafted:recipes/misc/cherry_fancy_bed": {
+    "criteria": {
+      "has_cherry_fancy_bed": "2024-12-30 19:51:00 +0000"
+    },
+    "done": true
+  },
   "new_slab_variants:recipes/building_blocks/crying_obsidian_slab": {
     "criteria": {
       "has_crying_obsidian": "2024-12-30 16:23:58 +0000"
@@ -15276,6 +15390,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/cherry_door": {
+    "criteria": {
+      "has_planks": "2024-12-30 19:51:00 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_blackstone_bricks": {
     "criteria": {
       "has_polished_blackstone": "2024-12-30 16:38:47 +0000"
@@ -15285,6 +15405,18 @@
   "blue_skies:recipes/tools/ventium_shears": {
     "criteria": {
       "has_item": "2024-12-30 18:54:47 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/cherry_couch": {
+    "criteria": {
+      "has_cherry_couch": "2024-12-30 19:51:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cherry_slab": {
+    "criteria": {
+      "has_planks": "2024-12-30 19:51:00 +0000"
     },
     "done": true
   },
@@ -15318,6 +15450,18 @@
     },
     "done": true
   },
+  "mcwbridges:recipes/cherry_log_bridge_middle": {
+    "criteria": {
+      "has_planks": "2024-12-30 19:51:00 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/cherry_bench": {
+    "criteria": {
+      "has_cherry_bench": "2024-12-30 19:51:00 +0000"
+    },
+    "done": true
+  },
   "handcrafted:recipes/misc/golden_thick_pot": {
     "criteria": {
       "has_golden_thick_pot": "2024-12-30 16:42:30 +0000"
@@ -15336,6 +15480,12 @@
     },
     "done": true
   },
+  "handcrafted:recipes/misc/cherry_side_table": {
+    "criteria": {
+      "has_cherry_side_table": "2024-12-30 19:51:00 +0000"
+    },
+    "done": true
+  },
   "handcrafted:recipes/misc/blackstone_corner_trim": {
     "criteria": {
       "has_blackstone_corner_trim": "2024-12-30 16:13:22 +0000"
@@ -15348,9 +15498,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/cherry_stairs": {
+    "criteria": {
+      "has_planks": "2024-12-30 19:51:00 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/globe_sepia": {
     "criteria": {
       "has_globe": "2024-12-30 18:57:08 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/cherry_corner_trim": {
+    "criteria": {
+      "has_cherry_corner_trim": "2024-12-30 19:51:00 +0000"
     },
     "done": true
   },
@@ -15372,9 +15534,21 @@
     },
     "done": true
   },
+  "handcrafted:recipes/misc/cherry_nightstand": {
+    "criteria": {
+      "has_cherry_nightstand": "2024-12-30 19:51:00 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/sandstone_stairs_from_sandstone_stonecutting": {
     "criteria": {
       "has_sandstone": "2024-12-30 18:57:52 +0000"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/cherry_rail_bridge": {
+    "criteria": {
+      "has_planks": "2024-12-30 19:51:00 +0000"
     },
     "done": true
   },
@@ -15406,6 +15580,18 @@
   "minecraft:recipes/building_blocks/blackstone_slab_from_blackstone_stonecutting": {
     "criteria": {
       "has_blackstone": "2024-12-30 16:13:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/cherry_fence_gate": {
+    "criteria": {
+      "has_planks": "2024-12-30 19:51:00 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/cherry_chair": {
+    "criteria": {
+      "has_cherry_chair": "2024-12-30 19:51:00 +0000"
     },
     "done": true
   },
@@ -15445,6 +15631,12 @@
     },
     "done": true
   },
+  "handcrafted:recipes/misc/cherry_shelf": {
+    "criteria": {
+      "has_cherry_shelf": "2024-12-30 19:51:00 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/sandstone_wall": {
     "criteria": {
       "has_sandstone": "2024-12-30 18:57:52 +0000"
@@ -15454,6 +15646,12 @@
   "aether:recipes/food/moa_egg_pumpkin_pie": {
     "criteria": {
       "has_pumpkin": "2024-12-30 18:55:20 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/cherry_pillar_trim": {
+    "criteria": {
+      "has_cherry_pillar_trim": "2024-12-30 19:51:00 +0000"
     },
     "done": true
   },
