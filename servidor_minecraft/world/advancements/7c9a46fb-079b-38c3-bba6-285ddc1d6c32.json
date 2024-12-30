@@ -17846,5 +17846,23 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/netherite_ingot_from_netherite_block": {
+    "criteria": {
+      "has_netherite_block": "2024-12-30 13:37:11 +0000"
+    },
+    "done": true
+  },
+  "new_slab_variants:recipes/building_blocks/netherite_block_slab": {
+    "criteria": {
+      "has_netherite_block": "2024-12-30 13:37:11 +0000"
+    },
+    "done": true
+  },
+  "super_ore_block:recipes/building_blocks/super_netherite_block_from_netherite_block": {
+    "criteria": {
+      "has_netherite_block": "2024-12-30 13:37:11 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
