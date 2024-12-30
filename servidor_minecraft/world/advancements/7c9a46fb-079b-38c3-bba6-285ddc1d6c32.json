@@ -15458,6 +15458,12 @@
     },
     "done": true
   },
+  "handcrafted:recipes/misc/light_gray_cushion": {
+    "criteria": {
+      "has_light_gray_cushion": "2024-12-30 01:53:51 +0000"
+    },
+    "done": true
+  },
   "refinedstorage:recipes/misc/coloring_recipes/brown_network_receiver": {
     "criteria": {
       "refinedstorage:controller": "2024-12-30 01:12:35 +0000"
@@ -15557,6 +15563,12 @@
   "refinedstorage:recipes/misc/coloring_recipes/light_gray_disk_manipulator": {
     "criteria": {
       "refinedstorage:controller": "2024-12-30 01:12:35 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/potato_chips": {
+    "criteria": {
+      "has_potato": "2024-12-30 01:53:03 +0000"
     },
     "done": true
   },
@@ -15710,6 +15722,12 @@
     },
     "done": true
   },
+  "new_slab_variants:recipes/building_blocks/light_gray_wool_slab": {
+    "criteria": {
+      "has_light_gray_wool": "2024-12-30 01:53:51 +0000"
+    },
+    "done": true
+  },
   "refinedstorage:recipes/misc/fluid_grid/magenta_fluid_grid": {
     "criteria": {
       "refinedstorage:grid": "2024-12-30 01:17:14 +0000"
@@ -15731,6 +15749,12 @@
   "refinedstorage:recipes/misc/coloring_recipes/pink_crafter_manager": {
     "criteria": {
       "refinedstorage:controller": "2024-12-30 01:12:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/light_gray_bed": {
+    "criteria": {
+      "has_light_gray_wool": "2024-12-30 01:53:51 +0000"
     },
     "done": true
   },
@@ -15773,6 +15797,12 @@
   "refinedstorage:recipes/misc/coloring_recipes/green_grid": {
     "criteria": {
       "refinedstorage:controller": "2024-12-30 01:12:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/hopper_minecart": {
+    "criteria": {
+      "has_minecart": "2024-12-30 01:52:03 +0000"
     },
     "done": true
   },
@@ -15896,6 +15926,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/light_gray_carpet": {
+    "criteria": {
+      "has_light_gray_wool": "2024-12-30 01:53:51 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/grindstone": {
     "criteria": {
       "has_stone_slab": "2024-12-29 23:29:43 +0000"
@@ -15944,6 +15980,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/powered_rail": {
+    "criteria": {
+      "has_rail": "2024-12-30 01:51:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/rail": {
+    "criteria": {
+      "has_minecart": "2024-12-30 01:52:03 +0000"
+    },
+    "done": true
+  },
   "refinedstorage:recipes/misc/coloring_recipes/black_relay": {
     "criteria": {
       "refinedstorage:controller": "2024-12-30 01:12:35 +0000"
@@ -15953,6 +16001,12 @@
   "refinedstorage:recipes/misc/coloring_recipes/yellow_controller": {
     "criteria": {
       "refinedstorage:controller": "2024-12-30 01:12:35 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/misc/aether_tune_enchanting": {
+    "criteria": {
+      "has_disc": "2024-12-30 01:51:35 +0000"
     },
     "done": true
   },
@@ -15971,6 +16025,12 @@
   "colourfulearth:recipes/decorations/grass_dyed_red": {
     "criteria": {
       "has_grass_block": "2024-12-30 01:50:03 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/tools/stone_hoe_repairing": {
+    "criteria": {
+      "has_stone_hoe": "2024-12-30 01:51:58 +0000"
     },
     "done": true
   },
@@ -16001,6 +16061,12 @@
   "refinedstorage:recipes/misc/coloring_recipes/blue_disk_manipulator": {
     "criteria": {
       "refinedstorage:controller": "2024-12-30 01:12:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/baked_potato_from_campfire_cooking": {
+    "criteria": {
+      "has_potato": "2024-12-30 01:53:03 +0000"
     },
     "done": true
   },
@@ -16037,6 +16103,12 @@
   "colourfulearth:recipes/decorations/grass_dyed_green": {
     "criteria": {
       "has_grass_block": "2024-12-30 01:50:03 +0000"
+    },
+    "done": true
+  },
+  "comforts:sleeping_bag_light_gray": {
+    "criteria": {
+      "has_light_gray_wool": "2024-12-30 01:53:51 +0000"
     },
     "done": true
   },
@@ -16115,6 +16187,12 @@
   "refinedstorage:recipes/misc/coloring_recipes/black_controller": {
     "criteria": {
       "refinedstorage:controller": "2024-12-30 01:12:35 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/light_gray_sheet": {
+    "criteria": {
+      "has_light_gray_sheet": "2024-12-30 01:53:51 +0000"
     },
     "done": true
   },
@@ -16256,6 +16334,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/detector_rail": {
+    "criteria": {
+      "has_rail": "2024-12-30 01:51:59 +0000"
+    },
+    "done": true
+  },
   "refinedstorage:recipes/misc/coloring_recipes/green_disk_manipulator": {
     "criteria": {
       "refinedstorage:controller": "2024-12-30 01:12:35 +0000"
@@ -16265,6 +16349,12 @@
   "create:recipes/building_blocks/cut_veridium_slab_from_stone_types_veridium_stonecutting": {
     "criteria": {
       "has_stone_types_veridium": "2024-12-30 01:48:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/chest_minecart": {
+    "criteria": {
+      "has_minecart": "2024-12-30 01:52:03 +0000"
     },
     "done": true
   },
@@ -16304,6 +16394,12 @@
     },
     "done": true
   },
+  "supplementaries:recipes/dispenser_minecart": {
+    "criteria": {
+      "has_minecart": "2024-12-30 01:52:03 +0000"
+    },
+    "done": true
+  },
   "refinedstorage:recipes/misc/crafting_grid/light_gray_crafting_grid": {
     "criteria": {
       "refinedstorage:grid": "2024-12-30 01:17:14 +0000"
@@ -16325,6 +16421,12 @@
   "refinedstorage:recipes/misc/coloring_recipes/orange_disk_manipulator": {
     "criteria": {
       "refinedstorage:controller": "2024-12-30 01:12:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/baked_potato_from_smoking": {
+    "criteria": {
+      "has_potato": "2024-12-30 01:53:03 +0000"
     },
     "done": true
   },
@@ -16442,6 +16544,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/light_gray_banner": {
+    "criteria": {
+      "has_light_gray_wool": "2024-12-30 01:53:51 +0000"
+    },
+    "done": true
+  },
   "refinedstorage:recipes/misc/pattern_grid/gray_pattern_grid": {
     "criteria": {
       "refinedstorage:grid": "2024-12-30 01:17:14 +0000"
@@ -16457,6 +16565,12 @@
   "refinedstorage:recipes/misc/coloring_recipes/red_crafter_manager": {
     "criteria": {
       "refinedstorage:controller": "2024-12-30 01:12:35 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/light_gray_sofa": {
+    "criteria": {
+      "has_wool": "2024-12-30 01:53:51 +0000"
     },
     "done": true
   },
@@ -16544,6 +16658,12 @@
     },
     "done": true
   },
+  "croptopia:recipes/french_fries": {
+    "criteria": {
+      "has_potato": "2024-12-30 01:53:03 +0000"
+    },
+    "done": true
+  },
   "refinedstorage:recipes/misc/coloring_recipes/pink_wireless_transmitter": {
     "criteria": {
       "refinedstorage:controller": "2024-12-30 01:12:35 +0000"
@@ -16586,6 +16706,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/baked_potato_from_grill_cooking": {
+    "criteria": {
+      "has_potato": "2024-12-30 01:53:03 +0000"
+    },
+    "done": true
+  },
   "refinedstorage:recipes/misc/coloring_recipes/gray_pattern_grid": {
     "criteria": {
       "refinedstorage:controller": "2024-12-30 01:12:35 +0000"
@@ -16595,6 +16721,12 @@
   "refinedstorage:recipes/misc/coloring_recipes/cyan_security_manager": {
     "criteria": {
       "refinedstorage:controller": "2024-12-30 01:12:35 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/food/cooked_calamari_from_glowing_calamari": {
+    "criteria": {
+      "has_glowing_calamari": "2024-12-30 01:53:52 +0000"
     },
     "done": true
   },
@@ -16724,6 +16856,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/map": {
+    "criteria": {
+      "has_compass": "2024-12-30 01:53:28 +0000"
+    },
+    "done": true
+  },
   "refinedstorage:recipes/misc/crafting_grid/green_crafting_grid": {
     "criteria": {
       "refinedstorage:grid": "2024-12-30 01:17:14 +0000"
@@ -16850,6 +16988,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/activator_rail": {
+    "criteria": {
+      "has_rail": "2024-12-30 01:51:59 +0000"
+    },
+    "done": true
+  },
   "chipped:recipes/carpenters_table": {
     "criteria": {
       "has_carpenters_table": "2024-12-29 23:56:15 +0000"
@@ -16915,6 +17059,12 @@
       "refinedstorage:controller": "2024-12-30 01:12:35 +0000"
     },
     "done": true
+  },
+  "croptopia:gather_food": {
+    "criteria": {
+      "glowing_calamari": "2024-12-30 01:53:52 +0000"
+    },
+    "done": false
   },
   "refinedstorage:recipes/misc/coloring_recipes/light_gray_controller": {
     "criteria": {
@@ -17204,6 +17354,12 @@
     },
     "done": true
   },
+  "create:recipes/misc/crafting/kinetics/controller_rail": {
+    "criteria": {
+      "has_item": "2024-12-30 01:50:35 +0000"
+    },
+    "done": true
+  },
   "refinedstorage:recipes/misc/coloring_recipes/pink_crafting_monitor": {
     "criteria": {
       "refinedstorage:controller": "2024-12-30 01:12:35 +0000"
@@ -17234,6 +17390,12 @@
     },
     "done": true
   },
+  "croptopia:recipes/food/cooked_calamari_from_smoking_glowing_calamari": {
+    "criteria": {
+      "has_glowing_calamari": "2024-12-30 01:53:52 +0000"
+    },
+    "done": true
+  },
   "refinedstorage:recipes/misc/coloring_recipes/magenta_fluid_grid": {
     "criteria": {
       "refinedstorage:controller": "2024-12-30 01:12:35 +0000"
@@ -17249,6 +17411,12 @@
   "refinedstorage:recipes/misc/coloring_recipes/blue_controller": {
     "criteria": {
       "refinedstorage:controller": "2024-12-30 01:12:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/baked_potato": {
+    "criteria": {
+      "has_potato": "2024-12-30 01:53:03 +0000"
     },
     "done": true
   },
@@ -17366,6 +17534,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/tnt_minecart": {
+    "criteria": {
+      "has_minecart": "2024-12-30 01:52:03 +0000"
+    },
+    "done": true
+  },
   "refinedstorage:recipes/misc/coloring_recipes/brown_grid": {
     "criteria": {
       "refinedstorage:controller": "2024-12-30 01:12:35 +0000"
@@ -17462,6 +17636,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/furnace_minecart": {
+    "criteria": {
+      "has_minecart": "2024-12-30 01:52:03 +0000"
+    },
+    "done": true
+  },
   "refinedstorage:recipes/misc/coloring_recipes/light_gray_network_transmitter": {
     "criteria": {
       "refinedstorage:controller": "2024-12-30 01:12:35 +0000"
@@ -17471,6 +17651,12 @@
   "refinedstorage:recipes/misc/coloring_recipes/pink_grid": {
     "criteria": {
       "refinedstorage:controller": "2024-12-30 01:12:35 +0000"
+    },
+    "done": true
+  },
+  "ad_astra:recipes/misc/light_gray_flag": {
+    "criteria": {
+      "has_light_gray_flag": "2024-12-30 01:53:51 +0000"
     },
     "done": true
   },
@@ -17537,6 +17723,12 @@
   "refinedstorage:recipes/misc/coloring_recipes/cyan_crafting_monitor": {
     "criteria": {
       "refinedstorage:controller": "2024-12-30 01:12:35 +0000"
+    },
+    "done": true
+  },
+  "comforts:hammock_light_gray": {
+    "criteria": {
+      "has_light_gray_wool": "2024-12-30 01:53:51 +0000"
     },
     "done": true
   },
