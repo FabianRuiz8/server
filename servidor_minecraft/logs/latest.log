@@ -2329,3 +2329,6 @@ java.lang.ClassNotFoundException: it.unimi.dsi.fastutil.doubles.AbstractDoubleLi
 [30Dec2024 17:00:00.027] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4880ms or 97 ticks behind
 [30Dec2024 17:02:58.178] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [joselete123: Set the time to 1000]
 [30Dec2024 17:02:58.711] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [carloselpillo: Teleported carloselpillo to joselete123]
+[30Dec2024 17:03:46.572] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [carloselpillo: Teleported carloselpillo to joselete123]
+[30Dec2024 17:06:46.558] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: joselete123 was slain by carloselpillo
+[30Dec2024 17:06:46.562] [Server thread/INFO] [tombstone/]: The player joselete123 has successfully been saved
