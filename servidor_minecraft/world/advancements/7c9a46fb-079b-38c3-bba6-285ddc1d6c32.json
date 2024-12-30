@@ -15439,9 +15439,21 @@
     },
     "done": true
   },
+  "securitycraft:recipes/redstone/reinforced_sticky_piston": {
+    "criteria": {
+      "has_slime_ball": "2024-12-30 01:10:04 +0000"
+    },
+    "done": true
+  },
   "ad_astra:recipes/misc/iron_plating_button": {
     "criteria": {
       "has_iron_plating_button": "2024-12-29 23:54:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/slime_block": {
+    "criteria": {
+      "has_slime_ball": "2024-12-30 01:10:04 +0000"
     },
     "done": true
   },
@@ -15460,6 +15472,18 @@
   "ad_astra:recipes/misc/iron_plating_pressure_plate": {
     "criteria": {
       "has_iron_plating_pressure_plate": "2024-12-29 23:54:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/lead": {
+    "criteria": {
+      "has_slime_ball": "2024-12-30 01:10:04 +0000"
+    },
+    "done": true
+  },
+  "new_slab_variants:recipes/building_blocks/slime_block_slab": {
+    "criteria": {
+      "has_slime_block": "2024-12-30 01:10:00 +0000"
     },
     "done": true
   },
@@ -15487,6 +15511,12 @@
     },
     "done": true
   },
+  "mobdropsrecipes_overworld:recipes/misc/slime_ball": {
+    "criteria": {
+      "has_the_recipe": "2024-12-30 01:10:00 +0000"
+    },
+    "done": true
+  },
   "ad_astra:recipes/misc/iron_plating_slab": {
     "criteria": {
       "has_iron_plating_slab": "2024-12-29 23:54:51 +0000"
@@ -15502,6 +15532,24 @@
   "ad_astra:recipes/misc/iron_sliding_door": {
     "criteria": {
       "has_iron_sliding_door": "2024-12-29 23:54:51 +0000"
+    },
+    "done": true
+  },
+  "chiselsandbits:recipes/tools/sealant": {
+    "criteria": {
+      "has_tag_a": "2024-12-30 01:10:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/slime_ball": {
+    "criteria": {
+      "has_slime_block": "2024-12-30 01:10:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/sticky_piston": {
+    "criteria": {
+      "has_slime_ball": "2024-12-30 01:10:04 +0000"
     },
     "done": true
   },
