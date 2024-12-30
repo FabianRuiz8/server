@@ -2344,3 +2344,22 @@ java.lang.ClassNotFoundException: it.unimi.dsi.fastutil.doubles.AbstractDoubleLi
 [30Dec2024 17:33:47.209] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: carloselpillo fell from a high place
 [30Dec2024 17:33:47.213] [Server thread/INFO] [tombstone/]: The player carloselpillo has successfully been saved
 [30Dec2024 17:34:00.509] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [carloselpillo: Teleported carloselpillo to joselete123]
+[30Dec2024 17:38:48.959] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [carloselpillo: Teleported carloselpillo to joselete123]
+[30Dec2024 17:38:55.463] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: carloselpillo fell from a high place
+[30Dec2024 17:38:55.467] [Server thread/INFO] [tombstone/]: The player carloselpillo has successfully been saved
+[30Dec2024 17:39:41.936] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [joselete123: Set own game mode to Creative Mode]
+[30Dec2024 17:39:44.965] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [joselete123: Set own game mode to Spectator Mode]
+[30Dec2024 17:40:00.758] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [joselete123: Set own game mode to Survival Mode]
+[30Dec2024 17:42:03.079] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: myser444[/127.148.57.27:49657] logged in with entity id 109049 at (6131.199381549542, 77.0, -366.8857131746003)
+[30Dec2024 17:42:03.085] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to myser444
+[30Dec2024 17:42:03.086] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to myser444
+[30Dec2024 17:42:03.086] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to myser444
+[30Dec2024 17:42:03.087] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to myser444
+[30Dec2024 17:42:03.089] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to myser444
+[30Dec2024 17:42:03.092] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to myser444
+[30Dec2024 17:42:03.092] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to myser444
+[30Dec2024 17:42:03.159] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: myser444 joined the game
+[30Dec2024 17:42:03.217] [Server thread/INFO] [Jade/]: Syncing config to myser444 (bf99e74b-a15b-39e5-b20b-a65e6dee0df2)
+[30Dec2024 17:42:07.368] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <joselete123> sergio hola
+[30Dec2024 17:42:19.193] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [carloselpillo: Teleported carloselpillo to joselete123]
+[30Dec2024 17:42:44.368] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [joselete123: Teleported joselete123 to carloselpillo]

@@ -13555,15 +13555,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/red_dye_from_rose_bush": {
+  "tombstone:adventure/use_guard": {
     "criteria": {
-      "has_rose_bush": "2024-12-30 15:22:01 +0000"
+      "coded_trigger": "2024-12-30 15:16:37 +0000"
     },
     "done": true
   },
-  "aether:recipes/combat/diamond_chestplate_repairing": {
+  "minecraft:recipes/misc/red_dye_from_rose_bush": {
     "criteria": {
-      "has_diamond_chestplate": "2024-12-30 15:28:04 +0000"
+      "has_rose_bush": "2024-12-30 15:22:01 +0000"
     },
     "done": true
   },
@@ -13573,9 +13573,9 @@
     },
     "done": true
   },
-  "tombstone:adventure/use_guard": {
+  "aether:recipes/combat/diamond_chestplate_repairing": {
     "criteria": {
-      "coded_trigger": "2024-12-30 15:16:37 +0000"
+      "has_diamond_chestplate": "2024-12-30 15:28:04 +0000"
     },
     "done": true
   },
