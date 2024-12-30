@@ -13388,6 +13388,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/grass_washed_brown.json": {
+    "criteria": {
+      "has_grass_block": "2024-12-30 21:17:16 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/netherite_chestplate_smithing": {
     "criteria": {
       "has_netherite_ingot": "2024-12-30 20:39:41 +0000"
@@ -13400,9 +13406,39 @@
     },
     "done": true
   },
+  "securitycraft:recipes/building_blocks/gold_mine": {
+    "criteria": {
+      "has_mine": "2024-12-30 21:16:50 +0000"
+    },
+    "done": true
+  },
   "create:recipes/combat/crafting/appliances/netherite_diving_helmet_from_netherite": {
     "criteria": {
       "has_item": "2024-12-30 20:39:56 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/deepslate_copper_mine": {
+    "criteria": {
+      "has_mine": "2024-12-30 21:16:50 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/copper_mine": {
+    "criteria": {
+      "has_mine": "2024-12-30 21:16:50 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/iron_mine": {
+    "criteria": {
+      "has_mine": "2024-12-30 21:16:50 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/cobblestone_mine": {
+    "criteria": {
+      "has_mine": "2024-12-30 21:16:50 +0000"
     },
     "done": true
   },
@@ -13412,9 +13448,75 @@
     },
     "done": true
   },
+  "securitycraft:recipes/building_blocks/coal_mine": {
+    "criteria": {
+      "has_mine": "2024-12-30 21:16:50 +0000"
+    },
+    "done": true
+  },
+  "colourfulearth:recipes/decorations/grass_dyed_cyan": {
+    "criteria": {
+      "has_grass_block": "2024-12-30 21:17:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/grass_washed_light_blue.json": {
+    "criteria": {
+      "has_grass_block": "2024-12-30 21:17:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/grass_washed_purple.json": {
+    "criteria": {
+      "has_grass_block": "2024-12-30 21:17:16 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/redstone_mine": {
+    "criteria": {
+      "has_mine": "2024-12-30 21:16:50 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/deepslate_diamond_mine": {
+    "criteria": {
+      "has_mine": "2024-12-30 21:16:50 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/suspicious_sand_mine": {
+    "criteria": {
+      "has_mine": "2024-12-30 21:16:50 +0000"
+    },
+    "done": true
+  },
   "aether:recipes/combat/netherite_gloves_repairing": {
     "criteria": {
       "has_netherite_gloves": "2024-12-30 20:40:02 +0000"
+    },
+    "done": true
+  },
+  "colourfulearth:recipes/decorations/grass_dyed_red": {
+    "criteria": {
+      "has_grass_block": "2024-12-30 21:17:16 +0000"
+    },
+    "done": true
+  },
+  "colourfulearth:recipes/decorations/grass_dyed_grey": {
+    "criteria": {
+      "has_grass_block": "2024-12-30 21:17:16 +0000"
+    },
+    "done": true
+  },
+  "colourfulearth:recipes/decorations/grass_dyed_green": {
+    "criteria": {
+      "has_grass_block": "2024-12-30 21:17:16 +0000"
+    },
+    "done": true
+  },
+  "colourfulearth:recipes/decorations/grass_dyed_black": {
+    "criteria": {
+      "has_grass_block": "2024-12-30 21:17:16 +0000"
     },
     "done": true
   },
@@ -13430,6 +13532,30 @@
     },
     "done": true
   },
+  "colourfulearth:recipes/decorations/grass_dyed_light_blue": {
+    "criteria": {
+      "has_grass_block": "2024-12-30 21:17:16 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/deepslate_lapis_mine": {
+    "criteria": {
+      "has_mine": "2024-12-30 21:16:50 +0000"
+    },
+    "done": true
+  },
+  "colourfulearth:recipes/decorations/grass_dyed_white": {
+    "criteria": {
+      "has_grass_block": "2024-12-30 21:17:16 +0000"
+    },
+    "done": true
+  },
+  "colourfulearth:recipes/decorations/grass_dyed_purple": {
+    "criteria": {
+      "has_grass_block": "2024-12-30 21:17:16 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/lodestone": {
     "criteria": {
       "has_netherite_ingot": "2024-12-30 20:39:41 +0000"
@@ -13442,9 +13568,69 @@
     },
     "done": true
   },
+  "securitycraft:recipes/building_blocks/end_stone_mine": {
+    "criteria": {
+      "has_mine": "2024-12-30 21:16:50 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/netherite_shovel_smithing": {
     "criteria": {
       "has_netherite_ingot": "2024-12-30 20:39:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/grass_washed_lime.json": {
+    "criteria": {
+      "has_grass_block": "2024-12-30 21:17:16 +0000"
+    },
+    "done": true
+  },
+  "colourfulearth:recipes/decorations/grass_dyed_pink": {
+    "criteria": {
+      "has_grass_block": "2024-12-30 21:17:16 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/nether_gold_mine": {
+    "criteria": {
+      "has_mine": "2024-12-30 21:16:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/grass_washed_green.json": {
+    "criteria": {
+      "has_grass_block": "2024-12-30 21:17:16 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/diamond_mine": {
+    "criteria": {
+      "has_mine": "2024-12-30 21:16:50 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/quartz_mine": {
+    "criteria": {
+      "has_mine": "2024-12-30 21:16:50 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/sand_mine": {
+    "criteria": {
+      "has_mine": "2024-12-30 21:16:50 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/deepslate_emerald_mine": {
+    "criteria": {
+      "has_mine": "2024-12-30 21:16:50 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/cobbled_deepslate_mine": {
+    "criteria": {
+      "has_mine": "2024-12-30 21:16:50 +0000"
     },
     "done": true
   },
@@ -13454,9 +13640,57 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/grass_washed_blue.json": {
+    "criteria": {
+      "has_grass_block": "2024-12-30 21:17:16 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/lapis_mine": {
+    "criteria": {
+      "has_mine": "2024-12-30 21:16:50 +0000"
+    },
+    "done": true
+  },
+  "colourfulearth:recipes/decorations/grass_dyed_yellow": {
+    "criteria": {
+      "has_grass_block": "2024-12-30 21:17:16 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/stone_mine": {
+    "criteria": {
+      "has_mine": "2024-12-30 21:16:50 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/blast_furnace_mine": {
+    "criteria": {
+      "has_mine": "2024-12-30 21:16:50 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/deepslate_coal_mine": {
+    "criteria": {
+      "has_mine": "2024-12-30 21:16:50 +0000"
+    },
+    "done": true
+  },
+  "colourfulearth:recipes/decorations/grass_dyed_brown": {
+    "criteria": {
+      "has_grass_block": "2024-12-30 21:17:16 +0000"
+    },
+    "done": true
+  },
   "aether:recipes/combat/netherite_helmet_repairing": {
     "criteria": {
       "has_netherite_helmet": "2024-12-30 20:39:56 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/deepslate_mine": {
+    "criteria": {
+      "has_mine": "2024-12-30 21:16:50 +0000"
     },
     "done": true
   },
@@ -13466,9 +13700,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/grass_washed_pink.json": {
+    "criteria": {
+      "has_grass_block": "2024-12-30 21:17:16 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/gilded_blackstone_mine": {
+    "criteria": {
+      "has_mine": "2024-12-30 21:16:50 +0000"
+    },
+    "done": true
+  },
   "minecraft:nether/netherite_armor": {
     "criteria": {
       "netherite_armor": "2024-12-30 20:39:59 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/deepslate_iron_mine": {
+    "criteria": {
+      "has_mine": "2024-12-30 21:16:50 +0000"
     },
     "done": true
   },
@@ -13478,15 +13730,45 @@
     },
     "done": true
   },
+  "securitycraft:recipes/tools/remote_access_mine": {
+    "criteria": {
+      "has_mine": "2024-12-30 21:16:50 +0000"
+    },
+    "done": true
+  },
   "aether:recipes/combat/netherite_boots_repairing": {
     "criteria": {
       "has_netherite_boots": "2024-12-30 20:39:59 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/decorations/grass_washed_grey.json": {
+    "criteria": {
+      "has_grass_block": "2024-12-30 21:17:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/grass_washed_black.json": {
+    "criteria": {
+      "has_grass_block": "2024-12-30 21:17:16 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/netherite_axe_smithing": {
     "criteria": {
       "has_netherite_ingot": "2024-12-30 20:39:41 +0000"
+    },
+    "done": true
+  },
+  "colourfulearth:recipes/decorations/grass_dyed_blue": {
+    "criteria": {
+      "has_grass_block": "2024-12-30 21:17:16 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/deepslate_gold_mine": {
+    "criteria": {
+      "has_mine": "2024-12-30 21:16:50 +0000"
     },
     "done": true
   },
@@ -13502,6 +13784,36 @@
     },
     "done": true
   },
+  "colourfulearth:recipes/decorations/grass_dyed_light_grey": {
+    "criteria": {
+      "has_grass_block": "2024-12-30 21:17:16 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/gravel_mine": {
+    "criteria": {
+      "has_mine": "2024-12-30 21:16:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/grass_washed_orange.json": {
+    "criteria": {
+      "has_grass_block": "2024-12-30 21:17:16 +0000"
+    },
+    "done": true
+  },
+  "colourfulearth:recipes/decorations/grass_dyed_magenta": {
+    "criteria": {
+      "has_grass_block": "2024-12-30 21:17:16 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/deepslate_redstone_mine": {
+    "criteria": {
+      "has_mine": "2024-12-30 21:16:50 +0000"
+    },
+    "done": true
+  },
   "aether:recipes/combat/netherite_leggings_repairing": {
     "criteria": {
       "has_netherite_leggings": "2024-12-30 20:39:58 +0000"
@@ -13514,9 +13826,87 @@
     },
     "done": true
   },
+  "securitycraft:recipes/building_blocks/emerald_mine": {
+    "criteria": {
+      "has_mine": "2024-12-30 21:16:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/grass_washed_light_grey.json": {
+    "criteria": {
+      "has_grass_block": "2024-12-30 21:17:16 +0000"
+    },
+    "done": true
+  },
+  "colourfulearth:recipes/decorations/grass_dyed_orange": {
+    "criteria": {
+      "has_grass_block": "2024-12-30 21:17:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/grass_washed_yellow.json": {
+    "criteria": {
+      "has_grass_block": "2024-12-30 21:17:16 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/smoker_mine": {
+    "criteria": {
+      "has_mine": "2024-12-30 21:16:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/grass_washed_white.json": {
+    "criteria": {
+      "has_grass_block": "2024-12-30 21:17:16 +0000"
+    },
+    "done": true
+  },
+  "colourfulearth:recipes/decorations/grass_dyed_lime": {
+    "criteria": {
+      "has_grass_block": "2024-12-30 21:17:16 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/netherite_hoe_smithing": {
     "criteria": {
       "has_netherite_ingot": "2024-12-30 20:39:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/grass_washed_red.json": {
+    "criteria": {
+      "has_grass_block": "2024-12-30 21:17:16 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/tools/wire_cutters": {
+    "criteria": {
+      "has_mine": "2024-12-30 21:16:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/grass_washed_cyan.json": {
+    "criteria": {
+      "has_grass_block": "2024-12-30 21:17:16 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/netherrack_mine": {
+    "criteria": {
+      "has_mine": "2024-12-30 21:16:50 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/furnace_mine": {
+    "criteria": {
+      "has_mine": "2024-12-30 21:16:50 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/ancient_debris_mine": {
+    "criteria": {
+      "has_mine": "2024-12-30 21:16:50 +0000"
     },
     "done": true
   },
@@ -13526,11 +13916,29 @@
     },
     "done": true
   },
+  "securitycraft:recipes/building_blocks/suspicious_gravel_mine": {
+    "criteria": {
+      "has_mine": "2024-12-30 21:16:50 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/dirt_mine": {
+    "criteria": {
+      "has_mine": "2024-12-30 21:16:50 +0000"
+    },
+    "done": true
+  },
   "farlanders:obtain_full_nightfall": {
     "criteria": {
       "get_chestplate": "2024-12-30 20:58:58 +0000"
     },
     "done": false
+  },
+  "minecraft:recipes/decorations/grass_washed_magenta.json": {
+    "criteria": {
+      "has_grass_block": "2024-12-30 21:17:16 +0000"
+    },
+    "done": true
   },
   "minecraft:recipes/tools/netherite_pickaxe_smithing": {
     "criteria": {

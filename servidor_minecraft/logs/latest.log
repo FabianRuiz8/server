@@ -4210,3 +4210,4 @@ java.lang.ClassNotFoundException: it.unimi.dsi.fastutil.doubles.AbstractDoubleLi
 [30Dec2024 20:23:15.525] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: carloselpillo left the game
 [30Dec2024 20:24:00.177] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [DeferentCurve07: Set own game mode to Creative Mode]
 [30Dec2024 20:39:59.772] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DeferentCurve07 has completed the challenge [Cover Me in Debris]
+[30Dec2024 21:19:13.131] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: DeferentCurve07 moved too quickly! -6.507245317129673,0.0,7.683920618893978
