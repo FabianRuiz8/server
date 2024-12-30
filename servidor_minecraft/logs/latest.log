@@ -2097,3 +2097,7 @@ java.lang.IllegalArgumentException: Can't find block outer_end:himmel_vertical_s
 [30Dec2024 02:06:35.826] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraftforge/event/entity/ProjectileImpactEvent$ImpactResult
 [30Dec2024 02:07:26.299] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/refinedmods/refinedstorage/api/network/security/Permission
 [30Dec2024 02:07:26.301] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/refinedmods/refinedstorage/api/network/grid/GridFactoryType
+[30Dec2024 02:10:59.965] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting fr/rakambda/fallingtree/common/tree/AbortedResult
+[30Dec2024 02:11:00.451] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraftforge/event/entity/player/AdvancementEvent$AdvancementProgressEvent$ProgressType
+[30Dec2024 02:11:00.456] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: carloselpillo has made the advancement [Connecting]
+[30Dec2024 02:13:35.173] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/refinedmods/refinedstorage/container/transfer/InsertionResultType
