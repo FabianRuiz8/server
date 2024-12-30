@@ -22979,3 +22979,74 @@ java.lang.ClassNotFoundException: it.unimi.dsi.fastutil.doubles.AbstractDoubleLi
 [30Dec2024 18:14:05.201] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [30Dec2024 18:14:07.082] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:nether_wall_ruin_4
 [30Dec2024 18:14:08.077] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [carloselpillo: Teleported carloselpillo to joselete123]
+[30Dec2024 18:17:19.120] [Server thread/DEBUG] [net.blay09.mods.netherportalfix.NetherPortalFix/]: Storing return portal from ResourceKey[minecraft:dimension / minecraft:overworld] to BlockPos{x=821, y=69, z=-87} in ResourceKey[minecraft:dimension / minecraft:the_nether]
+[30Dec2024 18:17:19.120] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [marquitosTPMS: Teleported marquitosTPMS to carloselpillo]
+[30Dec2024 18:18:04.256] [Server thread/DEBUG] [net.blay09.mods.netherportalfix.NetherPortalFix/]: Storing return portal from ResourceKey[minecraft:dimension / minecraft:overworld] to BlockPos{x=821, y=69, z=-87} in ResourceKey[minecraft:dimension / minecraft:the_nether]
+[30Dec2024 18:18:04.257] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [myser444: Teleported myser444 to carloselpillo]
+[30Dec2024 18:18:44.375] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: marquitosTPMS burned to death
+[30Dec2024 18:18:44.378] [Server thread/DEBUG] [tombstone/]: A new grave of the player marquitosTPMS was created at position [x:6549, y:60, z:-737, dim:minecraft:overworld]
+[30Dec2024 18:18:44.380] [Server thread/INFO] [tombstone/]: The player marquitosTPMS has successfully been saved
+[30Dec2024 18:18:45.777] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:villager_house_3
+[30Dec2024 18:18:45.794] [Server thread/DEBUG] [twilightforest/]: Player marquitosTPMS (6164242c-0f51-382c-9784-a804d11a124f) respawned and received items held in storage
+[30Dec2024 18:18:46.036] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:cobblestone_rock_3
+[30Dec2024 18:18:46.037] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:bush_1
+[30Dec2024 18:18:47.262] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hunters_return:hunter_house/illager_woodhut
+[30Dec2024 18:18:47.263] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hunters_return:hunter_house/mob/hunter_illager
+[30Dec2024 18:18:49.420] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:stone_circle_3
+[30Dec2024 18:18:50.281] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:bush_3
+[30Dec2024 18:18:50.740] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:spider_nest_1
+[30Dec2024 18:18:50.987] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:stone_rock_4
+[30Dec2024 18:18:51.004] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of supplementaries:way_sign
+[30Dec2024 18:18:51.295] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:bush_4
+[30Dec2024 18:18:51.301] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:spider_nest_3
+[30Dec2024 18:18:54.620] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [joselete123: Set the time to 1000]
+[30Dec2024 18:18:58.006] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:nether_building_1
+[30Dec2024 18:19:05.203] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[30Dec2024 18:19:05.244] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[30Dec2024 18:19:06.713] [Server thread/DEBUG] [net.blay09.mods.netherportalfix.NetherPortalFix/]: Storing return portal from ResourceKey[minecraft:dimension / minecraft:the_nether] to BlockPos{x=6674, y=128, z=-676} in ResourceKey[minecraft:dimension / minecraft:overworld]
+[30Dec2024 18:19:06.714] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [marquitosTPMS: Teleported marquitosTPMS to DeferentCurve07]
+[30Dec2024 18:19:19.571] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <joselete123> santa claus is coming
+[30Dec2024 18:19:54.150] [Server thread/DEBUG] [net.blay09.mods.netherportalfix.NetherPortalFix/]: Storing return portal from ResourceKey[minecraft:dimension / minecraft:the_nether] to BlockPos{x=6674, y=128, z=-676} in ResourceKey[minecraft:dimension / minecraft:overworld]
+[30Dec2024 18:19:54.150] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [myser444: Teleported myser444 to DeferentCurve07]
+[30Dec2024 18:19:58.373] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <joselete123> jingle bell
+[30Dec2024 18:20:01.523] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <joselete123> jingle bell
+[30Dec2024 18:20:30.177] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <joselete123> :dolls::dolls::dolls::dolls:
+[30Dec2024 18:20:47.995] [Server thread/DEBUG] [net.blay09.mods.netherportalfix.NetherPortalFix/]: Storing return portal from ResourceKey[minecraft:dimension / minecraft:the_nether] to BlockPos{x=6674, y=128, z=-676} in ResourceKey[minecraft:dimension / minecraft:overworld]
+[30Dec2024 18:20:47.996] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [carloselpillo: Teleported carloselpillo to marquitosTPMS]
+[30Dec2024 18:20:48.483] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:nether_villager_house_1
+[30Dec2024 18:20:56.127] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [marquitosTPMS: Teleported marquitosTPMS to DeferentCurve07]
+[30Dec2024 18:21:05.144] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [carloselpillo: Teleported carloselpillo to DeferentCurve07]
+[30Dec2024 18:21:10.937] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:nether_pillar_2
+[30Dec2024 18:21:10.995] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:nether_pillar_1
+[30Dec2024 18:21:18.778] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <joselete123> con etoro podrás invertir en cripto con monedas virtuales para practicar
+[30Dec2024 18:21:22.498] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:nether_wall_ruin_3
+[30Dec2024 18:21:37.772] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: marquitosTPMS has made the advancement [Those Were the Days]
+[30Dec2024 18:22:08.031] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:nether_dungeon_2
+[30Dec2024 18:22:08.042] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:nether_wall_ruin_1
+[30Dec2024 18:22:11.190] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [carloselpillo: Teleported carloselpillo to DeferentCurve07]
+[30Dec2024 18:22:25.534] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1127, y=69, z=162} BlockPos{x=1128, y=69, z=162}
+[30Dec2024 18:22:25.722] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [carloselpillo: Teleported carloselpillo to DeferentCurve07]
+[30Dec2024 18:23:15.039] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:nether_dungeon_3
+[30Dec2024 18:23:15.124] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:nether_spawn_altar_2
+[30Dec2024 18:23:49.846] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:nether_dungeon_1
+[30Dec2024 18:23:56.893] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of cataclysm:burning_arena1
+[30Dec2024 18:23:56.966] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of cataclysm:burning_arena2
+[30Dec2024 18:23:57.015] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of cataclysm:burning_arena3
+[30Dec2024 18:23:57.063] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of cataclysm:burning_arena4
+[30Dec2024 18:23:57.104] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of cataclysm:burning_arena5
+[30Dec2024 18:23:57.148] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of cataclysm:burning_arena6
+[30Dec2024 18:23:57.187] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of cataclysm:burning_arena7
+[30Dec2024 18:23:57.227] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of cataclysm:burning_arena8
+[30Dec2024 18:24:00.683] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [DeferentCurve07: Teleported DeferentCurve07 to carloselpillo]
+[30Dec2024 18:24:05.183] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[30Dec2024 18:24:05.226] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[30Dec2024 18:24:08.288] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: myser444 has made the advancement [Those Were the Days]
+[30Dec2024 18:24:19.332] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:nether_spawn_altar_3
+[30Dec2024 18:24:39.137] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=855, y=36, z=-182} BlockPos{x=855, y=36, z=-184}
+[30Dec2024 18:24:45.535] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: marquitosTPMS tried to swim in lava
+[30Dec2024 18:24:45.537] [Server thread/DEBUG] [tombstone/]: A new grave of the player marquitosTPMS was created at position [x:855, y:35, z:-189, dim:minecraft:the_nether]
+[30Dec2024 18:24:45.539] [Server thread/INFO] [tombstone/]: The player marquitosTPMS has successfully been saved
+[30Dec2024 18:24:46.957] [Server thread/DEBUG] [twilightforest/]: Player marquitosTPMS (6164242c-0f51-382c-9784-a804d11a124f) respawned and received items held in storage
+[30Dec2024 18:24:51.478] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:bush_4
+[30Dec2024 18:24:51.484] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:spider_nest_3
+[30Dec2024 18:24:57.043] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:nether_building_1

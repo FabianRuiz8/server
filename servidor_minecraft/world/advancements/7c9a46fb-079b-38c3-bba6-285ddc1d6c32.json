@@ -10616,7 +10616,12 @@
   },
   "croptopia:gather_all": {
     "criteria": {
-      "grape_seed": "2024-12-22 21:32:11 +0000"
+      "bellpepper_seed": "2024-12-30 18:21:40 +0000",
+      "tomato_seed": "2024-12-30 18:21:40 +0000",
+      "grape_seed": "2024-12-22 21:32:11 +0000",
+      "coffee_seed": "2024-12-30 18:21:40 +0000",
+      "spinach_seed": "2024-12-30 18:21:40 +0000",
+      "garlic_seed": "2024-12-30 18:21:40 +0000"
     },
     "done": false
   },
@@ -10658,6 +10663,8 @@
   },
   "croptopia:gather_forest": {
     "criteria": {
+      "spinach_seed": "2024-12-30 18:21:40 +0000",
+      "tomato_seed": "2024-12-30 18:21:40 +0000",
       "grape_seed": "2024-12-22 21:32:11 +0000"
     },
     "done": false
@@ -17890,6 +17897,12 @@
     },
     "done": true
   },
+  "croptopia:recipes/misc/roasted_pumpkin_seeds": {
+    "criteria": {
+      "has_pumpkin_seed": "2024-12-30 18:21:40 +0000"
+    },
+    "done": true
+  },
   "mcwlights:recipes/lamps_ceilings": {
     "criteria": {
       "has_the_recipe": "2024-12-30 15:22:35 +0000"
@@ -17901,6 +17914,13 @@
       "has_oak_sign": "2024-12-30 16:14:59 +0000"
     },
     "done": true
+  },
+  "croptopia:gather_jungle": {
+    "criteria": {
+      "coffee_seed": "2024-12-30 18:21:40 +0000",
+      "garlic_seed": "2024-12-30 18:21:40 +0000"
+    },
+    "done": false
   },
   "minecraft:recipes/redstone/redstone_lamp": {
     "criteria": {
@@ -17973,6 +17993,12 @@
       "has_basalt": "2024-12-30 15:51:57 +0000"
     },
     "done": true
+  },
+  "croptopia:gather_plains": {
+    "criteria": {
+      "bellpepper_seed": "2024-12-30 18:21:40 +0000"
+    },
+    "done": false
   },
   "DataVersion": 3465
 }

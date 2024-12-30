@@ -2406,3 +2406,27 @@ java.lang.ClassNotFoundException: it.unimi.dsi.fastutil.doubles.AbstractDoubleLi
 [30Dec2024 18:13:46.972] [Server thread/INFO] [net.blay09.mods.netherportalfix.NetherPortalFix/]: No return portal found
 [30Dec2024 18:13:49.894] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: joselete123 moved too quickly! 4.547537617780108,-0.41999998688697815,8.925349716544474
 [30Dec2024 18:14:08.077] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [carloselpillo: Teleported carloselpillo to joselete123]
+[30Dec2024 18:17:19.120] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [marquitosTPMS: Teleported marquitosTPMS to carloselpillo]
+[30Dec2024 18:18:04.257] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [myser444: Teleported myser444 to carloselpillo]
+[30Dec2024 18:18:44.375] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: marquitosTPMS burned to death
+[30Dec2024 18:18:44.380] [Server thread/INFO] [tombstone/]: The player marquitosTPMS has successfully been saved
+[30Dec2024 18:18:54.620] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [joselete123: Set the time to 1000]
+[30Dec2024 18:19:06.714] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [marquitosTPMS: Teleported marquitosTPMS to DeferentCurve07]
+[30Dec2024 18:19:19.571] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <joselete123> santa claus is coming
+[30Dec2024 18:19:54.150] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [myser444: Teleported myser444 to DeferentCurve07]
+[30Dec2024 18:19:58.373] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <joselete123> jingle bell
+[30Dec2024 18:20:01.523] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <joselete123> jingle bell
+[30Dec2024 18:20:30.177] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <joselete123> :dolls::dolls::dolls::dolls:
+[30Dec2024 18:20:47.996] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [carloselpillo: Teleported carloselpillo to marquitosTPMS]
+[30Dec2024 18:20:56.127] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [marquitosTPMS: Teleported marquitosTPMS to DeferentCurve07]
+[30Dec2024 18:21:05.144] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [carloselpillo: Teleported carloselpillo to DeferentCurve07]
+[30Dec2024 18:21:18.778] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <joselete123> con etoro podrás invertir en cripto con monedas virtuales para practicar
+[30Dec2024 18:21:37.772] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: marquitosTPMS has made the advancement [Those Were the Days]
+[30Dec2024 18:22:11.190] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [carloselpillo: Teleported carloselpillo to DeferentCurve07]
+[30Dec2024 18:22:25.534] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1127, y=69, z=162} BlockPos{x=1128, y=69, z=162}
+[30Dec2024 18:22:25.722] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [carloselpillo: Teleported carloselpillo to DeferentCurve07]
+[30Dec2024 18:24:00.683] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [DeferentCurve07: Teleported DeferentCurve07 to carloselpillo]
+[30Dec2024 18:24:08.288] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: myser444 has made the advancement [Those Were the Days]
+[30Dec2024 18:24:39.137] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=855, y=36, z=-182} BlockPos{x=855, y=36, z=-184}
+[30Dec2024 18:24:45.535] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: marquitosTPMS tried to swim in lava
+[30Dec2024 18:24:45.539] [Server thread/INFO] [tombstone/]: The player marquitosTPMS has successfully been saved
