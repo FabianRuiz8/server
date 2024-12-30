@@ -17520,3 +17520,32 @@ java.lang.ClassNotFoundException: it.unimi.dsi.fastutil.doubles.AbstractDoubleLi
 [30Dec2024 15:08:11.215] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [30Dec2024 15:08:11.271] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [30Dec2024 15:10:25.185] [Server thread/DEBUG] [twilightforest/]: Player joselete123 (7c9a46fb-079b-38c3-bba6-285ddc1d6c32) respawned and received items held in storage
+[30Dec2024 15:11:23.880] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [joselete123: Set the time to 1000]
+[30Dec2024 15:11:44.924] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [carloselpillo: Teleported carloselpillo to joselete123]
+[30Dec2024 15:12:27.134] [Server thread/DEBUG] [portb.transformerlib.TransformerLib/]: Transforming fuzs/visualworkbench/world/inventory/ForwardingCraftingContainer (target of net/minecraft/world/Container)
+[30Dec2024 15:12:27.135] [Server thread/DEBUG] [portb.transformerlib.TransformerLib/]: Transforming fuzs/visualworkbench/world/inventory/ModCraftingMenu$1 (target of net/minecraft/world/inventory/Slot)
+[30Dec2024 15:13:11.164] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[30Dec2024 15:13:11.207] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[30Dec2024 15:13:25.725] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [carloselpillo: Teleported carloselpillo to joselete123]
+[30Dec2024 15:13:48.056] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [carloselpillo: Teleported carloselpillo to joselete123]
+[30Dec2024 15:14:56.233] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/blay09/mods/craftingtweaks/api/TweakType
+[30Dec2024 15:14:56.235] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/blay09/mods/craftingtweaks/api/ButtonState
+[30Dec2024 15:14:56.236] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/blay09/mods/craftingtweaks/api/ButtonAlignment
+[30Dec2024 15:15:10.322] [Server thread/DEBUG] [portb.transformerlib.TransformerLib/]: Transforming net/minecraft/world/inventory/EnchantmentMenu$1 (target of net/minecraft/world/Container)
+[30Dec2024 15:16:37.776] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: myser444 has reached the goal [Spectral Guardian]
+[30Dec2024 15:16:58.020] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/supermartijn642/core/item/BaseBlockItem$InteractionFeedback
+[30Dec2024 15:17:42.468] [Server thread/DEBUG] [Eat an Omelette/]: Loaded forge.com.cursee.eat_an_omelette.platform.ForgePlatformHelper@3aba2bc0 for service interface forge.com.cursee.eat_an_omelette.platform.services.IPlatformHelper
+[30Dec2024 15:17:48.764] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/github/L_Ender/lionfishapi/server/animation/AnimationHandler
+[30Dec2024 15:18:11.018] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[30Dec2024 15:18:11.067] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[30Dec2024 15:19:21.822] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/refinedmods/refinedstorage/api/network/security/Permission
+[30Dec2024 15:19:21.823] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/refinedmods/refinedstorage/api/network/grid/GridFactoryType
+[30Dec2024 15:19:21.824] [Server thread/DEBUG] [portb.transformerlib.TransformerLib/]: Transforming com/refinedmods/refinedstorage/container/slot/legacy/LegacyBaseSlot (target of net/minecraft/world/inventory/Slot)
+[30Dec2024 15:19:21.825] [Server thread/DEBUG] [portb.transformerlib.TransformerLib/]: Transforming com/refinedmods/refinedstorage/container/slot/BaseSlot (target of net/minecraft/world/inventory/Slot)
+[30Dec2024 15:19:21.825] [Server thread/DEBUG] [portb.transformerlib.TransformerLib/]: Transforming com/refinedmods/refinedstorage/container/slot/grid/CraftingGridSlot (target of net/minecraft/world/inventory/Slot)
+[30Dec2024 15:19:21.826] [Server thread/DEBUG] [portb.transformerlib.TransformerLib/]: Transforming com/refinedmods/refinedstorage/container/slot/grid/ResultCraftingGridSlot (target of net/minecraft/world/inventory/Slot)
+[30Dec2024 15:19:27.364] [Server thread/DEBUG] [portb.transformerlib.TransformerLib/]: Transforming com/refinedmods/refinedstorage/container/slot/filter/FilterSlot (target of net/minecraft/world/inventory/Slot)
+[30Dec2024 15:19:27.365] [Server thread/DEBUG] [portb.transformerlib.TransformerLib/]: Transforming com/refinedmods/refinedstorage/container/slot/legacy/LegacyFilterSlot (target of net/minecraft/world/inventory/Slot)
+[30Dec2024 15:19:27.365] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/refinedmods/refinedstorage/container/transfer/InsertionResultType
+[30Dec2024 15:19:41.230] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [joselete123: Teleported joselete123 to myser444]
+[30Dec2024 15:20:41.943] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [joselete123: Teleported joselete123 to carloselpillo]

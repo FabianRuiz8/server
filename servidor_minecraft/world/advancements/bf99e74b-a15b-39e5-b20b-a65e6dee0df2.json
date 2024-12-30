@@ -13549,5 +13549,17 @@
     },
     "done": true
   },
+  "aether:recipes/combat/diamond_boots_repairing": {
+    "criteria": {
+      "has_diamond_boots": "2024-12-30 15:11:03 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/use_guard": {
+    "criteria": {
+      "coded_trigger": "2024-12-30 15:16:37 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }

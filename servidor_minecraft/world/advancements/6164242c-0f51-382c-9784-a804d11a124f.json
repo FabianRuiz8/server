@@ -10776,6 +10776,12 @@
     },
     "done": true
   },
+  "aether:recipes/combat/diamond_helmet_repairing": {
+    "criteria": {
+      "has_diamond_helmet": "2024-12-30 15:12:06 +0000"
+    },
+    "done": true
+  },
   "new_slab_variants:recipes/building_blocks/cracked_nether_bricks_slab": {
     "criteria": {
       "has_cracked_nether_bricks": "2024-12-30 15:00:56 +0000"
