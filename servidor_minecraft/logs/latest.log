@@ -2286,3 +2286,38 @@ java.lang.ClassNotFoundException: it.unimi.dsi.fastutil.doubles.AbstractDoubleLi
 [30Dec2024 16:23:58.129] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: carloselpillo has made the advancement [Who is Cutting Onions?]
 [30Dec2024 16:29:40.813] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting org/violetmoon/zeta/api/ICollateralMover$MoveResult
 [30Dec2024 16:29:40.823] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraftforge/event/level/PistonEvent$PistonMoveType
+[30Dec2024 16:34:01.119] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: carloselpillo was burnt to a crisp whilst fighting Blaze
+[30Dec2024 16:34:01.123] [Server thread/INFO] [tombstone/]: The player carloselpillo has successfully been saved
+[30Dec2024 16:35:51.176] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: carloselpillo has made the advancement [The Soul Forge]
+[30Dec2024 16:36:02.427] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [joselete123: Set the time to 1000]
+[30Dec2024 16:36:25.670] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <carloselpillo> jose
+[30Dec2024 16:36:28.526] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <joselete123> khe
+[30Dec2024 16:36:30.492] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <carloselpillo> rapido
+[30Dec2024 16:37:16.196] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [joselete123: Teleported joselete123 to carloselpillo]
+[30Dec2024 16:37:16.513] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: joselete123 has made the advancement [The Soul Forge]
+[30Dec2024 16:37:37.564] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: carloselpillo burned to death
+[30Dec2024 16:37:37.575] [Server thread/INFO] [tombstone/]: The player carloselpillo has successfully been saved
+[30Dec2024 16:38:09.063] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: joselete123 burned to death
+[30Dec2024 16:38:09.068] [Server thread/INFO] [tombstone/]: The player joselete123 has successfully been saved
+[30Dec2024 16:38:10.877] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: carloselpillo was slain by Netherite Monstrosity
+[30Dec2024 16:38:10.896] [Server thread/INFO] [tombstone/]: The player carloselpillo has successfully been saved
+[30Dec2024 16:38:37.359] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: carloselpillo burned to death
+[30Dec2024 16:38:37.363] [Server thread/INFO] [tombstone/]: The player carloselpillo has successfully been saved
+[30Dec2024 16:38:57.154] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: joselete123 was slain by Netherite Monstrosity
+[30Dec2024 16:38:57.179] [Server thread/INFO] [tombstone/]: The player joselete123 has successfully been saved
+[30Dec2024 16:39:11.109] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: carloselpillo was slain by Netherite Monstrosity
+[30Dec2024 16:39:11.132] [Server thread/INFO] [tombstone/]: The player carloselpillo has successfully been saved
+[30Dec2024 16:39:18.622] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: joselete123 has completed the challenge [The broken Nether's warmachine]
+[30Dec2024 16:39:34.662] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: joselete123 was burnt to a crisp whilst fighting carloselpillo
+[30Dec2024 16:39:34.667] [Server thread/INFO] [tombstone/]: The player joselete123 has successfully been saved
+[30Dec2024 16:39:59.514] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: carloselpillo moved too quickly! 10.08948604604197,-1.252203340253729,0.9271939524176105
+[30Dec2024 16:39:59.541] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7444ms or 148 ticks behind
+[30Dec2024 16:43:12.925] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: carloselpillo has completed the challenge [Return to Sender]
+[30Dec2024 16:44:07.675] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: carloselpillo tried to swim in lava
+[30Dec2024 16:44:07.679] [Server thread/INFO] [tombstone/]: The player carloselpillo has successfully been saved
+[30Dec2024 16:47:51.018] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: carloselpillo burned to death
+[30Dec2024 16:47:51.022] [Server thread/INFO] [tombstone/]: The player carloselpillo has successfully been saved
+[30Dec2024 16:50:41.163] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: carloselpillo has made the advancement [Nightmare Fuel]
+[30Dec2024 16:50:48.162] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: carloselpillo was slain by Crimson Mosquito
+[30Dec2024 16:50:48.172] [Server thread/INFO] [tombstone/]: The player carloselpillo has successfully been saved
+[30Dec2024 16:52:53.716] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [joselete123: Set the time to 1000]

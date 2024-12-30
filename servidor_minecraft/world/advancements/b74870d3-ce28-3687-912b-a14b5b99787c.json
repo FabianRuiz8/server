@@ -832,6 +832,7 @@
       "lavender_forest": "2024-12-21 23:50:35 +0000",
       "mediterranean_forest": "2024-12-08 15:05:16 +0000",
       "spider_nest": "2024-12-08 15:09:10 +0000",
+      "visceral_heap": "2024-12-30 16:41:14 +0000",
       "dune_beach": "2024-12-21 23:45:23 +0000",
       "rocky_rainforest": "2024-12-29 04:32:27 +0000",
       "volcanic_plains": "2024-12-29 04:28:04 +0000",
@@ -3458,6 +3459,7 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:blaze": "2024-12-30 16:33:27 +0000",
       "minecraft:skeleton": "2024-12-08 15:13:17 +0000",
       "minecraft:ghast": "2024-12-30 15:57:39 +0000",
       "minecraft:magma_cube": "2024-12-25 20:46:16 +0000",
@@ -14766,6 +14768,12 @@
     },
     "done": true
   },
+  "new_slab_variants:recipes/building_blocks/gold_block_slab": {
+    "criteria": {
+      "has_gold_block": "2024-12-30 16:42:30 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/blackstone_wall": {
     "criteria": {
       "has_blackstone": "2024-12-30 16:13:22 +0000"
@@ -14778,9 +14786,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_blackstone_stairs": {
+    "criteria": {
+      "has_polished_blackstone": "2024-12-30 16:38:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_brick_stairs_from_polished_blackstone_stonecutting": {
+    "criteria": {
+      "has_polished_blackstone": "2024-12-30 16:38:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/polished_blackstone_button": {
+    "criteria": {
+      "has_polished_blackstone": "2024-12-30 16:38:47 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_blackstone_brick_stairs_from_blackstone_stonecutting": {
     "criteria": {
       "has_blackstone": "2024-12-30 16:13:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_slab": {
+    "criteria": {
+      "has_polished_blackstone": "2024-12-30 16:38:47 +0000"
     },
     "done": true
   },
@@ -14814,6 +14846,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/chiseled_nether_bricks": {
+    "criteria": {
+      "has_nether_brick_slab": "2024-12-30 16:38:56 +0000"
+    },
+    "done": true
+  },
   "minecraft:nether/obtain_crying_obsidian": {
     "criteria": {
       "crying_obsidian": "2024-12-30 16:23:58 +0000"
@@ -14826,9 +14864,27 @@
     },
     "done": true
   },
+  "handcrafted:recipes/misc/golden_thin_pot": {
+    "criteria": {
+      "has_golden_thin_pot": "2024-12-30 16:42:30 +0000"
+    },
+    "done": true
+  },
   "aether:recipes/tools/golden_axe_repairing": {
     "criteria": {
       "has_golden_axe": "2024-12-30 16:12:36 +0000"
+    },
+    "done": true
+  },
+  "cataclysm:find_soul_black_smith": {
+    "criteria": {
+      "blacksmith": "2024-12-30 16:35:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_bricks_from_polished_blackstone_stonecutting": {
+    "criteria": {
+      "has_polished_blackstone": "2024-12-30 16:38:47 +0000"
     },
     "done": true
   },
@@ -14838,9 +14894,39 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/chiseled_polished_blackstone_from_polished_blackstone_stonecutting": {
+    "criteria": {
+      "has_polished_blackstone": "2024-12-30 16:38:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_stairs_from_polished_blackstone_stonecutting": {
+    "criteria": {
+      "has_polished_blackstone": "2024-12-30 16:38:47 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_blackstone_from_blackstone_stonecutting": {
     "criteria": {
       "has_blackstone": "2024-12-30 16:13:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/polished_blackstone_wall_from_polished_blackstone_stonecutting": {
+    "criteria": {
+      "has_polished_blackstone": "2024-12-30 16:38:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/return_to_sender": {
+    "criteria": {
+      "killed_ghast": "2024-12-30 16:43:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_brick_slab_from_polished_blackstone_stonecutting": {
+    "criteria": {
+      "has_polished_blackstone": "2024-12-30 16:38:47 +0000"
     },
     "done": true
   },
@@ -14865,6 +14951,18 @@
   "minecraft:recipes/building_blocks/blackstone_stairs_from_blackstone_stonecutting": {
     "criteria": {
       "has_blackstone": "2024-12-30 16:13:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/polished_blackstone_brick_wall_from_polished_blackstone_stonecutting": {
+    "criteria": {
+      "has_polished_blackstone": "2024-12-30 16:38:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot_from_gold_block": {
+    "criteria": {
+      "has_gold_block": "2024-12-30 16:42:30 +0000"
     },
     "done": true
   },
@@ -14916,15 +15014,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/chiseled_polished_blackstone": {
+    "criteria": {
+      "has_polished_blackstone_slab": "2024-12-30 16:38:56 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_blackstone_slab_from_blackstone_stonecutting": {
     "criteria": {
       "has_blackstone": "2024-12-30 16:13:22 +0000"
     },
     "done": true
   },
+  "handcrafted:recipes/misc/golden_medium_pot": {
+    "criteria": {
+      "has_golden_medium_pot": "2024-12-30 16:42:30 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/blackstone_slab": {
     "criteria": {
       "has_blackstone": "2024-12-30 16:13:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_slab_from_polished_blackstone_stonecutting": {
+    "criteria": {
+      "has_polished_blackstone": "2024-12-30 16:38:47 +0000"
     },
     "done": true
   },
@@ -14946,6 +15062,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_blackstone_bricks": {
+    "criteria": {
+      "has_polished_blackstone": "2024-12-30 16:38:47 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_blackstone_brick_stairs": {
     "criteria": {
       "has_polished_blackstone_bricks": "2024-12-30 16:12:18 +0000"
@@ -14961,6 +15083,12 @@
   "minecraft:recipes/decorations/polished_blackstone_brick_wall_from_blackstone_stonecutting": {
     "criteria": {
       "has_blackstone": "2024-12-30 16:13:22 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/golden_thick_pot": {
+    "criteria": {
+      "has_golden_thick_pot": "2024-12-30 16:42:30 +0000"
     },
     "done": true
   },
@@ -15006,6 +15134,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/polished_blackstone_pressure_plate": {
+    "criteria": {
+      "has_polished_blackstone": "2024-12-30 16:38:47 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/golden_wide_pot": {
+    "criteria": {
+      "has_golden_wide_pot": "2024-12-30 16:42:30 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/brewing/blaze_powder": {
     "criteria": {
       "has_blaze_rod": "2024-12-30 16:00:19 +0000"
@@ -15015,6 +15155,18 @@
   "supplementaries:recipes/stonecutting/blackstone_tile": {
     "criteria": {
       "has_polished_blackstone_bricks": "2024-12-30 16:12:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/polished_blackstone_wall": {
+    "criteria": {
+      "has_polished_blackstone": "2024-12-30 16:38:47 +0000"
+    },
+    "done": true
+  },
+  "super_ore_block:recipes/building_blocks/super_gold_block_from_gold_block": {
+    "criteria": {
+      "has_gold_block": "2024-12-30 16:42:30 +0000"
     },
     "done": true
   },

@@ -17908,6 +17908,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/chiseled_nether_bricks": {
+    "criteria": {
+      "has_nether_brick_slab": "2024-12-30 16:38:51 +0000"
+    },
+    "done": true
+  },
+  "cataclysm:find_soul_black_smith": {
+    "criteria": {
+      "blacksmith": "2024-12-30 16:37:16 +0000"
+    },
+    "done": true
+  },
   "new_slab_variants:recipes/building_blocks/glowstone_slab": {
     "criteria": {
       "has_glowstone": "2024-12-30 15:22:35 +0000"
@@ -17929,6 +17941,12 @@
   "mcwlights:recipes/glowstone_slab": {
     "criteria": {
       "has_wood": "2024-12-30 15:22:35 +0000"
+    },
+    "done": true
+  },
+  "cataclysm:kill_monstrosity": {
+    "criteria": {
+      "netheritemonstrosity": "2024-12-30 16:39:18 +0000"
     },
     "done": true
   },
