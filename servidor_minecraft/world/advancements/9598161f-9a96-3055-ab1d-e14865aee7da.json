@@ -13334,12 +13334,6 @@
     },
     "done": true
   },
-  "securitycraft:recipes/misc/scanner_door_item": {
-    "criteria": {
-      "has_reinforced_door": "2024-12-30 19:49:59 +0000"
-    },
-    "done": true
-  },
   "tombstone:adventure/funeral_theft": {
     "criteria": {
       "coded_trigger": "2024-12-30 19:26:29 +0000"
@@ -13358,18 +13352,6 @@
     },
     "done": true
   },
-  "securitycraft:recipes/misc/keypad_item": {
-    "criteria": {
-      "has_stone_button": "2024-12-30 19:45:59 +0000"
-    },
-    "done": true
-  },
-  "securitycraft:recipes/redstone/keypad_door_item": {
-    "criteria": {
-      "has_reinforced_door": "2024-12-30 19:49:59 +0000"
-    },
-    "done": true
-  },
   "aether:recipes/tools/flint_and_steel_repairing": {
     "criteria": {
       "has_flint_and_steel": "2024-12-30 19:26:29 +0000"
@@ -13379,6 +13361,24 @@
   "aether:recipes/building_blocks/obsidian_from_bucket_freezing": {
     "criteria": {
       "has_lava_bucket": "2024-12-30 19:26:29 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/misc/keypad_item": {
+    "criteria": {
+      "has_stone_button": "2024-12-30 19:45:59 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/misc/scanner_door_item": {
+    "criteria": {
+      "has_reinforced_door": "2024-12-30 19:49:59 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/redstone/keypad_door_item": {
+    "criteria": {
+      "has_reinforced_door": "2024-12-30 19:49:59 +0000"
     },
     "done": true
   },
