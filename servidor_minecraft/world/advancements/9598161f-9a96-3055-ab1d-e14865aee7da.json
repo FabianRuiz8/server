@@ -13484,6 +13484,12 @@
     },
     "done": true
   },
+  "securitycraft:recipes/building_blocks/reinforced_cherry_slab": {
+    "criteria": {
+      "has_block": "2024-12-30 21:23:40 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/building_blocks/suspicious_sand_mine": {
     "criteria": {
       "has_mine": "2024-12-30 21:16:50 +0000"
@@ -13505,6 +13511,18 @@
   "colourfulearth:recipes/decorations/grass_dyed_grey": {
     "criteria": {
       "has_grass_block": "2024-12-30 21:17:16 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/redstone/reinforced_cherry_button": {
+    "criteria": {
+      "has_block": "2024-12-30 21:23:40 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_cherry_stairs": {
+    "criteria": {
+      "has_block": "2024-12-30 21:23:40 +0000"
     },
     "done": true
   },
@@ -13874,6 +13892,12 @@
     },
     "done": true
   },
+  "twilightforest:recipes/misc/material/armor_shard_cluster": {
+    "criteria": {
+      "has_item": "2024-12-30 21:26:09 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/grass_washed_red.json": {
     "criteria": {
       "has_grass_block": "2024-12-30 21:17:16 +0000"
@@ -13937,6 +13961,12 @@
   "minecraft:recipes/decorations/grass_washed_magenta.json": {
     "criteria": {
       "has_grass_block": "2024-12-30 21:17:16 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/redstone/reinforced_cherry_pressure_plate": {
+    "criteria": {
+      "has_block": "2024-12-30 21:23:40 +0000"
     },
     "done": true
   },
