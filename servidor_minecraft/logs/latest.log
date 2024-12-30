@@ -358,3 +358,6 @@
 [30Dec2024 00:21:47.822] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: DeferentCurve07 lost connection: Disconnected
 [30Dec2024 00:21:47.823] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DeferentCurve07 left the game
 [30Dec2024 00:21:52.207] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2181ms or 43 ticks behind
+[30Dec2024 00:37:05.939] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [joselete123: Set the time to 1000]
+[30Dec2024 00:37:09.624] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [joselete123: Set the weather to clear]
+[30Dec2024 00:37:18.093] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [carloselpillo: Teleported carloselpillo to joselete123]
