@@ -2249,3 +2249,16 @@ java.lang.ClassNotFoundException: it.unimi.dsi.fastutil.doubles.AbstractDoubleLi
 [30Dec2024 15:50:38.045] [Server thread/INFO] [tombstone/]: The player joselete123 has successfully been saved
 [30Dec2024 15:50:50.866] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: carloselpillo fell from a high place
 [30Dec2024 15:50:50.871] [Server thread/INFO] [tombstone/]: The player carloselpillo has successfully been saved
+[30Dec2024 15:51:55.949] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [joselete123: Teleported joselete123 to -212.500000, 59.000000, 60.500000]
+[30Dec2024 15:54:46.768] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: myser444 lost connection: Disconnected
+[30Dec2024 15:54:46.768] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: myser444 left the game
+[30Dec2024 15:54:47.346] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [carloselpillo: Teleported carloselpillo to joselete123]
+[30Dec2024 15:56:21.050] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [joselete123: Teleported joselete123 to 1083.500000, 123.000000, 80.500000]
+[30Dec2024 15:56:30.121] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: joselete123 suffocated in a wall
+[30Dec2024 15:56:30.132] [Server thread/INFO] [tombstone/]: The player joselete123 has successfully been saved
+[30Dec2024 15:56:41.090] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8092ms or 161 ticks behind
+[30Dec2024 15:56:41.152] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: carloselpillo moved too quickly! 0.8767207105668149,-1.0,10.141084098258215
+[30Dec2024 15:58:04.365] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [carloselpillo: Teleported carloselpillo to joselete123]
+[30Dec2024 16:00:03.455] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: joselete123 moved too quickly! 10.008514132657638,0.9139059206844848,-0.14407838771896309
+[30Dec2024 16:00:03.492] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 14395ms or 287 ticks behind
+[30Dec2024 16:00:19.481] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: carloselpillo has made the advancement [Into Fire]
