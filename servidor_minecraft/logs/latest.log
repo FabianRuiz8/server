@@ -2281,3 +2281,8 @@ java.lang.ClassNotFoundException: it.unimi.dsi.fastutil.doubles.AbstractDoubleLi
 [30Dec2024 16:19:57.715] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <joselete123> #libertá
 [30Dec2024 16:22:24.463] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: carloselpillo was slain by Piglin Brute
 [30Dec2024 16:22:24.474] [Server thread/INFO] [tombstone/]: The player carloselpillo has successfully been saved
+[30Dec2024 16:23:11.643] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [joselete123: Set the weather to clear]
+[30Dec2024 16:23:14.094] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [joselete123: Set the time to 1000]
+[30Dec2024 16:23:58.129] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: carloselpillo has made the advancement [Who is Cutting Onions?]
+[30Dec2024 16:29:40.813] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting org/violetmoon/zeta/api/ICollateralMover$MoveResult
+[30Dec2024 16:29:40.823] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraftforge/event/level/PistonEvent$PistonMoveType
