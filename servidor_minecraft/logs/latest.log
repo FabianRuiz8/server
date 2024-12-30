@@ -2547,3 +2547,46 @@ java.lang.ClassNotFoundException: it.unimi.dsi.fastutil.doubles.AbstractDoubleLi
 [30Dec2024 19:16:31.769] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: marquitosTPMS lost connection: Disconnected
 [30Dec2024 19:16:31.769] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: marquitosTPMS left the game
 [30Dec2024 19:16:42.731] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: DeferentCurve07 moved too quickly! -10.124128938832655,0.0,-0.3325506400975655
+[30Dec2024 19:18:08.366] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: carloselpillo has made the advancement [The Cutest Predator]
+[30Dec2024 19:18:12.289] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [carloselpillo: Teleported carloselpillo to DeferentCurve07]
+[30Dec2024 19:19:45.921] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [carloselpillo: Teleported carloselpillo to joselete123]
+[30Dec2024 19:20:13.573] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <DeferentCurve07> sergio reforzar
+[30Dec2024 19:20:16.476] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <DeferentCurve07> jajajajaja
+[30Dec2024 19:20:49.545] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: marquitosTPMS[/127.9.149.75:44039] logged in with entity id 192051 at (6153.916711587418, 64.0, -313.45291567265144)
+[30Dec2024 19:20:49.549] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to marquitosTPMS
+[30Dec2024 19:20:49.550] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to marquitosTPMS
+[30Dec2024 19:20:49.550] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to marquitosTPMS
+[30Dec2024 19:20:49.550] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to marquitosTPMS
+[30Dec2024 19:20:49.553] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to marquitosTPMS
+[30Dec2024 19:20:49.561] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to marquitosTPMS
+[30Dec2024 19:20:49.562] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to marquitosTPMS
+[30Dec2024 19:20:49.592] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: marquitosTPMS joined the game
+[30Dec2024 19:20:49.661] [Server thread/INFO] [Jade/]: Syncing config to marquitosTPMS (6164242c-0f51-382c-9784-a804d11a124f)
+[30Dec2024 19:20:54.481] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [carloselpillo: Teleported carloselpillo to DeferentCurve07]
+[30Dec2024 19:21:55.771] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: DeferentCurve07 lost connection: Disconnected
+[30Dec2024 19:21:55.771] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DeferentCurve07 left the game
+[30Dec2024 19:23:00.214] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: marquitosTPMS has made the advancement [The Cutest Predator]
+[30Dec2024 19:23:26.670] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: marquitosTPMS was burnt to a crisp whilst fighting myser444
+[30Dec2024 19:23:26.674] [Server thread/INFO] [tombstone/]: The player marquitosTPMS has successfully been saved
+[30Dec2024 19:24:12.583] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Showing new title for 4 players
+[30Dec2024 19:25:29.253] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: DeferentCurve07[/127.191.128.44:44345] logged in with entity id 194232 at (6125.5130899668175, 73.0, -364.8695001168834)
+[30Dec2024 19:25:29.257] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to DeferentCurve07
+[30Dec2024 19:25:29.257] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to DeferentCurve07
+[30Dec2024 19:25:29.258] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to DeferentCurve07
+[30Dec2024 19:25:29.258] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to DeferentCurve07
+[30Dec2024 19:25:29.260] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to DeferentCurve07
+[30Dec2024 19:25:29.262] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to DeferentCurve07
+[30Dec2024 19:25:29.262] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to DeferentCurve07
+[30Dec2024 19:25:29.286] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DeferentCurve07 joined the game
+[30Dec2024 19:25:29.350] [Server thread/INFO] [Jade/]: Syncing config to DeferentCurve07 (9598161f-9a96-3055-ab1d-e14865aee7da)
+[30Dec2024 19:25:31.514] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: myser444 was blown up by marquitosTPMS
+[30Dec2024 19:25:31.526] [Server thread/INFO] [tombstone/]: The player myser444 has successfully been saved
+[30Dec2024 19:26:14.674] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: DeferentCurve07 moved too quickly! -10.103532815383915,0.5,0.6906320843794447
+[30Dec2024 19:26:23.217] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: marquitosTPMS was slain by DeferentCurve07
+[30Dec2024 19:26:23.221] [Server thread/INFO] [tombstone/]: The player marquitosTPMS has successfully been saved
+[30Dec2024 19:26:28.217] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [joselete123: Teleported joselete123 to carloselpillo]
+[30Dec2024 19:26:29.509] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DeferentCurve07 has made the advancement [Hot Stuff]
+[30Dec2024 19:26:29.529] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DeferentCurve07 has made the advancement [Funeral Theft]
+[30Dec2024 19:26:31.011] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=6130, y=72, z=-363} BlockPos{x=6130, y=71, z=-363}
+[30Dec2024 19:26:45.657] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: marquitosTPMS lost connection: Disconnected
+[30Dec2024 19:26:45.657] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: marquitosTPMS left the game
