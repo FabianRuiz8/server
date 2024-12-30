@@ -2386,3 +2386,23 @@ java.lang.ClassNotFoundException: it.unimi.dsi.fastutil.doubles.AbstractDoubleLi
 [30Dec2024 17:58:17.502] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [DeferentCurve07: Set the time to 1000]
 [30Dec2024 18:03:55.719] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: myser444 fell from a high place
 [30Dec2024 18:03:55.723] [Server thread/INFO] [tombstone/]: The player myser444 has successfully been saved
+[30Dec2024 18:04:46.994] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting fr/rakambda/fallingtree/common/tree/TreePartType
+[30Dec2024 18:06:59.952] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: marquitosTPMS[/127.9.149.75:46881] logged in with entity id 126858 at (6162.699999988079, 64.0, -317.69999998807907)
+[30Dec2024 18:06:59.957] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to marquitosTPMS
+[30Dec2024 18:06:59.957] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to marquitosTPMS
+[30Dec2024 18:06:59.958] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to marquitosTPMS
+[30Dec2024 18:06:59.958] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to marquitosTPMS
+[30Dec2024 18:06:59.961] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to marquitosTPMS
+[30Dec2024 18:06:59.964] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to marquitosTPMS
+[30Dec2024 18:06:59.964] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to marquitosTPMS
+[30Dec2024 18:06:59.995] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: marquitosTPMS joined the game
+[30Dec2024 18:07:00.061] [Server thread/INFO] [Jade/]: Syncing config to marquitosTPMS (6164242c-0f51-382c-9784-a804d11a124f)
+[30Dec2024 18:08:21.070] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [marquitosTPMS: Set the time to 1000]
+[30Dec2024 18:10:28.288] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [joselete123: Teleported joselete123 to carloselpillo]
+[30Dec2024 18:13:25.378] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [marquitosTPMS: Teleported marquitosTPMS to myser444]
+[30Dec2024 18:13:30.166] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [DeferentCurve07: Teleported DeferentCurve07 to myser444]
+[30Dec2024 18:13:41.914] [Server thread/INFO] [net.blay09.mods.netherportalfix.NetherPortalFix/]: No return portal found
+[30Dec2024 18:13:41.927] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DeferentCurve07 has made the advancement [We Need to Go Deeper]
+[30Dec2024 18:13:46.972] [Server thread/INFO] [net.blay09.mods.netherportalfix.NetherPortalFix/]: No return portal found
+[30Dec2024 18:13:49.894] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: joselete123 moved too quickly! 4.547537617780108,-0.41999998688697815,8.925349716544474
+[30Dec2024 18:14:08.077] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [carloselpillo: Teleported carloselpillo to joselete123]

@@ -10774,9 +10774,27 @@
     },
     "done": true
   },
-  "mcwbridges:recipes/andesite_bridge_stair": {
+  "aether:recipes/tools/diamond_axe_repairing": {
     "criteria": {
-      "has_planks": "2024-12-30 15:37:16 +0000"
+      "has_diamond_axe": "2024-12-30 14:57:18 +0000"
+    },
+    "done": true
+  },
+  "new_slab_variants:recipes/building_blocks/cracked_nether_bricks_slab": {
+    "criteria": {
+      "has_cracked_nether_bricks": "2024-12-30 15:00:56 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/diamond_leggings_repairing": {
+    "criteria": {
+      "has_diamond_leggings": "2024-12-30 15:01:21 +0000"
+    },
+    "done": true
+  },
+  "new_slab_variants:recipes/building_blocks/nether_wart_block_slab": {
+    "criteria": {
+      "has_nether_wart_block": "2024-12-30 15:01:53 +0000"
     },
     "done": true
   },
@@ -10786,9 +10804,57 @@
     },
     "done": true
   },
-  "blue_skies:recipes/combat/bluebright_spear": {
+  "minecraft:recipes/misc/brown_dye": {
     "criteria": {
-      "has_item": "2024-12-30 15:40:33 +0000"
+      "has_cocoa_beans": "2024-12-30 15:02:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cookie": {
+    "criteria": {
+      "has_cocoa": "2024-12-30 15:02:15 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/chocolate": {
+    "criteria": {
+      "has_cocoa_beans": "2024-12-30 15:02:15 +0000"
+    },
+    "done": true
+  },
+  "croptopia:gather_swamp": {
+    "criteria": {
+      "cranberry_seed": "2024-12-30 15:02:15 +0000"
+    },
+    "done": false
+  },
+  "aether:recipes/combat/chainmail_chestplate_repairing": {
+    "criteria": {
+      "has_chainmail_chestplate": "2024-12-30 15:04:13 +0000"
+    },
+    "done": true
+  },
+  "new_slab_variants:recipes/building_blocks/magma_block_slab": {
+    "criteria": {
+      "has_magma_block": "2024-12-30 15:04:46 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/diamond_helmet_repairing": {
+    "criteria": {
+      "has_diamond_helmet": "2024-12-30 15:12:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/enchant_item": {
+    "criteria": {
+      "enchanted_item": "2024-12-30 15:21:38 +0000"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/andesite_bridge_stair": {
+    "criteria": {
+      "has_planks": "2024-12-30 15:37:16 +0000"
     },
     "done": true
   },
@@ -10810,18 +10876,6 @@
     },
     "done": true
   },
-  "blue_skies:recipes/building_blocks/cracked_lunar_stonebrick_from_smelting_lunar_stonebrick": {
-    "criteria": {
-      "has_item": "2024-12-30 15:41:12 +0000"
-    },
-    "done": true
-  },
-  "blue_skies:recipes/combat/dusk_spear": {
-    "criteria": {
-      "has_item": "2024-12-30 15:40:33 +0000"
-    },
-    "done": true
-  },
   "create:recipes/building_blocks/polished_cut_andesite_from_stone_types_andesite_stonecutting": {
     "criteria": {
       "has_stone_types_andesite": "2024-12-30 15:37:16 +0000"
@@ -10834,27 +10888,9 @@
     },
     "done": true
   },
-  "blue_skies:recipes/building_blocks/lunar_stonebrick_slab": {
-    "criteria": {
-      "has_item": "2024-12-30 15:41:12 +0000"
-    },
-    "done": true
-  },
   "create:recipes/building_blocks/layered_andesite_from_stone_types_andesite_stonecutting": {
     "criteria": {
       "has_stone_types_andesite": "2024-12-30 15:37:16 +0000"
-    },
-    "done": true
-  },
-  "aether:recipes/combat/diamond_helmet_repairing": {
-    "criteria": {
-      "has_diamond_helmet": "2024-12-30 15:12:06 +0000"
-    },
-    "done": true
-  },
-  "blue_skies:recipes/combat/comet_spear": {
-    "criteria": {
-      "has_item": "2024-12-30 15:40:33 +0000"
     },
     "done": true
   },
@@ -10870,24 +10906,6 @@
     },
     "done": true
   },
-  "new_slab_variants:recipes/building_blocks/cracked_nether_bricks_slab": {
-    "criteria": {
-      "has_cracked_nether_bricks": "2024-12-30 15:00:56 +0000"
-    },
-    "done": true
-  },
-  "blue_skies:recipes/tools/zeal_lighter": {
-    "criteria": {
-      "has_item": "2024-12-30 15:40:33 +0000"
-    },
-    "done": true
-  },
-  "aether:recipes/combat/chainmail_chestplate_repairing": {
-    "criteria": {
-      "has_chainmail_chestplate": "2024-12-30 15:04:13 +0000"
-    },
-    "done": true
-  },
   "mcwpaths:recipes/andesite": {
     "criteria": {
       "has_wood": "2024-12-30 15:37:16 +0000"
@@ -10897,12 +10915,6 @@
   "create:recipes/building_blocks/cut_andesite_brick_wall_from_stone_types_andesite_stonecutting": {
     "criteria": {
       "has_stone_types_andesite": "2024-12-30 15:37:16 +0000"
-    },
-    "done": true
-  },
-  "blue_skies:recipes/building_blocks/lunar_stonebrick_stairs_stonecutting_lunar_stonebrick": {
-    "criteria": {
-      "has_item": "2024-12-30 15:41:12 +0000"
     },
     "done": true
   },
@@ -10921,24 +10933,6 @@
   "create:recipes/building_blocks/cut_andesite_brick_stairs_from_stone_types_andesite_stonecutting": {
     "criteria": {
       "has_stone_types_andesite": "2024-12-30 15:37:16 +0000"
-    },
-    "done": true
-  },
-  "blue_skies:recipes/building_blocks/lunar_stonebrick_stairs": {
-    "criteria": {
-      "has_item": "2024-12-30 15:41:12 +0000"
-    },
-    "done": true
-  },
-  "aether:recipes/tools/diamond_axe_repairing": {
-    "criteria": {
-      "has_diamond_axe": "2024-12-30 14:57:18 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/brown_dye": {
-    "criteria": {
-      "has_cocoa_beans": "2024-12-30 15:02:15 +0000"
     },
     "done": true
   },
@@ -10972,42 +10966,6 @@
     },
     "done": true
   },
-  "blue_skies:recipes/combat/maple_spear": {
-    "criteria": {
-      "has_item": "2024-12-30 15:40:33 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/cookie": {
-    "criteria": {
-      "has_cocoa": "2024-12-30 15:02:15 +0000"
-    },
-    "done": true
-  },
-  "blue_skies:recipes/combat/frostbright_spear": {
-    "criteria": {
-      "has_item": "2024-12-30 15:40:33 +0000"
-    },
-    "done": true
-  },
-  "blue_skies:recipes/combat/lunar_spear": {
-    "criteria": {
-      "has_item": "2024-12-30 15:40:33 +0000"
-    },
-    "done": true
-  },
-  "blue_skies:recipes/building_blocks/lunar_stonebrick_wall": {
-    "criteria": {
-      "has_item": "2024-12-30 15:41:12 +0000"
-    },
-    "done": true
-  },
-  "blue_skies:recipes/redstone/moonstone_pressure_plate": {
-    "criteria": {
-      "has_item": "2024-12-30 15:40:33 +0000"
-    },
-    "done": true
-  },
   "create:recipes/building_blocks/cut_andesite_bricks_from_stone_types_andesite_stonecutting": {
     "criteria": {
       "has_stone_types_andesite": "2024-12-30 15:37:16 +0000"
@@ -11020,21 +10978,9 @@
     },
     "done": true
   },
-  "new_slab_variants:recipes/building_blocks/magma_block_slab": {
-    "criteria": {
-      "has_magma_block": "2024-12-30 15:04:46 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/polished_andesite_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2024-12-30 15:37:16 +0000"
-    },
-    "done": true
-  },
-  "blue_skies:recipes/misc/moonstone_from_shard": {
-    "criteria": {
-      "has_item": "2024-12-30 15:40:33 +0000"
     },
     "done": true
   },
@@ -11062,30 +11008,6 @@
     },
     "done": true
   },
-  "croptopia:recipes/chocolate": {
-    "criteria": {
-      "has_cocoa_beans": "2024-12-30 15:02:15 +0000"
-    },
-    "done": true
-  },
-  "blue_skies:recipes/combat/starlit_spear": {
-    "criteria": {
-      "has_item": "2024-12-30 15:40:33 +0000"
-    },
-    "done": true
-  },
-  "aether:recipes/combat/diamond_leggings_repairing": {
-    "criteria": {
-      "has_diamond_leggings": "2024-12-30 15:01:21 +0000"
-    },
-    "done": true
-  },
-  "blue_skies:get_moonstone_shard": {
-    "criteria": {
-      "obtain_moonstone_shard": "2024-12-30 15:40:33 +0000"
-    },
-    "done": true
-  },
   "handcrafted:recipes/misc/andesite_corner_trim": {
     "criteria": {
       "has_andesite_corner_trim": "2024-12-30 15:37:16 +0000"
@@ -11110,33 +11032,9 @@
     },
     "done": true
   },
-  "blue_skies:recipes/building_blocks/lunar_stonebrick_wall_stonecutting_lunar_stonebrick": {
-    "criteria": {
-      "has_item": "2024-12-30 15:41:12 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/polished_andesite_slab_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2024-12-30 15:37:16 +0000"
-    },
-    "done": true
-  },
-  "minecraft:story/enchant_item": {
-    "criteria": {
-      "enchanted_item": "2024-12-30 15:21:38 +0000"
-    },
-    "done": true
-  },
-  "new_slab_variants:recipes/building_blocks/nether_wart_block_slab": {
-    "criteria": {
-      "has_nether_wart_block": "2024-12-30 15:01:53 +0000"
-    },
-    "done": true
-  },
-  "blue_skies:recipes/building_blocks/chiseled_lunar_stonebrick_stonecutting_lunar_stonebrick": {
-    "criteria": {
-      "has_item": "2024-12-30 15:41:12 +0000"
     },
     "done": true
   },
@@ -11164,12 +11062,6 @@
     },
     "done": true
   },
-  "croptopia:gather_swamp": {
-    "criteria": {
-      "cranberry_seed": "2024-12-30 15:02:15 +0000"
-    },
-    "done": false
-  },
   "minecraft:recipes/decorations/andesite_wall": {
     "criteria": {
       "has_andesite": "2024-12-30 15:37:16 +0000"
@@ -11185,6 +11077,114 @@
   "mcwbridges:recipes/andesite_bridge_pier": {
     "criteria": {
       "has_planks": "2024-12-30 15:37:16 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/combat/bluebright_spear": {
+    "criteria": {
+      "has_item": "2024-12-30 15:40:33 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/combat/dusk_spear": {
+    "criteria": {
+      "has_item": "2024-12-30 15:40:33 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/combat/comet_spear": {
+    "criteria": {
+      "has_item": "2024-12-30 15:40:33 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/tools/zeal_lighter": {
+    "criteria": {
+      "has_item": "2024-12-30 15:40:33 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/combat/maple_spear": {
+    "criteria": {
+      "has_item": "2024-12-30 15:40:33 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/combat/frostbright_spear": {
+    "criteria": {
+      "has_item": "2024-12-30 15:40:33 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/combat/lunar_spear": {
+    "criteria": {
+      "has_item": "2024-12-30 15:40:33 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/redstone/moonstone_pressure_plate": {
+    "criteria": {
+      "has_item": "2024-12-30 15:40:33 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/misc/moonstone_from_shard": {
+    "criteria": {
+      "has_item": "2024-12-30 15:40:33 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/combat/starlit_spear": {
+    "criteria": {
+      "has_item": "2024-12-30 15:40:33 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:get_moonstone_shard": {
+    "criteria": {
+      "obtain_moonstone_shard": "2024-12-30 15:40:33 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/building_blocks/cracked_lunar_stonebrick_from_smelting_lunar_stonebrick": {
+    "criteria": {
+      "has_item": "2024-12-30 15:41:12 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/building_blocks/lunar_stonebrick_slab": {
+    "criteria": {
+      "has_item": "2024-12-30 15:41:12 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/building_blocks/lunar_stonebrick_stairs_stonecutting_lunar_stonebrick": {
+    "criteria": {
+      "has_item": "2024-12-30 15:41:12 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/building_blocks/lunar_stonebrick_stairs": {
+    "criteria": {
+      "has_item": "2024-12-30 15:41:12 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/building_blocks/lunar_stonebrick_wall": {
+    "criteria": {
+      "has_item": "2024-12-30 15:41:12 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/building_blocks/lunar_stonebrick_wall_stonecutting_lunar_stonebrick": {
+    "criteria": {
+      "has_item": "2024-12-30 15:41:12 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/building_blocks/chiseled_lunar_stonebrick_stonecutting_lunar_stonebrick": {
+    "criteria": {
+      "has_item": "2024-12-30 15:41:12 +0000"
     },
     "done": true
   },

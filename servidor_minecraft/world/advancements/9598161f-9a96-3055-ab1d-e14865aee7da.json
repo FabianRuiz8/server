@@ -832,6 +832,7 @@
       "highland": "2024-12-29 00:55:40 +0000",
       "clover_patch": "2024-12-29 00:55:04 +0000",
       "old_growth_woodland": "2024-12-27 16:26:56 +0000",
+      "crystalline_chasm": "2024-12-30 18:13:42 +0000",
       "moor": "2024-12-29 16:55:45 +0000",
       "mediterranean_forest": "2024-12-26 00:20:53 +0000",
       "spider_nest": "2024-12-26 00:21:03 +0000",
@@ -12769,15 +12770,45 @@
     },
     "done": true
   },
+  "new_slab_variants:recipes/building_blocks/stripped_cherry_log_slab": {
+    "criteria": {
+      "has_stripped_cherry_log": "2024-12-30 18:05:00 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/stone_stairs_from_stone_stonecutting": {
     "criteria": {
       "has_stone": "2024-12-30 18:03:05 +0000"
     },
     "done": true
   },
+  "biomesoplenty:recipes/building_blocks/mahogany_wood": {
+    "criteria": {
+      "has_log": "2024-12-30 18:04:11 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/building_blocks/mahogany_planks": {
+    "criteria": {
+      "has_logs": "2024-12-30 18:04:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stripped_cherry_wood": {
+    "criteria": {
+      "has_log": "2024-12-30 18:05:00 +0000"
+    },
+    "done": true
+  },
   "handcrafted:recipes/misc/vindicator_trophy": {
     "criteria": {
       "has_vindicator_trophy": "2024-12-30 18:03:05 +0000"
+    },
+    "done": true
+  },
+  "decorative_blocks:recipes/building_blocks/cherry_beam": {
+    "criteria": {
+      "has_stripped_log": "2024-12-30 18:05:00 +0000"
     },
     "done": true
   },
@@ -12790,6 +12821,12 @@
   "minecraft:recipes/building_blocks/stone_stairs": {
     "criteria": {
       "has_stone": "2024-12-30 18:03:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/enter_the_nether": {
+    "criteria": {
+      "entered_nether": "2024-12-30 18:13:41 +0000"
     },
     "done": true
   },
@@ -12889,9 +12926,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/cherry_hanging_sign": {
+    "criteria": {
+      "has_stripped_logs": "2024-12-30 18:05:00 +0000"
+    },
+    "done": true
+  },
   "handcrafted:recipes/misc/stone_corner_trim": {
     "criteria": {
       "has_stone_corner_trim": "2024-12-30 18:03:05 +0000"
+    },
+    "done": true
+  },
+  "mcwfurnituresbop:recipes/mahogany": {
+    "criteria": {
+      "has_wood": "2024-12-30 18:04:11 +0000"
     },
     "done": true
   },
@@ -12904,6 +12953,12 @@
   "mcwroofs:recipes/stone": {
     "criteria": {
       "has_planks": "2024-12-30 18:03:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/root": {
+    "criteria": {
+      "entered_nether": "2024-12-30 18:13:41 +0000"
     },
     "done": true
   },
