@@ -15048,6 +15048,12 @@
     },
     "done": true
   },
+  "betterarcheology:recipes/misc/archeology_table": {
+    "criteria": {
+      "has_the_recipe": "2024-12-30 20:17:49 +0000"
+    },
+    "done": true
+  },
   "aether:recipes/combat/golden_chestplate_repairing": {
     "criteria": {
       "has_golden_chestplate": "2024-12-30 18:30:20 +0000"
@@ -15327,6 +15333,12 @@
   "handcrafted:recipes/misc/golden_medium_pot": {
     "criteria": {
       "has_golden_medium_pot": "2024-12-30 16:42:30 +0000"
+    },
+    "done": true
+  },
+  "betterarcheology:recipes/recipe_archeology_table": {
+    "criteria": {
+      "has_item": "2024-12-30 20:17:49 +0000"
     },
     "done": true
   },

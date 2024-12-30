@@ -4194,3 +4194,18 @@ java.lang.ClassNotFoundException: it.unimi.dsi.fastutil.doubles.AbstractDoubleLi
 [30Dec2024 20:04:09.058] [Server thread/INFO] [tombstone/]: The player carloselpillo has successfully been saved
 [30Dec2024 20:05:09.817] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [carloselpillo: Teleported carloselpillo to joselete123]
 [30Dec2024 20:06:06.467] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [myser444: Teleported myser444 to DeferentCurve07]
+[30Dec2024 20:09:01.426] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [carloselpillo: Teleported carloselpillo to joselete123]
+[30Dec2024 20:09:10.464] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: myser444 lost connection: Disconnected
+[30Dec2024 20:09:10.464] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: myser444 left the game
+[30Dec2024 20:09:30.434] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [carloselpillo: Teleported carloselpillo to joselete123]
+[30Dec2024 20:10:08.846] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [carloselpillo: Teleported carloselpillo to joselete123]
+[30Dec2024 20:10:33.874] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [carloselpillo: Teleported carloselpillo to joselete123]
+[30Dec2024 20:10:48.497] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: carloselpillo fell from a high place
+[30Dec2024 20:10:48.531] [Server thread/INFO] [tombstone/]: The player carloselpillo has successfully been saved
+[30Dec2024 20:10:59.026] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [carloselpillo: Teleported carloselpillo to joselete123]
+[30Dec2024 20:13:14.534] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [carloselpillo: Teleported carloselpillo to joselete123]
+[30Dec2024 20:15:12.870] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [DeferentCurve07: Teleported DeferentCurve07 to carloselpillo]
+[30Dec2024 20:21:52.066] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [carloselpillo: Teleported carloselpillo to DeferentCurve07]
+[30Dec2024 20:23:15.524] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: carloselpillo lost connection: Disconnected
+[30Dec2024 20:23:15.525] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: carloselpillo left the game
+[30Dec2024 20:24:00.177] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [DeferentCurve07: Set own game mode to Creative Mode]

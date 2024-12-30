@@ -17909,6 +17909,12 @@
     },
     "done": true
   },
+  "betterarcheology:recipes/building_blocks/rotten_stairs": {
+    "criteria": {
+      "has_rotten_planks": "2024-12-30 20:16:50 +0000"
+    },
+    "done": true
+  },
   "mcwlights:recipes/lamps_ceilings": {
     "criteria": {
       "has_the_recipe": "2024-12-30 15:22:35 +0000"
@@ -17928,6 +17934,12 @@
     },
     "done": false
   },
+  "betterarcheology:recipes/misc/rotten_fence": {
+    "criteria": {
+      "has_rotten_planks": "2024-12-30 20:16:50 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/redstone_lamp": {
     "criteria": {
       "has_glowstone": "2024-12-30 15:22:35 +0000"
@@ -17940,9 +17952,21 @@
     },
     "done": true
   },
+  "betterarcheology:recipes/redstone/rotten_trapdoor": {
+    "criteria": {
+      "has_rotten_planks": "2024-12-30 20:16:50 +0000"
+    },
+    "done": true
+  },
   "refinedstorage:upgrading_your_grid": {
     "criteria": {
       "crafting_grid_in_inventory": "2024-12-30 18:46:15 +0000"
+    },
+    "done": true
+  },
+  "betterarcheology:recipes/redstone/rotten_pressure_plate": {
+    "criteria": {
+      "has_rotten_planks": "2024-12-30 20:16:50 +0000"
     },
     "done": true
   },
@@ -17955,6 +17979,18 @@
   "new_slab_variants:recipes/building_blocks/ladder_slab": {
     "criteria": {
       "has_ladder": "2024-12-30 17:54:08 +0000"
+    },
+    "done": true
+  },
+  "betterarcheology:recipes/redstone/rotten_door": {
+    "criteria": {
+      "has_rotten_planks": "2024-12-30 20:16:50 +0000"
+    },
+    "done": true
+  },
+  "betterarcheology:recipes/building_blocks/rotten_slab": {
+    "criteria": {
+      "has_rotten_planks": "2024-12-30 20:16:50 +0000"
     },
     "done": true
   },
@@ -17982,6 +18018,12 @@
     },
     "done": true
   },
+  "supplementaries:recipes/building_blocks/betterarcheology/sign_post_rotten": {
+    "criteria": {
+      "has_planks": "2024-12-30 20:16:50 +0000"
+    },
+    "done": true
+  },
   "cataclysm:kill_monstrosity": {
     "criteria": {
       "netheritemonstrosity": "2024-12-30 16:39:18 +0000"
@@ -17997,6 +18039,12 @@
   "new_slab_variants:recipes/building_blocks/soul_soil_slab": {
     "criteria": {
       "has_soul_soil": "2024-12-30 16:01:29 +0000"
+    },
+    "done": true
+  },
+  "betterarcheology:recipes/redstone/rotten_fence_gate": {
+    "criteria": {
+      "has_rotten_planks": "2024-12-30 20:16:50 +0000"
     },
     "done": true
   },
