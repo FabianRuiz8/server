@@ -14662,5 +14662,35 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/netherite_ingot_from_netherite_block": {
+    "criteria": {
+      "has_netherite_block": "2024-12-30 01:28:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/get_wither_skull": {
+    "criteria": {
+      "wither_skull": "2024-12-30 01:26:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/skull_banner_pattern": {
+    "criteria": {
+      "has_wither_skeleton_skull": "2024-12-30 01:26:42 +0000"
+    },
+    "done": true
+  },
+  "new_slab_variants:recipes/building_blocks/netherite_block_slab": {
+    "criteria": {
+      "has_netherite_block": "2024-12-30 01:28:05 +0000"
+    },
+    "done": true
+  },
+  "super_ore_block:recipes/building_blocks/super_netherite_block_from_netherite_block": {
+    "criteria": {
+      "has_netherite_block": "2024-12-30 01:28:05 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }

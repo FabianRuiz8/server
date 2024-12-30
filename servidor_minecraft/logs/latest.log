@@ -384,3 +384,11 @@
 [30Dec2024 01:17:44.896] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/refinedmods/refinedstorage/apiimpl/network/node/ConnectivityStateChangeCause
 [30Dec2024 01:17:45.602] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/refinedmods/refinedstorage/api/network/grid/GridFactoryType
 [30Dec2024 01:20:03.196] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: joselete123 has made the advancement [Connecting]
+[30Dec2024 01:20:27.022] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [joselete123: Teleported joselete123 to carloselpillo]
+[30Dec2024 01:21:26.548] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [joselete123: Teleported joselete123 to carloselpillo]
+[30Dec2024 01:23:13.859] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: joselete123 has made the advancement [Storing externally]
+[30Dec2024 01:26:22.489] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [carloselpillo: Teleported carloselpillo to joselete123]
+[30Dec2024 01:26:42.040] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: carloselpillo has made the advancement [Spooky Scary Skeleton]
+[30Dec2024 01:28:10.755] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2079ms or 41 ticks behind
+[30Dec2024 01:29:37.358] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [joselete123: Set the time to 1000]
+[30Dec2024 01:29:47.313] [Server thread/INFO] [ModernFix/]: Made Refined Storage shape cache map thread-safe

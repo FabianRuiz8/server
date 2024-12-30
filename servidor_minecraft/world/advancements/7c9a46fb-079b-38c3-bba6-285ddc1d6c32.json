@@ -16579,6 +16579,12 @@
     },
     "done": true
   },
+  "refinedstorage:storing_externally": {
+    "criteria": {
+      "external_storage_in_inventory": "2024-12-30 01:23:13 +0000"
+    },
+    "done": true
+  },
   "refinedstorage:recipes/misc/coloring_recipes/red_grid": {
     "criteria": {
       "refinedstorage:controller": "2024-12-30 01:12:35 +0000"
