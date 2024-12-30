@@ -5582,7 +5582,8 @@
     "criteria": {
       "hops_seed": "2024-12-29 21:45:24 +0000",
       "tomatillo_seed": "2024-12-29 21:45:24 +0000",
-      "grape_seed": "2024-12-29 17:13:09 +0000"
+      "grape_seed": "2024-12-29 17:13:09 +0000",
+      "cranberry_seed": "2024-12-30 15:02:15 +0000"
     },
     "done": false
   },
@@ -10769,11 +10770,71 @@
     },
     "done": true
   },
+  "croptopia:recipes/misc/roasted_pumpkin_seeds": {
+    "criteria": {
+      "has_pumpkin_seed": "2024-12-30 15:02:15 +0000"
+    },
+    "done": true
+  },
+  "new_slab_variants:recipes/building_blocks/cracked_nether_bricks_slab": {
+    "criteria": {
+      "has_cracked_nether_bricks": "2024-12-30 15:00:56 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/chainmail_chestplate_repairing": {
+    "criteria": {
+      "has_chainmail_chestplate": "2024-12-30 15:04:13 +0000"
+    },
+    "done": true
+  },
   "aether:recipes/tools/diamond_axe_repairing": {
     "criteria": {
       "has_diamond_axe": "2024-12-30 14:57:18 +0000"
     },
     "done": true
+  },
+  "minecraft:recipes/misc/brown_dye": {
+    "criteria": {
+      "has_cocoa_beans": "2024-12-30 15:02:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cookie": {
+    "criteria": {
+      "has_cocoa": "2024-12-30 15:02:15 +0000"
+    },
+    "done": true
+  },
+  "new_slab_variants:recipes/building_blocks/magma_block_slab": {
+    "criteria": {
+      "has_magma_block": "2024-12-30 15:04:46 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/chocolate": {
+    "criteria": {
+      "has_cocoa_beans": "2024-12-30 15:02:15 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/diamond_leggings_repairing": {
+    "criteria": {
+      "has_diamond_leggings": "2024-12-30 15:01:21 +0000"
+    },
+    "done": true
+  },
+  "new_slab_variants:recipes/building_blocks/nether_wart_block_slab": {
+    "criteria": {
+      "has_nether_wart_block": "2024-12-30 15:01:53 +0000"
+    },
+    "done": true
+  },
+  "croptopia:gather_swamp": {
+    "criteria": {
+      "cranberry_seed": "2024-12-30 15:02:15 +0000"
+    },
+    "done": false
   },
   "DataVersion": 3465
 }
