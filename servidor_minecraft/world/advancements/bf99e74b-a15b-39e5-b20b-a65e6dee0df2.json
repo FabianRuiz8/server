@@ -13398,27 +13398,9 @@
     },
     "done": true
   },
-  "minecraft:husbandry/fishy_business": {
-    "criteria": {
-      "pufferfish": "2024-12-30 00:06:08 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/clay": {
     "criteria": {
       "has_clay_ball": "2024-12-29 23:52:59 +0000"
-    },
-    "done": true
-  },
-  "supplementaries:recipes/decorations/biomesoplenty/sign_post_mahogany": {
-    "criteria": {
-      "has_planks": "2024-12-29 23:53:54 +0000"
-    },
-    "done": true
-  },
-  "croptopia:recipes/misc/steamed_clams": {
-    "criteria": {
-      "has_clams": "2024-12-30 00:05:55 +0000"
     },
     "done": true
   },
@@ -13428,9 +13410,9 @@
     },
     "done": true
   },
-  "croptopia:recipes/misc/anchovy_pizza": {
+  "supplementaries:recipes/decorations/biomesoplenty/sign_post_mahogany": {
     "criteria": {
-      "has_anchovies": "2024-12-30 00:04:49 +0000"
+      "has_planks": "2024-12-29 23:53:54 +0000"
     },
     "done": true
   },
@@ -13446,21 +13428,9 @@
     },
     "done": true
   },
-  "croptopia:recipes/food/cooked_anchovy_from_smoking_anchovy": {
-    "criteria": {
-      "has_anchovy": "2024-12-30 00:04:49 +0000"
-    },
-    "done": true
-  },
   "biomesoplenty:recipes/building_blocks/mahogany_stairs": {
     "criteria": {
       "has_planks": "2024-12-29 23:53:54 +0000"
-    },
-    "done": true
-  },
-  "aether:recipes/tools/fishing_rod_repairing": {
-    "criteria": {
-      "has_fishing_rod": "2024-12-30 00:04:20 +0000"
     },
     "done": true
   },
@@ -13494,15 +13464,45 @@
     },
     "done": true
   },
+  "biomesoplenty:recipes/redstone/mahogany_trapdoor": {
+    "criteria": {
+      "has_planks": "2024-12-29 23:53:54 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/tools/fishing_rod_repairing": {
+    "criteria": {
+      "has_fishing_rod": "2024-12-30 00:04:20 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/misc/anchovy_pizza": {
+    "criteria": {
+      "has_anchovies": "2024-12-30 00:04:49 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/food/cooked_anchovy_from_smoking_anchovy": {
+    "criteria": {
+      "has_anchovy": "2024-12-30 00:04:49 +0000"
+    },
+    "done": true
+  },
   "croptopia:recipes/food/cooked_anchovy_from_anchovy": {
     "criteria": {
       "has_anchovy": "2024-12-30 00:04:49 +0000"
     },
     "done": true
   },
-  "biomesoplenty:recipes/redstone/mahogany_trapdoor": {
+  "croptopia:recipes/misc/steamed_clams": {
     "criteria": {
-      "has_planks": "2024-12-29 23:53:54 +0000"
+      "has_clams": "2024-12-30 00:05:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/fishy_business": {
+    "criteria": {
+      "pufferfish": "2024-12-30 00:06:08 +0000"
     },
     "done": true
   },
