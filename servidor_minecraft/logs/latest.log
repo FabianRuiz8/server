@@ -361,3 +361,9 @@
 [30Dec2024 00:37:05.939] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [joselete123: Set the time to 1000]
 [30Dec2024 00:37:09.624] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [joselete123: Set the weather to clear]
 [30Dec2024 00:37:18.093] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [carloselpillo: Teleported carloselpillo to joselete123]
+[30Dec2024 00:49:32.353] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2177ms or 43 ticks behind
+[30Dec2024 00:49:35.678] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: joselete123 moved too quickly! -0.5246528973048044,-2.701296853652213,9.760889175917328
+[30Dec2024 00:49:39.277] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: joselete123 moved too quickly! -7.550918591310619,-4.252203340253725,5.03031089076876
+[30Dec2024 00:49:49.660] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2334ms or 46 ticks behind
+[30Dec2024 00:53:46.044] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: carloselpillo fell from a high place
+[30Dec2024 00:53:46.112] [Server thread/INFO] [tombstone/]: The player carloselpillo has successfully been saved
