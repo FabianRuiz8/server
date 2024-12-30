@@ -2269,3 +2269,15 @@ java.lang.ClassNotFoundException: it.unimi.dsi.fastutil.doubles.AbstractDoubleLi
 [30Dec2024 16:08:50.990] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/simibubi/create/content/contraptions/IControlContraption$RotationMode
 [30Dec2024 16:08:50.993] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/simibubi/create/content/kinetics/transmission/sequencer/InstructionSpeedModifiers
 [30Dec2024 16:08:50.996] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/simibubi/create/foundation/gui/AllGuiTextures
+[30Dec2024 16:14:26.576] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [carloselpillo: Teleported carloselpillo to joselete123]
+[30Dec2024 16:15:17.314] [Server thread/INFO] [net.blay09.mods.netherportalfix.NetherPortalFix/]: No return portal found
+[30Dec2024 16:15:44.868] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [joselete123: Set the time to 1000]
+[30Dec2024 16:17:00.831] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [carloselpillo: Teleported carloselpillo to joselete123]
+[30Dec2024 16:17:09.335] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: carloselpillo was slain by joselete123
+[30Dec2024 16:17:09.340] [Server thread/INFO] [tombstone/]: The player carloselpillo has successfully been saved
+[30Dec2024 16:19:37.180] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [carloselpillo: Teleported carloselpillo to joselete123]
+[30Dec2024 16:19:51.157] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: carloselpillo burned to death
+[30Dec2024 16:19:51.161] [Server thread/INFO] [tombstone/]: The player carloselpillo has successfully been saved
+[30Dec2024 16:19:57.715] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <joselete123> #libertá
+[30Dec2024 16:22:24.463] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: carloselpillo was slain by Piglin Brute
+[30Dec2024 16:22:24.474] [Server thread/INFO] [tombstone/]: The player carloselpillo has successfully been saved
