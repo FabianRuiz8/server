@@ -839,6 +839,7 @@
       "lavender_field": "2024-12-21 23:45:24 +0000",
       "grassland": "2024-12-29 20:48:23 +0000",
       "tundra": "2024-12-26 00:20:03 +0000",
+      "undergrowth": "2024-12-30 16:50:01 +0000",
       "rainforest": "2024-12-29 04:28:15 +0000"
     },
     "done": false
@@ -15071,6 +15072,12 @@
   "minecraft:recipes/building_blocks/polished_blackstone_brick_stairs": {
     "criteria": {
       "has_polished_blackstone_bricks": "2024-12-30 16:12:18 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/crimson_mosquito": {
+    "criteria": {
+      "killed_by": "2024-12-30 16:50:41 +0000"
     },
     "done": true
   },

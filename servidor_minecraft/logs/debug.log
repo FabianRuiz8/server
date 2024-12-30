@@ -21610,3 +21610,25 @@ java.lang.ClassNotFoundException: it.unimi.dsi.fastutil.doubles.AbstractDoubleLi
 [30Dec2024 16:50:49.626] [Server thread/DEBUG] [twilightforest/]: Player carloselpillo (b74870d3-ce28-3687-912b-a14b5b99787c) respawned and received items held in storage
 [30Dec2024 16:50:54.126] [Server thread/DEBUG] [net.blay09.mods.netherportalfix.NetherPortalFix/]: Storing return portal from ResourceKey[minecraft:dimension / minecraft:the_nether] to BlockPos{x=6674, y=128, z=-676} in ResourceKey[minecraft:dimension / minecraft:overworld]
 [30Dec2024 16:52:53.716] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [joselete123: Set the time to 1000]
+[30Dec2024 16:54:00.222] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[30Dec2024 16:54:00.262] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[30Dec2024 16:55:50.566] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: carloselpillo tried to swim in lava
+[30Dec2024 16:55:50.569] [Server thread/DEBUG] [tombstone/]: A new grave of the player carloselpillo was created at position [x:473, y:35, z:-504, dim:minecraft:the_nether]
+[30Dec2024 16:55:50.571] [Server thread/INFO] [tombstone/]: The player carloselpillo has successfully been saved
+[30Dec2024 16:55:51.917] [Server thread/DEBUG] [twilightforest/]: Player carloselpillo (b74870d3-ce28-3687-912b-a14b5b99787c) respawned and received items held in storage
+[30Dec2024 16:55:56.522] [Server thread/DEBUG] [net.blay09.mods.netherportalfix.NetherPortalFix/]: Storing return portal from ResourceKey[minecraft:dimension / minecraft:the_nether] to BlockPos{x=6674, y=128, z=-676} in ResourceKey[minecraft:dimension / minecraft:overworld]
+[30Dec2024 16:59:00.237] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[30Dec2024 16:59:00.278] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[30Dec2024 16:59:55.115] [Server thread/DEBUG] [net.blay09.mods.netherportalfix.NetherPortalFix/]: Not storing return portal because I'm not in a portal.
+[30Dec2024 16:59:55.116] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [carloselpillo: Teleported carloselpillo to joselete123]
+[30Dec2024 16:59:55.359] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:sphinx
+[30Dec2024 16:59:55.694] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:meteor
+[30Dec2024 16:59:55.699] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:lava_fountain
+[30Dec2024 16:59:56.151] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of farlanders:small_house/root
+[30Dec2024 16:59:59.319] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:temple_1
+[30Dec2024 16:59:59.324] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:temple_2
+[30Dec2024 17:00:00.006] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: joselete123 moved too quickly! 0.3117018133661986,-10.209114278290627,-0.02351335248954456
+[30Dec2024 17:00:00.008] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: carloselpillo moved too quickly! 1.9993587976887284,-10.695072540908583,-1.4536379730823228
+[30Dec2024 17:00:00.027] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4880ms or 97 ticks behind
+[30Dec2024 17:02:58.178] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [joselete123: Set the time to 1000]
+[30Dec2024 17:02:58.711] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [carloselpillo: Teleported carloselpillo to joselete123]

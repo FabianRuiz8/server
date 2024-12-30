@@ -2321,3 +2321,11 @@ java.lang.ClassNotFoundException: it.unimi.dsi.fastutil.doubles.AbstractDoubleLi
 [30Dec2024 16:50:48.162] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: carloselpillo was slain by Crimson Mosquito
 [30Dec2024 16:50:48.172] [Server thread/INFO] [tombstone/]: The player carloselpillo has successfully been saved
 [30Dec2024 16:52:53.716] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [joselete123: Set the time to 1000]
+[30Dec2024 16:55:50.566] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: carloselpillo tried to swim in lava
+[30Dec2024 16:55:50.571] [Server thread/INFO] [tombstone/]: The player carloselpillo has successfully been saved
+[30Dec2024 16:59:55.116] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [carloselpillo: Teleported carloselpillo to joselete123]
+[30Dec2024 17:00:00.006] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: joselete123 moved too quickly! 0.3117018133661986,-10.209114278290627,-0.02351335248954456
+[30Dec2024 17:00:00.008] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: carloselpillo moved too quickly! 1.9993587976887284,-10.695072540908583,-1.4536379730823228
+[30Dec2024 17:00:00.027] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4880ms or 97 ticks behind
+[30Dec2024 17:02:58.178] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [joselete123: Set the time to 1000]
+[30Dec2024 17:02:58.711] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [carloselpillo: Teleported carloselpillo to joselete123]
