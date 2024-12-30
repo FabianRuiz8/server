@@ -13616,9 +13616,10 @@
   },
   "create:wrench_goggles": {
     "criteria": {
-      "0": "2024-12-25 22:42:55 +0000"
+      "0": "2024-12-25 22:42:55 +0000",
+      "1": "2024-12-30 01:49:16 +0000"
     },
-    "done": false
+    "done": true
   },
   "minecraft:recipes/building_blocks/clay": {
     "criteria": {
@@ -15469,6 +15470,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/grass_washed_brown.json": {
+    "criteria": {
+      "has_grass_block": "2024-12-30 01:50:03 +0000"
+    },
+    "done": true
+  },
   "refinedstorage:recipes/misc/coloring_recipes/gray_controller": {
     "criteria": {
       "refinedstorage:controller": "2024-12-30 01:12:35 +0000"
@@ -15478,6 +15485,12 @@
   "refinedstorage:recipes/misc/coloring_recipes/blue_wireless_transmitter": {
     "criteria": {
       "refinedstorage:controller": "2024-12-30 01:12:35 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_veridium_brick_slab_from_stone_types_veridium_stonecutting": {
+    "criteria": {
+      "has_stone_types_veridium": "2024-12-30 01:48:40 +0000"
     },
     "done": true
   },
@@ -15508,6 +15521,12 @@
   "refinedstorage:recipes/misc/coloring_recipes/orange_controller": {
     "criteria": {
       "refinedstorage:controller": "2024-12-30 01:12:35 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/polished_cut_veridium_from_stone_types_veridium_stonecutting": {
+    "criteria": {
+      "has_stone_types_veridium": "2024-12-30 01:48:40 +0000"
     },
     "done": true
   },
@@ -15550,6 +15569,12 @@
   "refinedstorage:recipes/misc/pattern_grid/blue_pattern_grid": {
     "criteria": {
       "refinedstorage:grid": "2024-12-30 01:17:14 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_veridium_brick_wall_from_stone_types_veridium_stonecutting": {
+    "criteria": {
+      "has_stone_types_veridium": "2024-12-30 01:48:40 +0000"
     },
     "done": true
   },
@@ -15643,9 +15668,21 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/small_veridium_brick_wall_from_stone_types_veridium_stonecutting": {
+    "criteria": {
+      "has_stone_types_veridium": "2024-12-30 01:48:40 +0000"
+    },
+    "done": true
+  },
   "refinedstorage:recipes/misc/coloring_recipes/orange_wireless_transmitter": {
     "criteria": {
       "refinedstorage:controller": "2024-12-30 01:12:35 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/decorations/display_case": {
+    "criteria": {
+      "has_item_frame": "2024-12-30 01:50:01 +0000"
     },
     "done": true
   },
@@ -15679,6 +15716,12 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/polished_cut_veridium_stairs_from_stone_types_veridium_stonecutting": {
+    "criteria": {
+      "has_stone_types_veridium": "2024-12-30 01:48:40 +0000"
+    },
+    "done": true
+  },
   "refinedstorage:recipes/misc/coloring_recipes/orange_crafter_manager": {
     "criteria": {
       "refinedstorage:controller": "2024-12-30 01:12:35 +0000"
@@ -15688,6 +15731,12 @@
   "refinedstorage:recipes/misc/coloring_recipes/pink_crafter_manager": {
     "criteria": {
       "refinedstorage:controller": "2024-12-30 01:12:35 +0000"
+    },
+    "done": true
+  },
+  "colourfulearth:recipes/decorations/grass_dyed_cyan": {
+    "criteria": {
+      "has_grass_block": "2024-12-30 01:50:03 +0000"
     },
     "done": true
   },
@@ -15775,6 +15824,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/grass_washed_light_blue.json": {
+    "criteria": {
+      "has_grass_block": "2024-12-30 01:50:03 +0000"
+    },
+    "done": true
+  },
   "refinedstorage:recipes/misc/pattern_grid/orange_pattern_grid": {
     "criteria": {
       "refinedstorage:grid": "2024-12-30 01:17:14 +0000"
@@ -15814,6 +15869,18 @@
   "ad_astra:recipes/misc/iron_plating_button": {
     "criteria": {
       "has_iron_plating_button": "2024-12-29 23:54:51 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/iron_helmet_repairing": {
+    "criteria": {
+      "has_iron_helmet": "2024-12-30 01:50:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/grass_washed_purple.json": {
+    "criteria": {
+      "has_grass_block": "2024-12-30 01:50:03 +0000"
     },
     "done": true
   },
@@ -15889,9 +15956,21 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/cut_veridium_bricks_from_stone_types_veridium_stonecutting": {
+    "criteria": {
+      "has_stone_types_veridium": "2024-12-30 01:48:40 +0000"
+    },
+    "done": true
+  },
   "refinedstorage:recipes/misc/coloring_recipes/lime_crafting_grid": {
     "criteria": {
       "refinedstorage:controller": "2024-12-30 01:12:35 +0000"
+    },
+    "done": true
+  },
+  "colourfulearth:recipes/decorations/grass_dyed_red": {
+    "criteria": {
+      "has_grass_block": "2024-12-30 01:50:03 +0000"
     },
     "done": true
   },
@@ -15925,6 +16004,12 @@
     },
     "done": true
   },
+  "colourfulearth:recipes/decorations/grass_dyed_grey": {
+    "criteria": {
+      "has_grass_block": "2024-12-30 01:50:03 +0000"
+    },
+    "done": true
+  },
   "refinedstorage:recipes/misc/coloring_recipes/white_network_receiver": {
     "criteria": {
       "refinedstorage:controller": "2024-12-30 01:12:35 +0000"
@@ -15949,9 +16034,21 @@
     },
     "done": true
   },
+  "colourfulearth:recipes/decorations/grass_dyed_green": {
+    "criteria": {
+      "has_grass_block": "2024-12-30 01:50:03 +0000"
+    },
+    "done": true
+  },
   "refinedstorage:recipes/misc/coloring_recipes/magenta_crafter_manager": {
     "criteria": {
       "refinedstorage:controller": "2024-12-30 01:12:35 +0000"
+    },
+    "done": true
+  },
+  "colourfulearth:recipes/decorations/grass_dyed_black": {
+    "criteria": {
+      "has_grass_block": "2024-12-30 01:50:03 +0000"
     },
     "done": true
   },
@@ -15970,6 +16067,12 @@
   "refinedstorage:recipes/misc/coloring_recipes/brown_pattern_grid": {
     "criteria": {
       "refinedstorage:controller": "2024-12-30 01:12:35 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/polished_cut_veridium_slab_from_stone_types_veridium_stonecutting": {
+    "criteria": {
+      "has_stone_types_veridium": "2024-12-30 01:48:40 +0000"
     },
     "done": true
   },
@@ -16018,6 +16121,12 @@
   "refinedstorage:recipes/misc/crafting_grid/purple_crafting_grid": {
     "criteria": {
       "refinedstorage:grid": "2024-12-30 01:17:14 +0000"
+    },
+    "done": true
+  },
+  "colourfulearth:recipes/decorations/grass_dyed_light_blue": {
+    "criteria": {
+      "has_grass_block": "2024-12-30 01:50:03 +0000"
     },
     "done": true
   },
@@ -16099,9 +16208,21 @@
     },
     "done": true
   },
+  "colourfulearth:recipes/decorations/grass_dyed_white": {
+    "criteria": {
+      "has_grass_block": "2024-12-30 01:50:03 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/lead": {
     "criteria": {
       "has_slime_ball": "2024-12-30 01:10:04 +0000"
+    },
+    "done": true
+  },
+  "colourfulearth:recipes/decorations/grass_dyed_purple": {
+    "criteria": {
+      "has_grass_block": "2024-12-30 01:50:03 +0000"
     },
     "done": true
   },
@@ -16114,6 +16235,12 @@
   "refinedstorage:recipes/misc/pattern_grid/lime_pattern_grid": {
     "criteria": {
       "refinedstorage:grid": "2024-12-30 01:17:14 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/tools/iron_shovel_repairing": {
+    "criteria": {
+      "has_iron_shovel": "2024-12-30 01:49:16 +0000"
     },
     "done": true
   },
@@ -16132,6 +16259,12 @@
   "refinedstorage:recipes/misc/coloring_recipes/green_disk_manipulator": {
     "criteria": {
       "refinedstorage:controller": "2024-12-30 01:12:35 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_veridium_slab_from_stone_types_veridium_stonecutting": {
+    "criteria": {
+      "has_stone_types_veridium": "2024-12-30 01:48:40 +0000"
     },
     "done": true
   },
@@ -16177,6 +16310,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/grass_washed_lime.json": {
+    "criteria": {
+      "has_grass_block": "2024-12-30 01:50:03 +0000"
+    },
+    "done": true
+  },
   "refinedstorage:recipes/misc/coloring_recipes/red_controller": {
     "criteria": {
       "refinedstorage:controller": "2024-12-30 01:12:35 +0000"
@@ -16186,6 +16325,12 @@
   "refinedstorage:recipes/misc/coloring_recipes/orange_disk_manipulator": {
     "criteria": {
       "refinedstorage:controller": "2024-12-30 01:12:35 +0000"
+    },
+    "done": true
+  },
+  "colourfulearth:recipes/decorations/grass_dyed_pink": {
+    "criteria": {
+      "has_grass_block": "2024-12-30 01:50:03 +0000"
     },
     "done": true
   },
@@ -16285,6 +16430,12 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/small_veridium_brick_slab_from_stone_types_veridium_stonecutting": {
+    "criteria": {
+      "has_stone_types_veridium": "2024-12-30 01:48:40 +0000"
+    },
+    "done": true
+  },
   "refinedstorage:recipes/misc/coloring_recipes/yellow_crafter": {
     "criteria": {
       "refinedstorage:controller": "2024-12-30 01:12:35 +0000"
@@ -16324,6 +16475,18 @@
   "refinedstorage:recipes/misc/coloring_recipes/green_relay": {
     "criteria": {
       "refinedstorage:controller": "2024-12-30 01:12:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/grass_washed_green.json": {
+    "criteria": {
+      "has_grass_block": "2024-12-30 01:50:03 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/layered_veridium_from_stone_types_veridium_stonecutting": {
+    "criteria": {
+      "has_stone_types_veridium": "2024-12-30 01:48:40 +0000"
     },
     "done": true
   },
@@ -16477,6 +16640,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/grass_washed_blue.json": {
+    "criteria": {
+      "has_grass_block": "2024-12-30 01:50:03 +0000"
+    },
+    "done": true
+  },
   "refinedstorage:recipes/misc/coloring_recipes/white_crafting_grid": {
     "criteria": {
       "refinedstorage:controller": "2024-12-30 01:12:35 +0000"
@@ -16507,6 +16676,12 @@
     },
     "done": true
   },
+  "colourfulearth:recipes/decorations/grass_dyed_yellow": {
+    "criteria": {
+      "has_grass_block": "2024-12-30 01:50:03 +0000"
+    },
+    "done": true
+  },
   "refinedstorage:recipes/misc/coloring_recipes/brown_security_manager": {
     "criteria": {
       "refinedstorage:controller": "2024-12-30 01:12:35 +0000"
@@ -16528,6 +16703,12 @@
   "refinedstorage:recipes/misc/coloring_recipes/white_disk_manipulator": {
     "criteria": {
       "refinedstorage:controller": "2024-12-30 01:12:35 +0000"
+    },
+    "done": true
+  },
+  "colourfulearth:recipes/decorations/grass_dyed_brown": {
+    "criteria": {
+      "has_grass_block": "2024-12-30 01:50:03 +0000"
     },
     "done": true
   },
@@ -16633,9 +16814,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/grass_washed_pink.json": {
+    "criteria": {
+      "has_grass_block": "2024-12-30 01:50:03 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_veridium_wall_from_stone_types_veridium_stonecutting": {
+    "criteria": {
+      "has_stone_types_veridium": "2024-12-30 01:48:40 +0000"
+    },
+    "done": true
+  },
   "refinedstorage:recipes/misc/coloring_recipes/yellow_crafting_grid": {
     "criteria": {
       "refinedstorage:controller": "2024-12-30 01:12:35 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_veridium_stairs_from_stone_types_veridium_stonecutting": {
+    "criteria": {
+      "has_stone_types_veridium": "2024-12-30 01:48:40 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_veridium_brick_stairs_from_stone_types_veridium_stonecutting": {
+    "criteria": {
+      "has_stone_types_veridium": "2024-12-30 01:48:40 +0000"
     },
     "done": true
   },
@@ -16717,6 +16922,12 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/cut_veridium_from_stone_types_veridium_stonecutting": {
+    "criteria": {
+      "has_stone_types_veridium": "2024-12-30 01:48:40 +0000"
+    },
+    "done": true
+  },
   "refinedstorage:recipes/misc/coloring_recipes/lime_crafting_monitor": {
     "criteria": {
       "refinedstorage:controller": "2024-12-30 01:12:35 +0000"
@@ -16753,9 +16964,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/grass_washed_grey.json": {
+    "criteria": {
+      "has_grass_block": "2024-12-30 01:50:03 +0000"
+    },
+    "done": true
+  },
   "refinedstorage:recipes/misc/coloring_recipes/green_crafter": {
     "criteria": {
       "refinedstorage:controller": "2024-12-30 01:12:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/grass_washed_black.json": {
+    "criteria": {
+      "has_grass_block": "2024-12-30 01:50:03 +0000"
     },
     "done": true
   },
@@ -16774,6 +16997,12 @@
   "refinedstorage:recipes/misc/coloring_recipes/yellow_relay": {
     "criteria": {
       "refinedstorage:controller": "2024-12-30 01:12:35 +0000"
+    },
+    "done": true
+  },
+  "colourfulearth:recipes/decorations/grass_dyed_blue": {
+    "criteria": {
+      "has_grass_block": "2024-12-30 01:50:03 +0000"
     },
     "done": true
   },
@@ -16873,6 +17102,18 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/veridium_pillar_from_stone_types_veridium_stonecutting": {
+    "criteria": {
+      "has_stone_types_veridium": "2024-12-30 01:48:40 +0000"
+    },
+    "done": true
+  },
+  "colourfulearth:recipes/decorations/grass_dyed_light_grey": {
+    "criteria": {
+      "has_grass_block": "2024-12-30 01:50:03 +0000"
+    },
+    "done": true
+  },
   "refinedstorage:recipes/misc/fluid_grid/white_fluid_grid": {
     "criteria": {
       "refinedstorage:grid": "2024-12-30 01:17:14 +0000"
@@ -16921,6 +17162,24 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/grass_washed_orange.json": {
+    "criteria": {
+      "has_grass_block": "2024-12-30 01:50:03 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/polished_cut_veridium_wall_from_stone_types_veridium_stonecutting": {
+    "criteria": {
+      "has_stone_types_veridium": "2024-12-30 01:48:40 +0000"
+    },
+    "done": true
+  },
+  "colourfulearth:recipes/decorations/grass_dyed_magenta": {
+    "criteria": {
+      "has_grass_block": "2024-12-30 01:50:03 +0000"
+    },
+    "done": true
+  },
   "refinedstorage:recipes/misc/coloring_recipes/green_network_transmitter": {
     "criteria": {
       "refinedstorage:controller": "2024-12-30 01:12:35 +0000"
@@ -16951,6 +17210,24 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/veridium_from_stone_types_veridium_stonecutting": {
+    "criteria": {
+      "has_stone_types_veridium": "2024-12-30 01:48:40 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/small_veridium_bricks_from_stone_types_veridium_stonecutting": {
+    "criteria": {
+      "has_stone_types_veridium": "2024-12-30 01:48:40 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/small_veridium_brick_stairs_from_stone_types_veridium_stonecutting": {
+    "criteria": {
+      "has_stone_types_veridium": "2024-12-30 01:48:40 +0000"
+    },
+    "done": true
+  },
   "refinedstorage:recipes/misc/coloring_recipes/yellow_wireless_transmitter": {
     "criteria": {
       "refinedstorage:controller": "2024-12-30 01:12:35 +0000"
@@ -16960,6 +17237,12 @@
   "refinedstorage:recipes/misc/coloring_recipes/magenta_fluid_grid": {
     "criteria": {
       "refinedstorage:controller": "2024-12-30 01:12:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/grass_washed_light_grey.json": {
+    "criteria": {
+      "has_grass_block": "2024-12-30 01:50:03 +0000"
     },
     "done": true
   },
@@ -16981,9 +17264,33 @@
     },
     "done": true
   },
+  "colourfulearth:recipes/decorations/grass_dyed_orange": {
+    "criteria": {
+      "has_grass_block": "2024-12-30 01:50:03 +0000"
+    },
+    "done": true
+  },
   "refinedstorage:recipes/misc/crafting_grid/yellow_crafting_grid": {
     "criteria": {
       "refinedstorage:grid": "2024-12-30 01:17:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/grass_washed_yellow.json": {
+    "criteria": {
+      "has_grass_block": "2024-12-30 01:50:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/grass_washed_white.json": {
+    "criteria": {
+      "has_grass_block": "2024-12-30 01:50:03 +0000"
+    },
+    "done": true
+  },
+  "colourfulearth:recipes/decorations/grass_dyed_lime": {
+    "criteria": {
+      "has_grass_block": "2024-12-30 01:50:03 +0000"
     },
     "done": true
   },
@@ -17047,6 +17354,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/grass_washed_red.json": {
+    "criteria": {
+      "has_grass_block": "2024-12-30 01:50:03 +0000"
+    },
+    "done": true
+  },
   "refinedstorage:recipes/misc/coloring_recipes/black_network_transmitter": {
     "criteria": {
       "refinedstorage:controller": "2024-12-30 01:12:35 +0000"
@@ -17074,6 +17387,12 @@
   "refinedstorage:recipes/misc/coloring_recipes/black_pattern_grid": {
     "criteria": {
       "refinedstorage:controller": "2024-12-30 01:12:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/grass_washed_cyan.json": {
+    "criteria": {
+      "has_grass_block": "2024-12-30 01:50:03 +0000"
     },
     "done": true
   },
@@ -17167,6 +17486,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/grass_washed_magenta.json": {
+    "criteria": {
+      "has_grass_block": "2024-12-30 01:50:03 +0000"
+    },
+    "done": true
+  },
   "refinedstorage:recipes/misc/coloring_recipes/blue_relay": {
     "criteria": {
       "refinedstorage:controller": "2024-12-30 01:12:35 +0000"
@@ -17188,6 +17513,12 @@
   "refinedstorage:recipes/misc/coloring_recipes/orange_network_transmitter": {
     "criteria": {
       "refinedstorage:controller": "2024-12-30 01:12:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/carrot_on_a_stick": {
+    "criteria": {
+      "has_carrot": "2024-12-30 01:50:01 +0000"
     },
     "done": true
   },
@@ -17251,6 +17582,12 @@
     },
     "done": true
   },
+  "aether:recipes/tools/golden_hoe_repairing": {
+    "criteria": {
+      "has_golden_hoe": "2024-12-30 01:48:38 +0000"
+    },
+    "done": true
+  },
   "refinedstorage:recipes/misc/coloring_recipes/lime_security_manager": {
     "criteria": {
       "refinedstorage:controller": "2024-12-30 01:12:35 +0000"
@@ -17260,6 +17597,12 @@
   "refinedstorage:recipes/misc/coloring_recipes/orange_network_receiver": {
     "criteria": {
       "refinedstorage:controller": "2024-12-30 01:12:35 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/decorations/firefly_jar": {
+    "criteria": {
+      "has_item": "2024-12-30 01:50:01 +0000"
     },
     "done": true
   },
