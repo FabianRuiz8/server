@@ -14427,5 +14427,11 @@
     },
     "done": true
   },
+  "aether:recipes/tools/golden_axe_repairing": {
+    "criteria": {
+      "has_golden_axe": "2024-12-31 14:53:22 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
