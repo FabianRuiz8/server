@@ -13976,21 +13976,15 @@
     },
     "done": true
   },
-  "handcrafted:recipes/misc/light_gray_cushion": {
-    "criteria": {
-      "has_light_gray_cushion": "2024-12-30 23:09:28 +0000"
-    },
-    "done": true
-  },
   "twilightforest:recipes/decorations/uncrafting_table": {
     "criteria": {
       "has_uncrafting_table": "2024-12-30 23:07:54 +0000"
     },
     "done": true
   },
-  "alexscaves:alexscaves/sugar_rush": {
+  "handcrafted:recipes/misc/light_gray_cushion": {
     "criteria": {
-      "all_effects": "2024-12-30 23:41:50 +0000"
+      "has_light_gray_cushion": "2024-12-30 23:09:28 +0000"
     },
     "done": true
   },
@@ -14003,24 +13997,6 @@
   "minecraft:recipes/decorations/light_gray_bed": {
     "criteria": {
       "has_light_gray_wool": "2024-12-30 23:09:28 +0000"
-    },
-    "done": true
-  },
-  "supplementaries:recipes/sign_post_oak": {
-    "criteria": {
-      "has_oak_sign": "2024-12-30 23:40:39 +0000"
-    },
-    "done": true
-  },
-  "mobdropsrecipes_overworld:recipes/misc/essence_into_phantom_membrane": {
-    "criteria": {
-      "has_rare_essence": "2024-12-30 23:10:29 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/netherite_ingot_from_netherite_block": {
-    "criteria": {
-      "has_netherite_block": "2024-12-30 23:12:28 +0000"
     },
     "done": true
   },
@@ -14042,18 +14018,6 @@
     },
     "done": true
   },
-  "alexsmobs:alexsmobs/tigers_blessing": {
-    "criteria": {
-      "all_effects": "2024-12-30 23:34:56 +0000"
-    },
-    "done": true
-  },
-  "aether:recipes/tools/iron_shovel_repairing": {
-    "criteria": {
-      "has_iron_shovel": "2024-12-30 23:21:55 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/light_gray_banner": {
     "criteria": {
       "has_light_gray_wool": "2024-12-30 23:09:28 +0000"
@@ -14066,9 +14030,21 @@
     },
     "done": true
   },
-  "new_slab_variants:recipes/building_blocks/netherite_block_slab": {
+  "ad_astra:recipes/misc/light_gray_flag": {
     "criteria": {
-      "has_netherite_block": "2024-12-30 23:12:28 +0000"
+      "has_light_gray_flag": "2024-12-30 23:09:28 +0000"
+    },
+    "done": true
+  },
+  "comforts:hammock_light_gray": {
+    "criteria": {
+      "has_light_gray_wool": "2024-12-30 23:09:28 +0000"
+    },
+    "done": true
+  },
+  "mobdropsrecipes_overworld:recipes/misc/essence_into_phantom_membrane": {
+    "criteria": {
+      "has_rare_essence": "2024-12-30 23:10:29 +0000"
     },
     "done": true
   },
@@ -14084,9 +14060,15 @@
     },
     "done": true
   },
-  "aether:recipes/combat/leather_chestplate_repairing": {
+  "minecraft:recipes/misc/netherite_ingot_from_netherite_block": {
     "criteria": {
-      "has_leather_chestplate": "2024-12-30 23:21:55 +0000"
+      "has_netherite_block": "2024-12-30 23:12:28 +0000"
+    },
+    "done": true
+  },
+  "new_slab_variants:recipes/building_blocks/netherite_block_slab": {
+    "criteria": {
+      "has_netherite_block": "2024-12-30 23:12:28 +0000"
     },
     "done": true
   },
@@ -14096,15 +14078,111 @@
     },
     "done": true
   },
-  "ad_astra:recipes/misc/light_gray_flag": {
+  "aether:recipes/tools/iron_shovel_repairing": {
     "criteria": {
-      "has_light_gray_flag": "2024-12-30 23:09:28 +0000"
+      "has_iron_shovel": "2024-12-30 23:21:55 +0000"
     },
     "done": true
   },
-  "comforts:hammock_light_gray": {
+  "aether:recipes/combat/leather_chestplate_repairing": {
     "criteria": {
-      "has_light_gray_wool": "2024-12-30 23:09:28 +0000"
+      "has_leather_chestplate": "2024-12-30 23:21:55 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/tigers_blessing": {
+    "criteria": {
+      "all_effects": "2024-12-30 23:34:56 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/sign_post_oak": {
+    "criteria": {
+      "has_oak_sign": "2024-12-30 23:40:39 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/sugar_rush": {
+    "criteria": {
+      "all_effects": "2024-12-30 23:41:50 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:arborist": {
+    "criteria": {
+      "twilight_oak_log": "2024-12-31 13:29:46 +0000"
+    },
+    "done": false
+  },
+  "twilightforest:recipes/building_blocks/wood/twilight_oak_planks": {
+    "criteria": {
+      "has_item": "2024-12-31 13:29:46 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/redstone/jacaranda_pressure_plate": {
+    "criteria": {
+      "has_planks": "2024-12-31 13:24:38 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/building_blocks/wood/twilight_oak_wood": {
+    "criteria": {
+      "has_item": "2024-12-31 13:29:46 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/redstone/jacaranda_button": {
+    "criteria": {
+      "has_planks": "2024-12-31 13:24:38 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/decorations/biomesoplenty/sign_post_jacaranda": {
+    "criteria": {
+      "has_planks": "2024-12-31 13:24:38 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/redstone/jacaranda_fence_gate": {
+    "criteria": {
+      "has_planks": "2024-12-31 13:24:38 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/decorations/jacaranda_sign": {
+    "criteria": {
+      "has_jacaranda_planks": "2024-12-31 13:24:38 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/building_blocks/jacaranda_stairs": {
+    "criteria": {
+      "has_planks": "2024-12-31 13:24:38 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/building_blocks/jacaranda_slab": {
+    "criteria": {
+      "has_planks": "2024-12-31 13:24:38 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/redstone/jacaranda_door": {
+    "criteria": {
+      "has_planks": "2024-12-31 13:24:38 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/decorations/jacaranda_fence": {
+    "criteria": {
+      "has_planks": "2024-12-31 13:24:38 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/redstone/jacaranda_trapdoor": {
+    "criteria": {
+      "has_planks": "2024-12-31 13:24:38 +0000"
     },
     "done": true
   },

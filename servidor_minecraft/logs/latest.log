@@ -2156,3 +2156,32 @@ java.lang.ClassNotFoundException: it.unimi.dsi.fastutil.doubles.AbstractDoubleLi
 [31Dec2024 13:22:24.440] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting mekanism/common/block/states/TransmitterType
 [31Dec2024 13:22:24.441] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting mekanism/common/block/states/TransmitterType$Size
 [31Dec2024 13:23:15.880] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/p3pp3rf1y/sophisticatedbackpacks/common/gui/BackpackContext$ContextType
+[31Dec2024 13:23:50.501] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: marquitosTPMS[/127.9.149.75:44981] logged in with entity id 2651 at (6098.530011731361, 70.0, -363.8620908767464)
+[31Dec2024 13:23:50.507] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to marquitosTPMS
+[31Dec2024 13:23:50.507] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to marquitosTPMS
+[31Dec2024 13:23:50.508] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to marquitosTPMS
+[31Dec2024 13:23:50.508] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to marquitosTPMS
+[31Dec2024 13:23:50.513] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to marquitosTPMS
+[31Dec2024 13:23:50.516] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to marquitosTPMS
+[31Dec2024 13:23:50.517] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to marquitosTPMS
+[31Dec2024 13:23:50.571] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: marquitosTPMS joined the game
+[31Dec2024 13:23:50.673] [Server thread/INFO] [Jade/]: Syncing config to marquitosTPMS (6164242c-0f51-382c-9784-a804d11a124f)
+[31Dec2024 13:24:16.547] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting ovh/corail/tombstone/item/ItemCastableMagic$CastingTarget
+[31Dec2024 13:24:20.533] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting ovh/corail/tombstone/helper/SpawnHelper$SpawnResult
+[31Dec2024 13:24:20.540] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting ovh/corail/tombstone/helper/LangKey
+[31Dec2024 13:24:38.439] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraftforge/event/entity/player/AdvancementEvent$AdvancementProgressEvent$ProgressType
+[31Dec2024 13:25:49.583] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: marquitosTPMS lost connection: Disconnected
+[31Dec2024 13:25:49.584] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: marquitosTPMS left the game
+[31Dec2024 13:28:27.371] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: marquitosTPMS[/127.9.149.75:33529] logged in with entity id 4802 at (6158.600302873935, 63.0, -322.72087493315973)
+[31Dec2024 13:28:27.377] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to marquitosTPMS
+[31Dec2024 13:28:27.377] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to marquitosTPMS
+[31Dec2024 13:28:27.379] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to marquitosTPMS
+[31Dec2024 13:28:27.379] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to marquitosTPMS
+[31Dec2024 13:28:27.382] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to marquitosTPMS
+[31Dec2024 13:28:27.387] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to marquitosTPMS
+[31Dec2024 13:28:27.387] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to marquitosTPMS
+[31Dec2024 13:28:27.458] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: marquitosTPMS joined the game
+[31Dec2024 13:28:27.550] [Server thread/INFO] [Jade/]: Syncing config to marquitosTPMS (6164242c-0f51-382c-9784-a804d11a124f)
+[31Dec2024 13:30:23.297] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting fr/rakambda/fallingtree/common/tree/TreePartType
+[31Dec2024 13:30:34.202] [Netty Epoll Server IO #5/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/network/chat/FilterMask$Type
+[31Dec2024 13:31:25.429] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [joselete123: Set the time to 1000]
