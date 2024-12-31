@@ -2300,3 +2300,9 @@ java.lang.ClassNotFoundException: it.unimi.dsi.fastutil.doubles.AbstractDoubleLi
 [31Dec2024 14:22:45.855] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to myser444
 [31Dec2024 14:22:45.902] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: myser444 joined the game
 [31Dec2024 14:22:45.965] [Server thread/INFO] [Jade/]: Syncing config to myser444 (bf99e74b-a15b-39e5-b20b-a65e6dee0df2)
+[31Dec2024 14:25:36.929] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: joselete123 lost connection: Disconnected
+[31Dec2024 14:25:36.929] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: joselete123 left the game
+[31Dec2024 14:31:30.127] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: myser444 blew up
+[31Dec2024 14:31:30.136] [Server thread/INFO] [tombstone/]: The player myser444 has successfully been saved
+[31Dec2024 14:32:08.421] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: myser444 blew up
+[31Dec2024 14:32:08.433] [Server thread/INFO] [tombstone/]: The player myser444 has successfully been saved

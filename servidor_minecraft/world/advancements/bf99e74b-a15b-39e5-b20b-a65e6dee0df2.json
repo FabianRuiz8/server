@@ -14253,39 +14253,9 @@
     },
     "done": true
   },
-  "create:recipes/combat/crafting/appliances/netherite_diving_helmet_from_netherite": {
-    "criteria": {
-      "has_item": "2024-12-31 00:00:15 +0000"
-    },
-    "done": true
-  },
-  "supplementaries:recipes/netherite_trapdoor": {
-    "criteria": {
-      "has_netherite_scrap": "2024-12-30 22:54:46 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/netherite_ingot": {
-    "criteria": {
-      "has_netherite_scrap": "2024-12-30 22:54:46 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/combat/netherite_helmet_smithing": {
     "criteria": {
       "has_netherite_ingot": "2024-12-30 22:52:39 +0000"
-    },
-    "done": true
-  },
-  "aether:recipes/tools/netherite_pickaxe_repairing": {
-    "criteria": {
-      "has_netherite_pickaxe": "2024-12-30 22:57:38 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/netherite_upgrade_smithing_template": {
-    "criteria": {
-      "has_netherite_upgrade_smithing_template": "2024-12-30 23:55:48 +0000"
     },
     "done": true
   },
@@ -14319,39 +14289,9 @@
     },
     "done": true
   },
-  "supplementaries:recipes/netherite_door": {
-    "criteria": {
-      "has_netherite_scrap": "2024-12-30 22:54:46 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/tools/netherite_brush_smithing": {
     "criteria": {
       "has_netherite_ingot": "2024-12-30 22:52:39 +0000"
-    },
-    "done": true
-  },
-  "aether:recipes/combat/netherite_helmet_repairing": {
-    "criteria": {
-      "has_netherite_helmet": "2024-12-31 00:00:15 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/combat/crafting/appliances/netherite_backtank_from_netherite": {
-    "criteria": {
-      "has_item": "2024-12-31 00:00:08 +0000"
-    },
-    "done": true
-  },
-  "biomesoplenty:recipes/building_blocks/orange_sandstone": {
-    "criteria": {
-      "has_sand": "2024-12-31 00:56:41 +0000"
-    },
-    "done": true
-  },
-  "minecraft:nether/netherite_armor": {
-    "criteria": {
-      "netherite_armor": "2024-12-31 00:01:01 +0000"
     },
     "done": true
   },
@@ -14361,39 +14301,15 @@
     },
     "done": true
   },
-  "aether:recipes/combat/netherite_boots_repairing": {
-    "criteria": {
-      "has_netherite_boots": "2024-12-31 00:01:01 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/tools/netherite_axe_smithing": {
     "criteria": {
       "has_netherite_ingot": "2024-12-30 22:52:39 +0000"
     },
     "done": true
   },
-  "aether:recipes/combat/netherite_chestplate_repairing": {
-    "criteria": {
-      "has_netherite_chestplate": "2024-12-31 00:00:08 +0000"
-    },
-    "done": true
-  },
   "supplementaries:recipes/safe": {
     "criteria": {
       "has_netherite_ingot": "2024-12-30 22:52:39 +0000"
-    },
-    "done": true
-  },
-  "aether:recipes/tools/golden_shovel_repairing": {
-    "criteria": {
-      "has_golden_shovel": "2024-12-31 00:36:33 +0000"
-    },
-    "done": true
-  },
-  "aether:recipes/combat/netherite_leggings_repairing": {
-    "criteria": {
-      "has_netherite_leggings": "2024-12-31 00:00:12 +0000"
     },
     "done": true
   },
@@ -14409,9 +14325,87 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/netherite_pickaxe_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2024-12-30 22:52:39 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/netherite_trapdoor": {
+    "criteria": {
+      "has_netherite_scrap": "2024-12-30 22:54:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/netherite_ingot": {
+    "criteria": {
+      "has_netherite_scrap": "2024-12-30 22:54:46 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/netherite_door": {
+    "criteria": {
+      "has_netherite_scrap": "2024-12-30 22:54:46 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/tools/netherite_pickaxe_repairing": {
+    "criteria": {
+      "has_netherite_pickaxe": "2024-12-30 22:57:38 +0000"
+    },
+    "done": true
+  },
   "aether:recipes/combat/leather_chestplate_repairing": {
     "criteria": {
       "has_leather_chestplate": "2024-12-30 23:22:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/netherite_upgrade_smithing_template": {
+    "criteria": {
+      "has_netherite_upgrade_smithing_template": "2024-12-30 23:55:48 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/combat/crafting/appliances/netherite_backtank_from_netherite": {
+    "criteria": {
+      "has_item": "2024-12-31 00:00:08 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/netherite_chestplate_repairing": {
+    "criteria": {
+      "has_netherite_chestplate": "2024-12-31 00:00:08 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/netherite_leggings_repairing": {
+    "criteria": {
+      "has_netherite_leggings": "2024-12-31 00:00:12 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/combat/crafting/appliances/netherite_diving_helmet_from_netherite": {
+    "criteria": {
+      "has_item": "2024-12-31 00:00:15 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/netherite_helmet_repairing": {
+    "criteria": {
+      "has_netherite_helmet": "2024-12-31 00:00:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/netherite_armor": {
+    "criteria": {
+      "netherite_armor": "2024-12-31 00:01:01 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/netherite_boots_repairing": {
+    "criteria": {
+      "has_netherite_boots": "2024-12-31 00:01:01 +0000"
     },
     "done": true
   },
@@ -14421,9 +14415,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/tools/netherite_pickaxe_smithing": {
+  "aether:recipes/tools/golden_shovel_repairing": {
     "criteria": {
-      "has_netherite_ingot": "2024-12-30 22:52:39 +0000"
+      "has_golden_shovel": "2024-12-31 00:36:33 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/building_blocks/orange_sandstone": {
+    "criteria": {
+      "has_sand": "2024-12-31 00:56:41 +0000"
     },
     "done": true
   },
