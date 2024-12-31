@@ -2113,3 +2113,5 @@ java.lang.ClassNotFoundException: it.unimi.dsi.fastutil.doubles.AbstractDoubleLi
 [31Dec2024 17:42:34.917] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/refinedmods/refinedstorage/api/network/security/Permission
 [31Dec2024 17:42:34.919] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/refinedmods/refinedstorage/api/network/grid/GridFactoryType
 [31Dec2024 17:42:50.741] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/animal/IronGolem$Crackiness
+[31Dec2024 17:48:47.324] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/refinedmods/refinedstorage/container/transfer/InsertionResultType
+[31Dec2024 17:53:15.489] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraftforge/event/entity/ProjectileImpactEvent$ImpactResult
