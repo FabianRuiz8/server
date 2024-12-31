@@ -16202,5 +16202,23 @@
     },
     "done": true
   },
+  "biomesoplenty:recipes/building_blocks/mahogany_wood": {
+    "criteria": {
+      "has_log": "2024-12-31 19:21:07 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/building_blocks/mahogany_planks": {
+    "criteria": {
+      "has_logs": "2024-12-31 19:21:07 +0000"
+    },
+    "done": true
+  },
+  "mcwfurnituresbop:recipes/mahogany": {
+    "criteria": {
+      "has_wood": "2024-12-31 19:21:07 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }

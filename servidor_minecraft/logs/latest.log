@@ -2130,3 +2130,4 @@ java.lang.ClassNotFoundException: it.unimi.dsi.fastutil.doubles.AbstractDoubleLi
 [31Dec2024 18:47:03.447] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: carloselpillo was doomed to fall by Skeleton
 [31Dec2024 18:47:03.453] [Server thread/INFO] [tombstone/]: The player carloselpillo has successfully been saved
 [31Dec2024 18:48:38.145] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting fr/rakambda/fallingtree/common/tree/TreePartType
+[31Dec2024 19:21:07.777] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraftforge/event/entity/player/AdvancementEvent$AdvancementProgressEvent$ProgressType
