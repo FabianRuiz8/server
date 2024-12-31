@@ -2306,3 +2306,5 @@ java.lang.ClassNotFoundException: it.unimi.dsi.fastutil.doubles.AbstractDoubleLi
 [31Dec2024 14:31:30.136] [Server thread/INFO] [tombstone/]: The player myser444 has successfully been saved
 [31Dec2024 14:32:08.421] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: myser444 blew up
 [31Dec2024 14:32:08.433] [Server thread/INFO] [tombstone/]: The player myser444 has successfully been saved
+[31Dec2024 14:41:43.120] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
+[31Dec2024 14:41:43.125] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sa<--[HERE]
