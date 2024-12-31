@@ -2310,3 +2310,5 @@ java.lang.ClassNotFoundException: it.unimi.dsi.fastutil.doubles.AbstractDoubleLi
 [31Dec2024 14:41:43.125] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sa<--[HERE]
 [31Dec2024 14:55:09.168] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: myser444 lost connection: Disconnected
 [31Dec2024 14:55:09.169] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: myser444 left the game
+[31Dec2024 15:45:47.156] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
+[31Dec2024 15:45:47.156] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: adasd<--[HERE]
