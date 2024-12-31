@@ -18070,9 +18070,63 @@
     },
     "done": true
   },
-  "ad_astra:recipes/misc/orange_industrial_lamp": {
+  "create:recipes/combat/crafting/appliances/netherite_diving_helmet": {
     "criteria": {
-      "has_orange_industrial_lamp": "2024-12-31 00:09:01 +0000"
+      "has_item": "2024-12-30 22:40:27 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/combat/crafting/appliances/netherite_diving_helmet_from_netherite": {
+    "criteria": {
+      "has_item": "2024-12-30 22:55:38 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/netherite_helmet_repairing": {
+    "criteria": {
+      "has_netherite_helmet": "2024-12-30 22:55:38 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/combat/crafting/appliances/netherite_backtank_from_netherite": {
+    "criteria": {
+      "has_item": "2024-12-30 22:55:43 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/netherite_chestplate_repairing": {
+    "criteria": {
+      "has_netherite_chestplate": "2024-12-30 22:55:43 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/netherite_leggings_repairing": {
+    "criteria": {
+      "has_netherite_leggings": "2024-12-30 22:55:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/netherite_armor": {
+    "criteria": {
+      "netherite_armor": "2024-12-30 22:55:46 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/netherite_boots_repairing": {
+    "criteria": {
+      "has_netherite_boots": "2024-12-30 22:55:46 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/combat/crafting/appliances/netherite_diving_boots_from_netherite": {
+    "criteria": {
+      "has_item": "2024-12-30 22:55:46 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:adventure/globe": {
+    "criteria": {
+      "unlock": "2024-12-30 23:03:16 +0000"
     },
     "done": true
   },
@@ -18082,21 +18136,15 @@
     },
     "done": true
   },
+  "betterarcheology:loot_vase_broken": {
+    "criteria": {
+      "criteria": "2024-12-30 23:33:24 +0000"
+    },
+    "done": true
+  },
   "mcwtrpdoors:recipes/bamboo/bamboo_barred_trapdoor": {
     "criteria": {
       "has_logs": "2024-12-30 23:34:42 +0000"
-    },
-    "done": true
-  },
-  "ad_astra:recipes/misc/small_orange_industrial_lamp": {
-    "criteria": {
-      "has_small_orange_industrial_lamp": "2024-12-31 00:09:01 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/combat/crafting/appliances/netherite_diving_helmet_from_netherite": {
-    "criteria": {
-      "has_item": "2024-12-30 22:55:38 +0000"
     },
     "done": true
   },
@@ -18112,33 +18160,9 @@
     },
     "done": true
   },
-  "betterarcheology:loot_vase_broken": {
-    "criteria": {
-      "criteria": "2024-12-30 23:33:24 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/mossy_cobblestone_stairs_from_mossy_cobblestone_stonecutting": {
-    "criteria": {
-      "has_mossy_cobblestone": "2024-12-30 23:57:29 +0000"
-    },
-    "done": true
-  },
   "mcwbridges:recipes/dry_bamboo_bridge_pier": {
     "criteria": {
       "has_planks": "2024-12-30 23:34:42 +0000"
-    },
-    "done": true
-  },
-  "supplementaries:recipes/candle_holders/candle_holder_orange_dye": {
-    "criteria": {
-      "forge:dyes/orange": "2024-12-31 00:09:01 +0000"
-    },
-    "done": true
-  },
-  "supplementaries:recipes/decorations/biomesoplenty/sign_post_mahogany": {
-    "criteria": {
-      "has_planks": "2024-12-31 00:16:32 +0000"
     },
     "done": true
   },
@@ -18148,57 +18172,15 @@
     },
     "done": true
   },
-  "mcwbridges:recipes/mossy_cobblestone_bridge_pier": {
-    "criteria": {
-      "has_planks": "2024-12-30 23:57:29 +0000"
-    },
-    "done": true
-  },
-  "biomesoplenty:recipes/building_blocks/mahogany_wood": {
-    "criteria": {
-      "has_log": "2024-12-31 00:16:29 +0000"
-    },
-    "done": true
-  },
-  "connectedglass:recipes/misc/borderless_glass_orange_pane2": {
-    "criteria": {
-      "recipe_condition2": "2024-12-31 00:09:01 +0000"
-    },
-    "done": true
-  },
-  "connectedglass:recipes/misc/scratched_glass_orange2": {
-    "criteria": {
-      "recipe_condition2": "2024-12-31 00:09:01 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/mossy_cobblestone_slab": {
-    "criteria": {
-      "has_mossy_cobblestone": "2024-12-30 23:57:29 +0000"
-    },
-    "done": true
-  },
   "mcwtrpdoors:recipes/bamboo/bamboo_paper_trapdoor": {
     "criteria": {
       "has_logs": "2024-12-30 23:34:42 +0000"
     },
     "done": true
   },
-  "biomesoplenty:recipes/building_blocks/mahogany_planks": {
-    "criteria": {
-      "has_logs": "2024-12-31 00:16:29 +0000"
-    },
-    "done": true
-  },
   "mcwtrpdoors:recipes/bamboo/bamboo_barn_trapdoor": {
     "criteria": {
       "has_logs": "2024-12-30 23:34:42 +0000"
-    },
-    "done": true
-  },
-  "mcwbridges:recipes/balustrade_mossy_cobblestone_bridge": {
-    "criteria": {
-      "has_planks": "2024-12-30 23:57:29 +0000"
     },
     "done": true
   },
@@ -18214,33 +18196,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/dye_orange_bed": {
-    "criteria": {
-      "has_needed_dye": "2024-12-31 00:09:01 +0000"
-    },
-    "done": true
-  },
-  "mcwpaths:recipes/mossy_cobblestone": {
-    "criteria": {
-      "has_wood": "2024-12-30 23:57:29 +0000"
-    },
-    "done": true
-  },
-  "securitycraft:recipes/building_blocks/reinforced_mossy_cobblestone_from_vanilla_moss": {
-    "criteria": {
-      "has_moss": "2024-12-30 23:46:02 +0000"
-    },
-    "done": true
-  },
   "mcwbridges:recipes/bamboo_bridge_pier": {
     "criteria": {
       "has_planks": "2024-12-30 23:34:42 +0000"
-    },
-    "done": true
-  },
-  "minecraft:husbandry/axolotl_in_a_bucket": {
-    "criteria": {
-      "axolotl_bucket": "2024-12-30 23:45:24 +0000"
     },
     "done": true
   },
@@ -18250,93 +18208,9 @@
     },
     "done": true
   },
-  "cfm:recipes/decorations/dye_orange_picket_fence": {
-    "criteria": {
-      "has_dye": "2024-12-31 00:09:01 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/orange_candle": {
-    "criteria": {
-      "has_orange_dye": "2024-12-31 00:09:01 +0000"
-    },
-    "done": true
-  },
-  "alexsmobs:alexsmobs/rattlesnake": {
-    "criteria": {
-      "killed": "2024-12-31 01:29:39 +0000"
-    },
-    "done": true
-  },
-  "biomesoplenty:recipes/redstone/mahogany_fence_gate": {
-    "criteria": {
-      "has_planks": "2024-12-31 00:16:32 +0000"
-    },
-    "done": true
-  },
-  "connectedglass:recipes/misc/scratched_glass_orange_pane2": {
-    "criteria": {
-      "recipe_condition2": "2024-12-31 00:09:01 +0000"
-    },
-    "done": true
-  },
-  "biomesoplenty:recipes/decorations/mahogany_sign": {
-    "criteria": {
-      "has_mahogany_planks": "2024-12-31 00:16:32 +0000"
-    },
-    "done": true
-  },
-  "mcwbridges:recipes/mossy_cobblestone_bridge": {
-    "criteria": {
-      "has_planks": "2024-12-30 23:57:29 +0000"
-    },
-    "done": true
-  },
-  "mcwbridges:recipes/mossy_stone_brick_bridge": {
-    "criteria": {
-      "has_planks": "2024-12-30 23:57:29 +0000"
-    },
-    "done": true
-  },
   "mcwtrpdoors:recipes/bamboo/bamboo_barrel_trapdoor": {
     "criteria": {
       "has_logs": "2024-12-30 23:34:42 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/mossy_cobblestone_wall": {
-    "criteria": {
-      "has_mossy_cobblestone": "2024-12-30 23:57:29 +0000"
-    },
-    "done": true
-  },
-  "mcwbridges:recipes/mossy_cobblestone_bridge_stair": {
-    "criteria": {
-      "has_planks": "2024-12-30 23:57:29 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/dye_orange_wool": {
-    "criteria": {
-      "has_needed_dye": "2024-12-31 00:09:01 +0000"
-    },
-    "done": true
-  },
-  "betterdungeons:all_dungeons": {
-    "criteria": {
-      "in_better_zombie_dungeon": "2024-12-30 23:59:57 +0000"
-    },
-    "done": false
-  },
-  "create:recipes/combat/crafting/appliances/netherite_diving_helmet": {
-    "criteria": {
-      "has_item": "2024-12-30 22:40:27 +0000"
-    },
-    "done": true
-  },
-  "biomesoplenty:recipes/building_blocks/mahogany_stairs": {
-    "criteria": {
-      "has_planks": "2024-12-31 00:16:32 +0000"
     },
     "done": true
   },
@@ -18352,99 +18226,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/mossy_cobblestone_wall_from_mossy_cobblestone_stonecutting": {
-    "criteria": {
-      "has_mossy_cobblestone": "2024-12-30 23:57:29 +0000"
-    },
-    "done": true
-  },
-  "supplementaries:adventure/globe": {
-    "criteria": {
-      "unlock": "2024-12-30 23:03:16 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/mossy_stone_bricks_from_moss_block": {
-    "criteria": {
-      "has_moss_block": "2024-12-30 23:46:02 +0000"
-    },
-    "done": true
-  },
-  "cfm:recipes/decorations/dye_orange_picket_gate": {
-    "criteria": {
-      "has_dye": "2024-12-31 00:09:01 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/brown_dye": {
-    "criteria": {
-      "has_cocoa_beans": "2024-12-31 00:08:43 +0000"
-    },
-    "done": true
-  },
-  "connectedglass:recipes/misc/tinted_borderless_glass_orange2": {
-    "criteria": {
-      "recipe_condition2": "2024-12-31 00:09:01 +0000"
-    },
-    "done": true
-  },
-  "aether:recipes/combat/netherite_helmet_repairing": {
-    "criteria": {
-      "has_netherite_helmet": "2024-12-30 22:55:38 +0000"
-    },
-    "done": true
-  },
-  "biomesoplenty:recipes/building_blocks/mahogany_slab": {
-    "criteria": {
-      "has_planks": "2024-12-31 00:16:32 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/cookie": {
-    "criteria": {
-      "has_cocoa": "2024-12-31 00:08:43 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/combat/crafting/appliances/netherite_backtank_from_netherite": {
-    "criteria": {
-      "has_item": "2024-12-30 22:55:43 +0000"
-    },
-    "done": true
-  },
-  "minecraft:nether/netherite_armor": {
-    "criteria": {
-      "netherite_armor": "2024-12-30 22:55:46 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/mossy_cobblestone_stairs": {
-    "criteria": {
-      "has_mossy_cobblestone": "2024-12-30 23:57:29 +0000"
-    },
-    "done": true
-  },
-  "biomesoplenty:recipes/decorations/mahogany_fence": {
-    "criteria": {
-      "has_planks": "2024-12-31 00:16:32 +0000"
-    },
-    "done": true
-  },
   "mcwtrpdoors:recipes/bamboo/bamboo_tropical_trapdoor": {
     "criteria": {
       "has_logs": "2024-12-30 23:34:42 +0000"
-    },
-    "done": true
-  },
-  "biomesoplenty:recipes/redstone/mahogany_pressure_plate": {
-    "criteria": {
-      "has_planks": "2024-12-31 00:16:32 +0000"
-    },
-    "done": true
-  },
-  "aether:recipes/combat/netherite_boots_repairing": {
-    "criteria": {
-      "has_netherite_boots": "2024-12-30 22:55:46 +0000"
     },
     "done": true
   },
@@ -18454,45 +18238,9 @@
     },
     "done": true
   },
-  "biomesoplenty:recipes/redstone/mahogany_button": {
-    "criteria": {
-      "has_planks": "2024-12-31 00:16:32 +0000"
-    },
-    "done": true
-  },
-  "betterdungeons:zombie_dungeon": {
-    "criteria": {
-      "in_better_zombie_dungeon": "2024-12-30 23:59:57 +0000"
-    },
-    "done": true
-  },
   "mcwbridges:recipes/bamboo_bridge": {
     "criteria": {
       "has_planks": "2024-12-30 23:34:42 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/mossy_cobblestone_slab_from_mossy_cobblestone_stonecutting": {
-    "criteria": {
-      "has_mossy_cobblestone": "2024-12-30 23:57:29 +0000"
-    },
-    "done": true
-  },
-  "securitycraft:recipes/building_blocks/reinforced_mossy_stone_bricks_from_vanilla_moss": {
-    "criteria": {
-      "has_moss": "2024-12-30 23:46:02 +0000"
-    },
-    "done": true
-  },
-  "aether:recipes/combat/netherite_chestplate_repairing": {
-    "criteria": {
-      "has_netherite_chestplate": "2024-12-30 22:55:43 +0000"
-    },
-    "done": true
-  },
-  "biomesoplenty:recipes/redstone/mahogany_door": {
-    "criteria": {
-      "has_planks": "2024-12-31 00:16:32 +0000"
     },
     "done": true
   },
@@ -18502,75 +18250,15 @@
     },
     "done": true
   },
-  "croptopia:recipes/chocolate": {
-    "criteria": {
-      "has_cocoa_beans": "2024-12-31 00:08:43 +0000"
-    },
-    "done": true
-  },
-  "aether:recipes/combat/netherite_leggings_repairing": {
-    "criteria": {
-      "has_netherite_leggings": "2024-12-30 22:55:45 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/dye_orange_carpet": {
-    "criteria": {
-      "has_needed_dye": "2024-12-31 00:09:01 +0000"
-    },
-    "done": true
-  },
-  "mcwfurnituresbop:recipes/mahogany": {
-    "criteria": {
-      "has_wood": "2024-12-31 00:16:29 +0000"
-    },
-    "done": true
-  },
   "mcwtrpdoors:recipes/bamboo/bamboo_four_panel_trapdoor": {
     "criteria": {
       "has_logs": "2024-12-30 23:34:42 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/mossy_cobblestone_from_moss_block": {
-    "criteria": {
-      "has_moss_block": "2024-12-30 23:46:02 +0000"
-    },
-    "done": true
-  },
-  "biomesoplenty:recipes/misc/orange_dye_from_orange_cosmos": {
-    "criteria": {
-      "has_flower": "2024-12-31 00:08:59 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/combat/crafting/appliances/netherite_diving_boots_from_netherite": {
-    "criteria": {
-      "has_item": "2024-12-30 22:55:46 +0000"
-    },
-    "done": true
-  },
-  "new_slab_variants:recipes/building_blocks/moss_block_slab": {
-    "criteria": {
-      "has_moss_block": "2024-12-30 23:46:02 +0000"
-    },
-    "done": true
-  },
-  "biomesoplenty:recipes/redstone/mahogany_trapdoor": {
-    "criteria": {
-      "has_planks": "2024-12-31 00:16:32 +0000"
-    },
-    "done": true
-  },
   "mcwtrpdoors:recipes/bamboo/bamboo_beach_trapdoor": {
     "criteria": {
       "has_logs": "2024-12-30 23:34:42 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/moss_carpet": {
-    "criteria": {
-      "has_moss_block": "2024-12-30 23:46:02 +0000"
     },
     "done": true
   },
@@ -18586,15 +18274,327 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/scaffolding": {
+    "criteria": {
+      "has_bamboo": "2024-12-30 23:34:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/axolotl_in_a_bucket": {
+    "criteria": {
+      "axolotl_bucket": "2024-12-30 23:45:24 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_mossy_cobblestone_from_vanilla_moss": {
+    "criteria": {
+      "has_moss": "2024-12-30 23:46:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_stone_bricks_from_moss_block": {
+    "criteria": {
+      "has_moss_block": "2024-12-30 23:46:02 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_mossy_stone_bricks_from_vanilla_moss": {
+    "criteria": {
+      "has_moss": "2024-12-30 23:46:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_from_moss_block": {
+    "criteria": {
+      "has_moss_block": "2024-12-30 23:46:02 +0000"
+    },
+    "done": true
+  },
+  "new_slab_variants:recipes/building_blocks/moss_block_slab": {
+    "criteria": {
+      "has_moss_block": "2024-12-30 23:46:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/moss_carpet": {
+    "criteria": {
+      "has_moss_block": "2024-12-30 23:46:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_stairs_from_mossy_cobblestone_stonecutting": {
+    "criteria": {
+      "has_mossy_cobblestone": "2024-12-30 23:57:29 +0000"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/mossy_cobblestone_bridge_pier": {
+    "criteria": {
+      "has_planks": "2024-12-30 23:57:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_slab": {
+    "criteria": {
+      "has_mossy_cobblestone": "2024-12-30 23:57:29 +0000"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/balustrade_mossy_cobblestone_bridge": {
+    "criteria": {
+      "has_planks": "2024-12-30 23:57:29 +0000"
+    },
+    "done": true
+  },
+  "mcwpaths:recipes/mossy_cobblestone": {
+    "criteria": {
+      "has_wood": "2024-12-30 23:57:29 +0000"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/mossy_cobblestone_bridge": {
+    "criteria": {
+      "has_planks": "2024-12-30 23:57:29 +0000"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/mossy_stone_brick_bridge": {
+    "criteria": {
+      "has_planks": "2024-12-30 23:57:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/mossy_cobblestone_wall": {
+    "criteria": {
+      "has_mossy_cobblestone": "2024-12-30 23:57:29 +0000"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/mossy_cobblestone_bridge_stair": {
+    "criteria": {
+      "has_planks": "2024-12-30 23:57:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/mossy_cobblestone_wall_from_mossy_cobblestone_stonecutting": {
+    "criteria": {
+      "has_mossy_cobblestone": "2024-12-30 23:57:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_stairs": {
+    "criteria": {
+      "has_mossy_cobblestone": "2024-12-30 23:57:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_slab_from_mossy_cobblestone_stonecutting": {
+    "criteria": {
+      "has_mossy_cobblestone": "2024-12-30 23:57:29 +0000"
+    },
+    "done": true
+  },
   "mcwbridges:recipes/mossy_stone_bridge_pier": {
     "criteria": {
       "has_planks": "2024-12-30 23:57:29 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/decorations/scaffolding": {
+  "betterdungeons:all_dungeons": {
     "criteria": {
-      "has_bamboo": "2024-12-30 23:34:42 +0000"
+      "in_better_zombie_dungeon": "2024-12-30 23:59:57 +0000"
+    },
+    "done": false
+  },
+  "betterdungeons:zombie_dungeon": {
+    "criteria": {
+      "in_better_zombie_dungeon": "2024-12-30 23:59:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/brown_dye": {
+    "criteria": {
+      "has_cocoa_beans": "2024-12-31 00:08:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cookie": {
+    "criteria": {
+      "has_cocoa": "2024-12-31 00:08:43 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/chocolate": {
+    "criteria": {
+      "has_cocoa_beans": "2024-12-31 00:08:43 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/misc/orange_dye_from_orange_cosmos": {
+    "criteria": {
+      "has_flower": "2024-12-31 00:08:59 +0000"
+    },
+    "done": true
+  },
+  "ad_astra:recipes/misc/orange_industrial_lamp": {
+    "criteria": {
+      "has_orange_industrial_lamp": "2024-12-31 00:09:01 +0000"
+    },
+    "done": true
+  },
+  "ad_astra:recipes/misc/small_orange_industrial_lamp": {
+    "criteria": {
+      "has_small_orange_industrial_lamp": "2024-12-31 00:09:01 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/candle_holders/candle_holder_orange_dye": {
+    "criteria": {
+      "forge:dyes/orange": "2024-12-31 00:09:01 +0000"
+    },
+    "done": true
+  },
+  "connectedglass:recipes/misc/borderless_glass_orange_pane2": {
+    "criteria": {
+      "recipe_condition2": "2024-12-31 00:09:01 +0000"
+    },
+    "done": true
+  },
+  "connectedglass:recipes/misc/scratched_glass_orange2": {
+    "criteria": {
+      "recipe_condition2": "2024-12-31 00:09:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_orange_bed": {
+    "criteria": {
+      "has_needed_dye": "2024-12-31 00:09:01 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/dye_orange_picket_fence": {
+    "criteria": {
+      "has_dye": "2024-12-31 00:09:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/orange_candle": {
+    "criteria": {
+      "has_orange_dye": "2024-12-31 00:09:01 +0000"
+    },
+    "done": true
+  },
+  "connectedglass:recipes/misc/scratched_glass_orange_pane2": {
+    "criteria": {
+      "recipe_condition2": "2024-12-31 00:09:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_orange_wool": {
+    "criteria": {
+      "has_needed_dye": "2024-12-31 00:09:01 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/dye_orange_picket_gate": {
+    "criteria": {
+      "has_dye": "2024-12-31 00:09:01 +0000"
+    },
+    "done": true
+  },
+  "connectedglass:recipes/misc/tinted_borderless_glass_orange2": {
+    "criteria": {
+      "recipe_condition2": "2024-12-31 00:09:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_orange_carpet": {
+    "criteria": {
+      "has_needed_dye": "2024-12-31 00:09:01 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/building_blocks/mahogany_wood": {
+    "criteria": {
+      "has_log": "2024-12-31 00:16:29 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/building_blocks/mahogany_planks": {
+    "criteria": {
+      "has_logs": "2024-12-31 00:16:29 +0000"
+    },
+    "done": true
+  },
+  "mcwfurnituresbop:recipes/mahogany": {
+    "criteria": {
+      "has_wood": "2024-12-31 00:16:29 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/decorations/biomesoplenty/sign_post_mahogany": {
+    "criteria": {
+      "has_planks": "2024-12-31 00:16:32 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/redstone/mahogany_fence_gate": {
+    "criteria": {
+      "has_planks": "2024-12-31 00:16:32 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/decorations/mahogany_sign": {
+    "criteria": {
+      "has_mahogany_planks": "2024-12-31 00:16:32 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/building_blocks/mahogany_stairs": {
+    "criteria": {
+      "has_planks": "2024-12-31 00:16:32 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/building_blocks/mahogany_slab": {
+    "criteria": {
+      "has_planks": "2024-12-31 00:16:32 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/decorations/mahogany_fence": {
+    "criteria": {
+      "has_planks": "2024-12-31 00:16:32 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/redstone/mahogany_pressure_plate": {
+    "criteria": {
+      "has_planks": "2024-12-31 00:16:32 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/redstone/mahogany_button": {
+    "criteria": {
+      "has_planks": "2024-12-31 00:16:32 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/redstone/mahogany_door": {
+    "criteria": {
+      "has_planks": "2024-12-31 00:16:32 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/redstone/mahogany_trapdoor": {
+    "criteria": {
+      "has_planks": "2024-12-31 00:16:32 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/rattlesnake": {
+    "criteria": {
+      "killed": "2024-12-31 01:29:39 +0000"
     },
     "done": true
   },
