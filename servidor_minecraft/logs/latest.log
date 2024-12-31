@@ -2115,3 +2115,6 @@ java.lang.ClassNotFoundException: it.unimi.dsi.fastutil.doubles.AbstractDoubleLi
 [31Dec2024 17:42:50.741] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/animal/IronGolem$Crackiness
 [31Dec2024 17:48:47.324] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/refinedmods/refinedstorage/container/transfer/InsertionResultType
 [31Dec2024 17:53:15.489] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraftforge/event/entity/ProjectileImpactEvent$ImpactResult
+[31Dec2024 18:06:51.155] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting mekanism/common/tile/base/WrenchResult
+[31Dec2024 18:06:51.180] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting mekanism/common/inventory/container/sync/ISyncableData$DirtyType
+[31Dec2024 18:10:12.133] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/github/alexthe666/alexsmobs/entity/util/TerrapinTypes
