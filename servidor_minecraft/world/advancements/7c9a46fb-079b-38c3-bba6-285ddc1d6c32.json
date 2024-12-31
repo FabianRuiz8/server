@@ -18604,9 +18604,27 @@
     },
     "done": true
   },
+  "ad_astra:recipes/misc/desh_factory_block": {
+    "criteria": {
+      "has_desh_factory_block": "2024-12-31 14:03:41 +0000"
+    },
+    "done": true
+  },
   "ad_astra:recipes/misc/smelting/desh_ingot_from_smelting_raw_desh": {
     "criteria": {
       "has_desh_ingot": "2024-12-31 13:44:36 +0000"
+    },
+    "done": true
+  },
+  "ad_astra:recipes/misc/desh_block": {
+    "criteria": {
+      "has_desh_block": "2024-12-31 13:54:50 +0000"
+    },
+    "done": true
+  },
+  "ad_astra:recipes/misc/desh_fluid_pipe": {
+    "criteria": {
+      "has_desh_fluid_pipe": "2024-12-31 14:03:41 +0000"
     },
     "done": true
   },
@@ -18622,15 +18640,57 @@
     },
     "done": true
   },
+  "ad_astra:recipes/compressing/compressing/desh_plate_from_compressing_desh_ingots": {
+    "criteria": {
+      "has_item": "2024-12-31 13:54:50 +0000"
+    },
+    "done": true
+  },
+  "ad_astra:recipes/misc/solar_panel": {
+    "criteria": {
+      "has_solar_panel": "2024-12-31 14:03:41 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/misc/scanner_door_item": {
     "criteria": {
       "has_reinforced_door": "2024-12-31 13:27:10 +0000"
     },
     "done": true
   },
+  "ad_astra:recipes/misc/desh_panel": {
+    "criteria": {
+      "has_desh_panel": "2024-12-31 14:03:41 +0000"
+    },
+    "done": true
+  },
+  "ad_astra:recipes/misc/encased_desh_block": {
+    "criteria": {
+      "has_encased_desh_block": "2024-12-31 14:03:41 +0000"
+    },
+    "done": true
+  },
   "ad_astra:recipes/misc/smelting/moon_stone_from_smelting_moon_cobblestone": {
     "criteria": {
       "has_moon_stone": "2024-12-31 13:44:44 +0000"
+    },
+    "done": true
+  },
+  "ad_astra:recipes/misc/desh_engine": {
+    "criteria": {
+      "has_desh_engine": "2024-12-31 14:03:41 +0000"
+    },
+    "done": true
+  },
+  "ad_astra:recipes/misc/gravity_normalizer": {
+    "criteria": {
+      "has_gravity_normalizer": "2024-12-31 14:03:41 +0000"
+    },
+    "done": true
+  },
+  "ad_astra:recipes/misc/desh_tank": {
+    "criteria": {
+      "has_desh_tank": "2024-12-31 14:03:41 +0000"
     },
     "done": true
   },
@@ -18646,6 +18706,24 @@
     },
     "done": true
   },
+  "ad_astra:recipes/misc/fluid_pipe_duct": {
+    "criteria": {
+      "has_fluid_pipe_duct": "2024-12-31 14:03:41 +0000"
+    },
+    "done": true
+  },
+  "ad_astra:recipes/misc/desh_nugget": {
+    "criteria": {
+      "has_desh_nugget": "2024-12-31 13:54:50 +0000"
+    },
+    "done": true
+  },
+  "ad_astra:recipes/misc/desh_plateblock": {
+    "criteria": {
+      "has_desh_plateblock": "2024-12-31 14:03:41 +0000"
+    },
+    "done": true
+  },
   "ad_astra:recipes/misc/moon_cobblestone_slab": {
     "criteria": {
       "has_moon_cobblestone_slab": "2024-12-31 13:44:44 +0000"
@@ -18658,6 +18736,24 @@
     },
     "done": true
   },
+  "ad_astra:recipes/misc/desh_plating": {
+    "criteria": {
+      "has_desh_plating": "2024-12-31 14:03:41 +0000"
+    },
+    "done": true
+  },
+  "ad_astra:recipes/misc/desh_cable": {
+    "criteria": {
+      "has_desh_cable": "2024-12-31 14:03:41 +0000"
+    },
+    "done": true
+  },
+  "ad_astra:recipes/misc/desh_sliding_door": {
+    "criteria": {
+      "has_desh_sliding_door": "2024-12-31 14:03:41 +0000"
+    },
+    "done": true
+  },
   "ad_astra:recipes/misc/moon_cobblestone_stairs": {
     "criteria": {
       "has_moon_cobblestone_stairs": "2024-12-31 13:44:44 +0000"
@@ -18667,6 +18763,24 @@
   "ad_astra:recipes/misc/raw_desh_block": {
     "criteria": {
       "has_raw_desh_block": "2024-12-31 13:44:36 +0000"
+    },
+    "done": true
+  },
+  "ad_astra:recipes/misc/oxygen_distributor": {
+    "criteria": {
+      "has_oxygen_distributor": "2024-12-31 14:03:41 +0000"
+    },
+    "done": true
+  },
+  "ad_astra:recipes/misc/water_pump": {
+    "criteria": {
+      "has_water_pump": "2024-12-31 14:03:41 +0000"
+    },
+    "done": true
+  },
+  "ad_astra:recipes/misc/photovoltaic_etrium_cell": {
+    "criteria": {
+      "has_photovoltaic_etrium_cell": "2024-12-31 14:03:41 +0000"
     },
     "done": true
   },

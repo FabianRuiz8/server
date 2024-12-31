@@ -2234,3 +2234,53 @@ java.lang.ClassNotFoundException: it.unimi.dsi.fastutil.doubles.AbstractDoubleLi
 [31Dec2024 13:53:34.422] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/github/L_Ender/lionfishapi/server/animation/AnimationHandler
 [31Dec2024 13:54:17.076] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting mekanism/common/tile/base/WrenchResult
 [31Dec2024 13:54:17.100] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting mekanism/common/inventory/container/sync/ISyncableData$DirtyType
+[31Dec2024 13:54:45.544] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=6147, y=68, z=-357} BlockPos{x=6147, y=68, z=-359}
+[31Dec2024 13:54:46.444] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=6146, y=68, z=-356} BlockPos{x=6147, y=68, z=-357}
+[31Dec2024 13:54:46.476] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=6146, y=68, z=-356} BlockPos{x=6147, y=68, z=-357}
+[31Dec2024 13:54:46.527] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=6146, y=68, z=-356} BlockPos{x=6147, y=68, z=-357}
+[31Dec2024 13:54:46.827] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=6145, y=68, z=-355} BlockPos{x=6146, y=68, z=-355}
+[31Dec2024 13:54:46.943] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=6145, y=68, z=-355} BlockPos{x=6146, y=68, z=-355}
+[31Dec2024 13:54:47.281] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=6144, y=68, z=-355} BlockPos{x=6145, y=68, z=-355}
+[31Dec2024 13:54:47.987] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=6143, y=68, z=-354} BlockPos{x=6144, y=68, z=-354}
+[31Dec2024 13:54:48.194] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=6142, y=68, z=-354} BlockPos{x=6143, y=68, z=-354}
+[31Dec2024 13:54:49.029] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=6141, y=68, z=-354} BlockPos{x=6142, y=68, z=-354}
+[31Dec2024 13:54:52.830] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=6139, y=68, z=-355} BlockPos{x=6139, y=68, z=-354}
+[31Dec2024 13:54:52.831] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=6139, y=68, z=-355} BlockPos{x=6139, y=69, z=-355}
+[31Dec2024 13:54:52.832] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=6139, y=68, z=-355} BlockPos{x=6139, y=69, z=-355}
+[31Dec2024 13:54:52.832] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=6139, y=68, z=-355} BlockPos{x=6139, y=69, z=-355}
+[31Dec2024 13:54:52.832] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=6139, y=68, z=-355} BlockPos{x=6139, y=69, z=-355}
+[31Dec2024 13:54:52.832] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=6139, y=68, z=-355} BlockPos{x=6139, y=69, z=-355}
+[31Dec2024 13:54:53.828] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=6138, y=69, z=-357} BlockPos{x=6138, y=69, z=-356}
+[31Dec2024 13:54:53.841] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=6138, y=69, z=-357} BlockPos{x=6138, y=69, z=-356}
+[31Dec2024 13:54:53.932] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=6138, y=69, z=-358} BlockPos{x=6138, y=69, z=-356}
+[31Dec2024 13:54:54.027] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=6138, y=69, z=-358} BlockPos{x=6138, y=69, z=-356}
+[31Dec2024 13:54:54.028] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=6138, y=69, z=-359} BlockPos{x=6138, y=69, z=-356}
+[31Dec2024 13:54:54.034] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=6138, y=69, z=-359} BlockPos{x=6138, y=69, z=-356}
+[31Dec2024 13:54:54.080] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=6138, y=69, z=-359} BlockPos{x=6138, y=69, z=-356}
+[31Dec2024 13:55:01.830] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=6139, y=69, z=-364} BlockPos{x=6139, y=69, z=-365}
+[31Dec2024 13:55:01.880] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=6139, y=69, z=-364} BlockPos{x=6139, y=69, z=-365}
+[31Dec2024 13:55:02.141] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=6138, y=69, z=-364} BlockPos{x=6139, y=69, z=-364}
+[31Dec2024 13:55:02.531] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=6140, y=69, z=-365} BlockPos{x=6139, y=69, z=-364}
+[31Dec2024 13:55:02.826] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=6141, y=69, z=-365} BlockPos{x=6140, y=69, z=-365}
+[31Dec2024 13:55:18.877] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=6138, y=69, z=-363} BlockPos{x=6138, y=70, z=-363}
+[31Dec2024 13:55:18.878] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=6138, y=69, z=-363} BlockPos{x=6138, y=70, z=-363}
+[31Dec2024 13:55:19.031] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=6138, y=69, z=-363} BlockPos{x=6138, y=70, z=-363}
+[31Dec2024 13:55:19.097] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=6138, y=69, z=-363} BlockPos{x=6138, y=70, z=-363}
+[31Dec2024 13:55:31.828] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=6142, y=68, z=-365} BlockPos{x=6143, y=68, z=-365}
+[31Dec2024 13:55:32.977] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=6142, y=68, z=-365} BlockPos{x=6143, y=68, z=-365}
+[31Dec2024 13:58:44.478] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: joselete123 burned to death
+[31Dec2024 13:58:44.486] [Server thread/INFO] [tombstone/]: The player joselete123 has successfully been saved
+[31Dec2024 14:00:07.276] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VeinGoblinTrader['chetado'/16064, l='ServerLevel[world]', x=6121.25, y=66.00, z=-364.75] died: chetado was slain by DeferentCurve07
+[31Dec2024 14:02:37.053] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [joselete123: Set the time to 1000]
+[31Dec2024 14:03:03.525] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: marquitosTPMS lost connection: Disconnected
+[31Dec2024 14:03:03.526] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: marquitosTPMS left the game
+[31Dec2024 14:04:36.928] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: DeferentCurve07 moved too quickly! -8.220985983138235,0.0,-5.9793255386848045
+[31Dec2024 14:05:00.788] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lander (vehicle of joselete123) moved too quickly! 7.0,28.726766202540375,0.0
+[31Dec2024 14:05:00.789] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lander (vehicle of joselete123) moved too quickly! 7.0,29.68176548251631,0.0
+[31Dec2024 14:05:00.789] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lander (vehicle of joselete123) moved too quickly! 7.0,30.63676476249225,0.0
+[31Dec2024 14:05:00.789] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lander (vehicle of joselete123) moved too quickly! 7.0,31.591764042468185,0.0
+[31Dec2024 14:05:00.790] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lander (vehicle of joselete123) moved too quickly! 7.0,32.54676332244412,0.0
+[31Dec2024 14:05:00.790] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lander (vehicle of joselete123) moved too quickly! 7.0,33.50176260242006,0.0
+[31Dec2024 14:05:33.928] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lander (vehicle of joselete123) moved too quickly! 0.0,-10.679869964599618,0.0
+[31Dec2024 14:07:01.364] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: DeferentCurve07 lost connection: Disconnected
+[31Dec2024 14:07:01.365] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DeferentCurve07 left the game
