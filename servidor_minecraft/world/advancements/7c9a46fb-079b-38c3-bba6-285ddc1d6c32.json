@@ -18598,9 +18598,39 @@
     },
     "done": true
   },
+  "ad_astra:recipes/misc/polished_moon_stone": {
+    "criteria": {
+      "has_polished_moon_stone": "2024-12-31 13:44:44 +0000"
+    },
+    "done": true
+  },
+  "ad_astra:recipes/misc/smelting/desh_ingot_from_smelting_raw_desh": {
+    "criteria": {
+      "has_desh_ingot": "2024-12-31 13:44:36 +0000"
+    },
+    "done": true
+  },
+  "ad_astra:recipes/misc/stonecutting/moon_cobblestone_slab_from_moon_cobblestone_stonecutting": {
+    "criteria": {
+      "has_moon_cobblestone_slab": "2024-12-31 13:44:44 +0000"
+    },
+    "done": true
+  },
+  "ad_astra:recipes/misc/stonecutting/moon_cobblestone_stairs_from_moon_cobblestone_stonecutting": {
+    "criteria": {
+      "has_moon_cobblestone_stairs": "2024-12-31 13:44:44 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/misc/scanner_door_item": {
     "criteria": {
       "has_reinforced_door": "2024-12-31 13:27:10 +0000"
+    },
+    "done": true
+  },
+  "ad_astra:recipes/misc/smelting/moon_stone_from_smelting_moon_cobblestone": {
+    "criteria": {
+      "has_moon_stone": "2024-12-31 13:44:44 +0000"
     },
     "done": true
   },
@@ -18613,6 +18643,30 @@
   "securitycraft:recipes/redstone/keypad_door_item": {
     "criteria": {
       "has_reinforced_door": "2024-12-31 13:27:10 +0000"
+    },
+    "done": true
+  },
+  "ad_astra:recipes/misc/moon_cobblestone_slab": {
+    "criteria": {
+      "has_moon_cobblestone_slab": "2024-12-31 13:44:44 +0000"
+    },
+    "done": true
+  },
+  "ad_astra:recipes/misc/blasting/desh_ingot_from_blasting_raw_desh": {
+    "criteria": {
+      "has_desh_ingot": "2024-12-31 13:44:36 +0000"
+    },
+    "done": true
+  },
+  "ad_astra:recipes/misc/moon_cobblestone_stairs": {
+    "criteria": {
+      "has_moon_cobblestone_stairs": "2024-12-31 13:44:44 +0000"
+    },
+    "done": true
+  },
+  "ad_astra:recipes/misc/raw_desh_block": {
+    "criteria": {
+      "has_raw_desh_block": "2024-12-31 13:44:36 +0000"
     },
     "done": true
   },

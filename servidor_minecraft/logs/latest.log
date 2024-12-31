@@ -2222,3 +2222,15 @@ java.lang.ClassNotFoundException: it.unimi.dsi.fastutil.doubles.AbstractDoubleLi
 [31Dec2024 13:43:00.502] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=6153, y=63, z=-302} BlockPos{x=6157, y=63, z=-302}
 [31Dec2024 13:43:34.429] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: marquitosTPMS burned to death
 [31Dec2024 13:43:34.447] [Server thread/INFO] [tombstone/]: The player marquitosTPMS has successfully been saved
+[31Dec2024 13:47:48.858] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Lunarian['Lunarian'/12435, l='ServerLevel[world]', x=6520.60, y=88.56, z=-735.38] died, message: 'Lunarian was pricked to death'
+[31Dec2024 13:48:04.299] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=6127, y=67, z=-387} BlockPos{x=6127, y=66, z=-386}
+[31Dec2024 13:48:15.348] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=6130, y=69, z=-387} BlockPos{x=6129, y=68, z=-386}
+[31Dec2024 13:48:15.458] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Reinforced Sand'/12973, l='ServerLevel[world]', x=6130.50, y=71.00, z=-386.50]
+[31Dec2024 13:48:15.906] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Reinforced Sand'/12982, l='ServerLevel[world]', x=6131.50, y=71.00, z=-386.50]
+[31Dec2024 13:50:29.306] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Reinforced Sand'/13842, l='ServerLevel[world]', x=6148.50, y=66.00, z=-374.50]
+[31Dec2024 13:52:08.363] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lander (vehicle of joselete123) moved too quickly! 34.5,103.56531885691629,133.5
+[31Dec2024 13:52:08.364] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lander (vehicle of joselete123) moved too quickly! 34.5,104.56204853408678,133.5
+[31Dec2024 13:52:43.242] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [joselete123: Set the time to 1000]
+[31Dec2024 13:53:34.422] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/github/L_Ender/lionfishapi/server/animation/AnimationHandler
+[31Dec2024 13:54:17.076] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting mekanism/common/tile/base/WrenchResult
+[31Dec2024 13:54:17.100] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting mekanism/common/inventory/container/sync/ISyncableData$DirtyType
