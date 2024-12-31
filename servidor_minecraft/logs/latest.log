@@ -2284,3 +2284,19 @@ java.lang.ClassNotFoundException: it.unimi.dsi.fastutil.doubles.AbstractDoubleLi
 [31Dec2024 14:05:33.928] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lander (vehicle of joselete123) moved too quickly! 0.0,-10.679869964599618,0.0
 [31Dec2024 14:07:01.364] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: DeferentCurve07 lost connection: Disconnected
 [31Dec2024 14:07:01.365] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DeferentCurve07 left the game
+[31Dec2024 14:20:19.821] [Netty Epoll Server IO #2/ERROR] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channels [create_ultimate_factory:create_ultimate_factory] rejected their client side version number
+[31Dec2024 14:20:19.822] [Netty Epoll Server IO #2/ERROR] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Terminating connection with client, mismatched mod list
+[31Dec2024 14:20:19.870] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@63962b9[id=<null>,name=myser444,properties={},legacy=false] (/127.148.57.27:51107) lost connection: Connection closed - mismatched mod channel list
+[31Dec2024 14:21:03.928] [Netty Epoll Server IO #3/ERROR] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channels [create_ultimate_factory:create_ultimate_factory] rejected their client side version number
+[31Dec2024 14:21:03.928] [Netty Epoll Server IO #3/ERROR] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Terminating connection with client, mismatched mod list
+[31Dec2024 14:21:03.970] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@3e744d08[id=<null>,name=myser444,properties={},legacy=false] (/127.148.57.27:48423) lost connection: Connection closed - mismatched mod channel list
+[31Dec2024 14:22:45.843] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: myser444[/127.148.57.27:35505] logged in with entity id 25865 at (6122.431082626598, 77.0, -377.44326021296035)
+[31Dec2024 14:22:45.848] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to myser444
+[31Dec2024 14:22:45.849] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to myser444
+[31Dec2024 14:22:45.849] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to myser444
+[31Dec2024 14:22:45.850] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to myser444
+[31Dec2024 14:22:45.852] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to myser444
+[31Dec2024 14:22:45.855] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to myser444
+[31Dec2024 14:22:45.855] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to myser444
+[31Dec2024 14:22:45.902] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: myser444 joined the game
+[31Dec2024 14:22:45.965] [Server thread/INFO] [Jade/]: Syncing config to myser444 (bf99e74b-a15b-39e5-b20b-a65e6dee0df2)
